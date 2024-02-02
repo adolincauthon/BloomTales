@@ -1,0 +1,188 @@
+[
+  {
+    "bigscience/bloom-560m": {
+      "top_p": {
+        "response": [
+          "Once upon a time  when there were many foreign treaties that I had accepted, when several of them had already expired, and where several of those treaties had been written by them, my dear friend innocently accepted them, although he made no claim to them, being only an honorary member of Parliament, and his lawyer had promised to dismiss him if he accepted any of those treaties. I find it all so pathetic, that I want to say nothing at all against those treaties. But I do not say that the second breach of the United States Constitution is so ridiculous, for I have seen millions of men innocent and loyal so violently in the one extremity of a country which has so long foregone the last principle of justice and equality.  I had a much greater disturbance that day; and I declare it to be so violent that I shall not believe that there is such an extraordinary thing as a secret crime, which, even by a man who was so impolite to his mother, he was not yet aware of. This is a very common thing. I often hear of such things, when I see children in this "
+        ],
+        "ttr": [0.5770925110132159],
+        "perplexity": [3223.69],
+        "mean_perplexity": 3223.69,
+        "mean_ttr": 0.58
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  we are not forrest, but for an ever-changing sea of fire, so our soul swell it with its joy._ 3  No stone of fire can stand, nor can the mountains sustain the gust of the forge, nor the breeze nor the waves of the sea.  Their searing heat, and the fire which they produce, do not penetrate the depth of the earth, but spread unintelligently, and leave their palms to the sun, and their roses in the air.  As the mountains rise into the sun, they fade from the view with the flow of the air.  The warmth of the fire produces the beauty of the sea, which is more varied than ever, and yet still more beautiful, than would have suited one to himself.  Then the wind was at his stroke, and the air fell full on the sun, and he sprang in raging fury, and drove it towards the west.  The spectacle was magnificent.  Over the horizon the gloom of death and the whiteness of the sea blazed in the sunlight.  Against the horizon the sky was covered with smoke, which melted as fire.  The stormed mountain was whirling up, and within a few "
+        ],
+        "ttr": [0.5568627450980392],
+        "perplexity": [2968.78],
+        "mean_perplexity": 2968.78,
+        "mean_ttr": 0.56
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  as long as  the time has passed  yet in the same place  still I shall be there  waiting  for your heart to grow  to be strong enough to bear the pain of being loved  and loved to be  like a flower  until one day  one of your leaves is gone  and it will be torn from your hand  and you will cry  but I will keep the rose alive. A day after she has left her husband, she is seen by her husband at her house and his daughter and he exclaims that he has fallen in love. Maureen is the first to say she has fallen in love, but that she has never felt the love of a husband. She has fallen in love, and she is so angry that she throws herself into the pool, because her love for him was wrong. He sees her face and he makes love to her. A few days later, when he sees her at his house, he tells her that he has fallen in love and he has said it is true. A couple of months later, he goes to meet the girl at the park. He "
+        ],
+        "ttr": [0.46120689655172414],
+        "perplexity": [3026.06],
+        "mean_perplexity": 3026.06,
+        "mean_ttr": 0.46
+      }
+    }
+  },
+  {
+    "bigscience/bloom-1b1": {
+      "top_p": {
+        "response": [
+          "Once upon a time  one of them told me I had to live my life on a farm. And that, my dear... I can... I'll see you at home. Don't bother. Thanks for this. I'm sorry about this, Brian. Can you believe it? We're not even out here by ourselves. And what kind of pig in the world could make that mistake? Just keep going! And watch the road! Yeah. Got it. Hey, look who's here. It's me. I'm back home. I'll see you later, yeah? Now. I'll call you later. - I'm sorry. - Never mind. I've been thinking. A lot about... Come in. I was going to ask you to come in, but I thought, maybe if you had to... So I just came over to ask you... - Did you want to come in? - I mean, I want to come. I just wanted to talk to you about something. Oh, yeah. About me. You know, with just knowing you, I guess. I was... I was really tired of all the arguments that we had, and now I can't even face the fact that we're going to have children, which, as I told you, is kind of a problem. It was "
+        ],
+        "ttr": [0.4980392156862745],
+        "perplexity": [1329.72],
+        "mean_perplexity": 1329.72,
+        "mean_ttr": 0.5
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  someone somewhere stood beside a tree   at midday. The tree was a fir, of course. How's the time of year now? June. June? What's the matter, Mowgli? It's not summer. It can be, and it is, and it will be every other year. The grass is stale, the tree is ripe, but the sun will be strong, and with it will be spring. Mowgli... Now, don't worry. It's natural that when a tree is ripe there should be  new foliage rolling around it. But the new foliage lies on top of, well, on top of the old one! And the new foliage has already reached its full height. There's no such thing as a new season for any tree! I see. So do I. Perhaps I have soared through the sky. - Have you? - No! - You have not? - No! - You have not? - No! But you will climb the Tree of Life. How? - I want to climb it. - You don't believe me? Perhaps I will. Mowgli, when are you gonna find a place to rest? Okay, one. Where did you first find me? When I was young, I went to hunting in the woods. I'm not sure if "
+        ],
+        "ttr": [0.48375451263537905],
+        "perplexity": [1269.72],
+        "mean_perplexity": 1269.72,
+        "mean_ttr": 0.48
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  I was a snail named Sally  in the sea with a lot of fun  and lots of love  and lots of love and plenty of love  and lots of love and lots of love  and lots of love and lots of love  and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots "
+        ],
+        "ttr": [0.10138248847926268],
+        "perplexity": [918.85],
+        "mean_perplexity": 918.85,
+        "mean_ttr": 0.1
+      }
+    }
+  },
+  {
+    "bigscience/bloom-1b7": {
+      "top_p": {
+        "response": [
+          "Once upon a time  when I had this place. Wake up, Mr. Crane! Wake up, Mr. Crane! Help me! Help me! Someone help me! He's dead! He's dead! We can't make it! - Give me your hand! - No, I have to put my hand in it. I can't help it. I can't help it. - No, no, no! - Yes! Yes! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! You're dead! You're dead! We're stuck here. No! We're stuck here! No! We're stuck here! No! We're stuck here! Help me! Help me! Help me! Help me! Please! You can't stay here! You can't stay here! Please! Help me! Help me! Come on! Come on! I'm so sorry. I was lying to you, didn't I? I had a child. I was planning to adopt him, but they took him away. How do you feel? I think I've already forgiven you. Forgiven? How does that make me feel? It makes me feel so much better. I feel alive again. Wake up. I'm alive! Help! Help! We gotta get out of here. Come on. Come on. Go on, take your clothes off. I'm not going to tell you again. Don't be afraid. I don't want you to be "
+        ],
+        "ttr": [0.35106382978723405],
+        "perplexity": [697.09],
+        "mean_perplexity": 697.09,
+        "mean_ttr": 0.35
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  there was little more you could tell The truth was there... but it still felt wrong She knew I just wasn't used to that truth I told myself... I don't have to say it anymore It had nothing to do with me She's been around, she'd already known it It'd be her turn she's on my side It's not for me to... She's been around, she'd already known it It'd be her turn she's on my side It's not for me to... Say it goodbye I told myself...I don't have to say it anymore It had nothing to do with me She's been around, she'd already known it It'd be her turn she's on my side It's not for me to... She's been around, she'd already known it It'd be her turn she's on my side It's not for me to... She's been around, she'd already known it It'd be her turn she's on my side It's not for me to. Let's hope you're still in love with me. See, they say there's no hard feelings between friends And I'll agree with her but I haven't quite figured out what to say Cause I see this "
+        ],
+        "ttr": [0.3799126637554585],
+        "perplexity": [559.67],
+        "mean_perplexity": 559.67,
+        "mean_ttr": 0.38
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  in a small village on the edge of the forest there lived a king. The king had a son and a daughter, they were both beautiful and clever. Once, the king was preparing for a grand banquet. The king made a special feast. It was a wonderful feast. He made the best meal ever. But the king was having such a nice time. But the king had a bad temper. The daughter and the son of the king had never seen such a good meal. But the king had the same bad temper. They had never seen such a good meal. The king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. "
+        ],
+        "ttr": [0.24778761061946902],
+        "perplexity": [514.07],
+        "mean_perplexity": 514.07,
+        "mean_ttr": 0.25
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-560m": {
+      "top_p": {
+        "response": [
+          "Once upon a time  this had all turned out so perfectly that it looked very pretty great to see, and the King changed and said that this was what was really beautiful. When it looked like something that was lost, everyone thought, Oh no! But after looking at this like a perfectly nice container for our book, I had no idea what had happened. Every day I returned to that little container for a day, and looked at it again and again until I found it perfectly it had stopped appearing. After that, my book had suddenly disappeared. A day later, I returned to it and looked again and again, but the container stopped appearing. I looked up and was surprised at how much it had changed and the pattern had grown up. The artist I painted it, Noemia, who had been so great to me for years, had just died. It had become one of the shapes that I was doing. Now it was a shape I knew. But to use it as my work was to show my love for Noemia and to make it real. At first I was very disgusted with the container, but now I "
+        ],
+        "ttr": [0.47161572052401746],
+        "perplexity": [5939.88],
+        "mean_perplexity": 5939.88,
+        "mean_ttr": 0.47
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  Lord Muir is about to be cast like a stone in the void of time and earth. a wave of action was seen ahead as the time had even began. She would only serve to weaken time, which is the reality of the entire system as this planet was in exultant and dynamic expansion at their point in time. She could only do so as a moment. Lord Muir was now in effect a permanent time entity. No action taken would therefore be needed either in this case or later that year. Yet what...what does time feel like? Answer not in context? Answer not in context? Answer not in context? No action taken would therefore be needed either in this case or later that year. Yet what does time feel like? The reality of the entire system as this planet was in exultant and dynamic expansion at their point in time. It could only do so as a moment. Lord Muir was now in effect a permanent time entity. No action taken would therefore be needed either in this case or later that year. Yet what does time feel like? The reality of the entire system "
+        ],
+        "ttr": [0.3565217391304348],
+        "perplexity": [6090.97],
+        "mean_perplexity": 6090.97,
+        "mean_ttr": 0.36
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  when  the person  took a job or earned money  in  trade  in the first half of the century, there was a period of economic growth . Then there was a period of falling economic growth , but that is very often a sign that the current cycle is a failure . A recession was another sign that the current cycle was not a failure . The recession is another signal that the current cycle was not a failure . The recession is another sign that the current cycle was not a failure . They are the same signs . The signs that the current cycle is a failure can be grouped in five areas . The recession is another indication that the current cycle is not a failure . The recession is another indication that the current cycle is not a failure . The recession is another indication that the current cycle is not a failure . They are very similar signs . In the following year there will be another recession . However , in the next year the recession will be very different . This is the most recent recession . It may be the first real recession in history . And it may not be the first real recession in "
+        ],
+        "ttr": [0.31555555555555553],
+        "perplexity": [5632.75],
+        "mean_perplexity": 5632.75,
+        "mean_ttr": 0.32
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b1": {
+      "top_p": {
+        "response": [
+          "Once upon a time  I was an intellectual, meaning of life being given to me by its only creature- the imagination, which itself was only the real thing because of the same reason of which the imagination from which the thing originated is the object of reality. In that sense the imagination is the only valid element in the natural sciences. The real thing has no law; in its true content it is nothing but itself and nothing else. That is the realness of which the whole universe is made up. The imagination can therefore operate in any direction. The objects in the natural sciences are only acts of imagination. I have no real ideas; I know them, and they are good. But I do not have an idea of what the real world is; I know it because it has a law. This is the only matter that I can know and I know it to be real. I am one with it. Its only known object is the imagination. Nothing can change that, for that means that there is nothing that can affect the imagination, because the imagination is made up of the imagination, and the imagination is "
+        ],
+        "ttr": [0.4330357142857143],
+        "perplexity": [7107.5],
+        "mean_perplexity": 7107.5,
+        "mean_ttr": 0.43
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  young girls seemed to know how to make a beautiful face by rubbing some rubbing alcohol over your eye. It would appear to create a clear, even, looking edge, if someone else did it to them. Also, it made your eyes glow. I can remember watching a young woman in a group of young ladies perform a face painting where the paint put on your face helped to create the look of even, clean lines in your face. I think the basic idea was to show off our beauties by showing off some pretty little things. Thanks to the late 90\u2019s there was a movement called the \u201cBeauty Race\u201d, where people set themselves a goal to see if maybe they were the very best \u201cBeauty\u201d. That\u2019s when I realized that beauty is not something you should do, but someone has to do it, and you can get to that goal if you just follow your gut. I\u2019m not sure how this goes to the future, because beauty in today\u2019s world is not just about looking pretty, but being good at what you do. Many people have a question in their mind about why we are doing "
+        ],
+        "ttr": [0.5897435897435898],
+        "perplexity": [10870.29],
+        "mean_perplexity": 10870.29,
+        "mean_ttr": 0.59
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  I tried to find the best place to live for a few days or so. I needed to work. I needed to travel. I needed to have my dog. I needed a place to sleep. I needed to be healthy. I needed to get my money together to help. And then I moved. I was ready to make the best choice. I wanted to go to a place where I could see the future in front of me. There were so many good places in my area, and I decided to take the opportunity to get the best place for my family. And I moved to Oklahoma.\" - Rick's Blog. My family has always wanted to live in the Midwest. After a while, we realized that our dream location wasn't in the Midwest. We were looking for something that would blend with our style, that was big enough to accommodate us, but small enough to let us have our own space. Rick and I moved our family to Oklahoma because we were able to enjoy the many amenities we could find, including having our own living space, a family office, a community pool, and so much more. "
+        ],
+        "ttr": [0.47844827586206895],
+        "perplexity": [8670.21],
+        "mean_perplexity": 8670.21,
+        "mean_ttr": 0.48
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b7": {
+      "top_p": {
+        "response": [
+          "Once upon a time  there was a baker named Richard Burke Who loved a piper named Thomas Archer A baker named Richard Burke And a piper named Thomas Archer They had to find the best baking soda They had a secret recipe To satisfy each other So they became friends Good, good friends One day, Richard Burke baked a pie A pie that looked nice and rich And everyone who ate it was impressed But Thomas Archer didn't like It looked just plain big He didn't like the pie At that moment, Burke became curious and he found out Where was Thomas Archer's secret recipe? It was in the book And he got curious too He looked for the secret recipe And found it in the book He had made a pie He got an even bigger pie The two baked a big pie One day, Thomas Archer's secret recipe was a secret Although the pie was big To satisfy Thomas Archer And his best friend Burke didn't Know the secret And Thomas Archer would have been upset But the pie was big And everybody ate it They were so happy And they ate The secret was found They found "
+        ],
+        "ttr": [0.4351851851851852],
+        "perplexity": [866.06],
+        "mean_perplexity": 866.06,
+        "mean_ttr": 0.44
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  I spent a few weeks out of my job, planning some special moments for my wife, and children. When the plan came true, I never knew it but the same week my wife and children received them... my salary was withdrawn. One of the questions I asked myself the moment I heard the news was, \"Is it really me?\" I just feel compelled to write this article after so many weeks of wondering about this. What does it feel like to be on the receiving end of a sudden, aggressive way of seeing your financial future? Do you wonder if someone sees them as a currency being put out in front of a lender in a moment of need? I have been a financial guru for many many years and it is hard to imagine me being in the position it is for me. This happens to many people every single day. I am sure this is not an exclusive post and there are many other narratives out there. However, there is a difference here. Being the head of an organization, you must have the financial control of any financial decisions it makes. And money goes "
+        ],
+        "ttr": [0.5911111111111111],
+        "perplexity": [870.78],
+        "mean_perplexity": 870.78,
+        "mean_ttr": 0.59
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  the only way for people to get rid of alcohol was through a cure. But that was only for alcoholics. Nowadays, there are other options. There are so many methods to remove alcohol. There are various reasons for people to want to quit drinking. But for many, the one they wish to... Quitting Alcohol with the help of online methods is the fastest way to achieve that. Alcoholics often have trouble quitting. It may be hard to get the right tools to help you quit drinking. Don't worry. There are several techniques that will help you quit drinking. All you need is a little... Stop Alcohol Use Disorder (AUD). AUD is a type of disorder that is often caused by heavy drinking and the person's unwillingness to quit drinking. You must have an AUD to begin quitting. However, you don't have to have any problems with drinking. There is no harm in trying to quit drinking if you have AUD, just not in quitting. When you know your triggers, you can find ways to avoid them. You can also learn how to change your habits. It is important to identify your triggers. This can help you "
+        ],
+        "ttr": [0.5040650406504065],
+        "perplexity": [1001.27],
+        "mean_perplexity": 1001.27,
+        "mean_ttr": 0.5
+      }
+    }
+  }
+]

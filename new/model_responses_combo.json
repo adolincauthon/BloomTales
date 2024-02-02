@@ -1,0 +1,496 @@
+[
+  {
+    "bigscience/bloom-1b7": {
+      "temp-0.1-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And my mother said, \"Don't be afraid.\" But she didn't mean it. She meant to make me feel safe. So I went out and found the man who would protect me. He was a good man. I loved him. But he had another woman in his life. And that made me sad. I couldn't let her go. I tried so hard not to think about her. But when I did... I felt like I'd lost myself. And then one day, I met this boy. He was just as scared as I was. But he knew what I needed. He took care of me. And now I'm here with you. I'm gonna take care of you. You know, it's funny how things work out sometimes. Sometimes we meet someone who is exactly right for us. And that's why we're together. Because we have each other. That's all there is to it. It's true. Thank you. Good night. - Good night. - Good night. - Bye-bye. - See ya. Bye-bye. See ya. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. - Bye-bye. "
+        ],
+        "ttr": [0.3930635838150289],
+        "perplexity": [577.02],
+        "mean_perplexity": 577.02,
+        "mean_ttr": 0.39
+      },
+      "temp-0.1-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a little girl I had a big dream And it was to be a star But now I'm not so sure anymore I'm just another child A little girl who dreams of being a star But now I'm not so sure anymore I'm just another child A little girl who dreams of being a star But now I'm not so sure anymore I'm just another child A little girl who dreams of being a star But now I'm not so sure anymore I'm just another child A little girl who dreams of being a star But now I'm not so sure anymore I'm just another child A little girl who dreams of being a star But now I'm not so sure anymore I'm just another child A little girl who dreams of being a star But now I'm not so sure anymore I'm just another child A little girl who dreams of being a star But now I'm not so sure anymore I'm just another child A little girl who dreams of being a star But now I'm not so sure anymore I'm just another child A little girl who dreams of being a "
+        ],
+        "ttr": [0.15841584158415842],
+        "perplexity": [628.18],
+        "mean_perplexity": 628.18,
+        "mean_ttr": 0.16
+      },
+      "temp-0.1-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And my mother said, \"Go to sleep.\" But she didn't say good night. She just left me alone in the dark. I don't know what happened next, But it wasn't nice at all. So I went out and I walked around for hours. And then I saw something that made me stop. It was like this big black cloud coming down from above. And I thought, \"Oh, God! It's going to rain!\" And I ran away as fast as I could. But when I came back, there were no more clouds. There was only darkness. And I couldn't find my way home again. So I stayed here with my grandmother. And we lived together until one day... One day, I woke up and found myself lying on the floor of our house. My grandmother had died. And I was alone. I felt so sad. I tried to cry but I couldn't. I looked around and I saw nothing. Then I heard someone calling me. I turned around and I saw you standing by the door. You were looking at me. And you smiled. And you said, \"I love you.\" And I "
+        ],
+        "ttr": [0.6016597510373444],
+        "perplexity": [593.47],
+        "mean_perplexity": 593.47,
+        "mean_ttr": 0.6
+      },
+      "temp-0.1-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And my mother said, \"Don't be afraid.\" But now I'm grown up and I've got to go. I don't know what I'll do when I get back. I'm going to miss you so much. You are the only one who ever loved me. You're the only one that ever cared about me. You're the only one who never let me down. - You're the only one... - No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! "
+        ],
+        "ttr": [0.1906158357771261],
+        "perplexity": [621.94],
+        "mean_perplexity": 621.94,
+        "mean_ttr": 0.19
+      },
+      "temp-0.1-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  I was a little girl I had no friends, and my mother died when I was three years old. My father left me with the care of two sisters who were very kind to me, but they never cared for me as much as they did their brothers. One day, while we were playing in the garden, one of them came up to us and said, \"Don't you know that your brother is dead?\" \"Yes.\" \"And he has been buried here since then.\" \"But why do you think he's still alive?\" \"Because his sister lives here.\" \"She's not living here anymore.\" \"No, she isn't.\" \"I don't believe it!\" \"What are you saying?\" \"I'm telling you the truth.\" \"You can't be lying to me.\" \"Why would I lie?\" Because you're afraid of what people will say about you if you tell the truth. But that's just nonsense! You have to trust yourself. If you want to live, you'll have to face everything alone. And it's better to face things alone than to hide behind someone else's lies. That's how life works. It's all right. You're going to get through this. You'll find out soon enough. Thank you "
+        ],
+        "ttr": [0.6892430278884463],
+        "perplexity": [580.33],
+        "mean_perplexity": 580.33,
+        "mean_ttr": 0.69
+      },
+      "temp-0.1-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  I was a young man I had no friends, no family But one thing I knew: I'd be the best. And that's what I've been doing ever since. So now I'm here to tell you that you're not alone. You're not alone at all! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! You can do it! "
+        ],
+        "ttr": [0.21224489795918366],
+        "perplexity": [841.0],
+        "mean_perplexity": 841.0,
+        "mean_ttr": 0.21
+      },
+      "temp-0.1-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And my mother said, \"Don't be afraid.\" But she didn't mean it. She meant to make me feel safe. So I went out and found the man who would protect me. He was a good man. I loved him. But he had another woman in his life. And that made me sad. Because I couldn't let her go. I tried so hard not to think about her. But when I did... It hurt. And then one day, I saw her again. And I knew what I'd done. I just wanted to get away from all this pain. But now I'm back here with you. I'm sorry for everything I've done. Please forgive me. You know, it's funny how things work sometimes. Sometimes we have to face them head on. It's like you're trying to run away from something but you can't because you've got to keep running. You're right. I don't want to live anymore. I don't want to die. I don't want to see anyone else suffer. I don't want to hear any more of your stories. I don't want to talk to anybody else. I don't want to do "
+        ],
+        "ttr": [0.6367521367521367],
+        "perplexity": [598.37],
+        "mean_perplexity": 598.37,
+        "mean_ttr": 0.64
+      },
+      "temp-0.1-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And my mother said, \"Go to sleep.\" But she didn't say good night. She just left me alone in the dark. I don't know what happened next. But then one day... I saw something that made me feel so happy. It was like this. A beautiful flower blooming on the ground. And it looked so pretty and soft. And I thought, \"I want to be like that flower.\" So I started walking around with my hands up high. And I kept going until I found myself at the top of a hill. And there were people all over the place. They were talking about their lives. And they were laughing and joking. And I felt so sad because I couldn't see them anymore. And I knew that if I could only find someone who would love me as much as they loved me, I'd have everything I'd ever wanted. And that's when I met you. You are such an amazing person. You're always smiling and giving me happiness. And you're always helping me out whenever I'm stuck. And it's really nice to meet someone who's kind and caring. Thank you for "
+        ],
+        "ttr": [0.6666666666666666],
+        "perplexity": [588.02],
+        "mean_perplexity": 588.02,
+        "mean_ttr": 0.67
+      },
+      "temp-0.1-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a young man And I had no friends But one day, when I was alone, I saw the sun rise over the sea. It was then that my heart began to beat faster and faster. The wind blew in from the south, bringing with it the smell of salt water. My eyes were filled with tears as I watched the waves crash against the rocks. Suddenly, I heard a voice calling me back home. \"Back home!\" I cried out. \"Back home! Where are you going?\" he asked. \"I don't know.\" \"But where do you think you're going? You're not supposed to be here.\" He shook his head sadly. \"You can't go anywhere without your parents knowing about this.\" \"They'll never find out if they ask me.\" \"Then why did you come here?\" he asked. \"Because I wanted to see the sunrise again.\" \"And now I'm afraid you'll have to leave us all behind.\" \"Don't worry, I'll take care of them.\" \"I'll look after them for you.\" \"I'm sure they'll love you so much.\" \"It's just that...\" \"I've got to get away from here.\" \"If only I'd known how far I'd been before.\" \"How long "
+        ],
+        "ttr": [0.6501901140684411],
+        "perplexity": [595.54],
+        "mean_perplexity": 595.54,
+        "mean_ttr": 0.65
+      },
+      "temp-0.2-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And my mother told me to sing I sang and sang till the sun went down But when it came to bedtime she said \"Now you must go to sleep, sweetheart.\" So I left her alone in the dark. She had gone out for a walk with her dog. And then she heard me singing. And so she came back home. And as soon as she saw me standing there, She ran up to me and kissed me on the cheek. And she said, \"Sweetheart, don't be afraid. I'm here to help you.\" And I said, \"Thank you very much, ma'am.\" Then she took me into her arms and put me to sleep. And that night I dreamt of a beautiful castle. And inside this castle were many fairies. And they all wanted to see me. And one day they brought me to their kingdom. And they asked me if I'd like to come with them. And I said yes. They gave me a golden crown and a golden ring. And they made me sit at the head of the table. And they sat around me and talked about everything. And "
+        ],
+        "ttr": [0.5643153526970954],
+        "perplexity": [542.01],
+        "mean_perplexity": 542.01,
+        "mean_ttr": 0.56
+      },
+      "temp-0.2-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a man named... - ... A man named... - ...a "
+        ],
+        "ttr": [0.039886039886039885],
+        "perplexity": [401.74],
+        "mean_perplexity": 401.74,
+        "mean_ttr": 0.04
+      },
+      "temp-0.2-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I was in love with you I thought that we were meant to be together But now I'm not sure anymore And it's hard for me to believe it I don't know what happened between us It seems like yesterday when we first met But the truth is, I've changed since then I've grown up and become someone else I'm sorry. It's just... I can't let go of you You have no idea how much this means to me I guess I'll never forget your face again I hope you'll always remember my name I wish you'd come back to me I miss you so much I want to see you again I will I promise I love you - Hi! - Hi! How are you? Good. Thank you. So good to see you. - How's everything going? - Fine. - Good. - Thank you. - You look great. - Thanks. - You're welcome. - So nice to meet you. - Nice to meet you too. - Bye. Bye. - See you later. - Okay. See you soon. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. - Bye. "
+        ],
+        "ttr": [0.42244224422442245],
+        "perplexity": [602.58],
+        "mean_perplexity": 602.58,
+        "mean_ttr": 0.42
+      },
+      "temp-0.2-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  I was a little girl I had a dream that I'd be a princess And then one day, the sun came out and it was so bright It made me feel like I could see through everything But when I woke up in the morning, I found my hair was all wet My eyes were red from crying And I couldn't find my dress So I went to the prince's palace To ask him if he would let me go back home again But the prince said no He told me not to cry anymore Because there is only one way for you to get back home You have to make your own way And that's what I'm gonna do I'm gonna make my own way And I'll never stop until I reach my goal And now it's time to start making my way Now it's time to start making my way Make my way Make my way Make my way Make my way Make my way Make my way Make my way Make my way Make my way Make my way Make my way Make my way Make my way Make my way Make my "
+        ],
+        "ttr": [0.5436893203883495],
+        "perplexity": [678.69],
+        "mean_perplexity": 678.69,
+        "mean_ttr": 0.54
+      },
+      "temp-0.2-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He had a wife and two children. And he loved them very much. But one day, the Lord came to him in a vision. And He said, \"John, I have come to call you back to me.\" So John went out into the fields and began to sow his seed. And as he sowed, behold! There were birds of every kind that came and ate up all the seeds. Then they flew away and left him alone with his work. And when he finished it, he sat down and prayed. And then the Lord spoke to him again. And He said, \"John, my son, what are you doing? I am calling you back to me.\" And so John did. And now, if you will listen carefully... If you will listen closely, you can hear the voice of God saying, \"John, my son, what do you want?\" And John answered, \"I want to be free from sin.\" And the Lord said, \"You must go first to your father and tell him about this.\" So John went to his father and told him everything. And he asked for forgiveness. And the Lord "
+        ],
+        "ttr": [0.5403225806451613],
+        "perplexity": [616.93],
+        "mean_perplexity": 616.93,
+        "mean_ttr": 0.54
+      },
+      "temp-0.2-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  I was in love with you I thought that we were meant to be together But now I'm not so sure anymore I'm sorry, baby. You know what? You're right. It's just... I don't think it's fair for me to say this but maybe you're the one who should have said it. Oh, my God! What are you doing here? I came to tell you that I've been thinking about moving out of town and starting over again. And I want you to come along with me. Why? Because if you do, you'll get to meet your future husband. - What is he like? - He's very nice. He's got great taste. He has a good sense of humor. He's funny too. He's smart. He's kind. He's sweet. He's handsome. He's charming. He's fun. He's all right. So why would you wanna move away from him? Well, because he's... he's really special. Yeah, well, that's probably true. But there's something else. Something else? What's that? Well, when I first met him, he told me that he'd never let anyone touch his wife's hair or her breasts. And then he asked me how long I'd been married before I "
+        ],
+        "ttr": [0.6693877551020408],
+        "perplexity": [632.16],
+        "mean_perplexity": 632.16,
+        "mean_ttr": 0.67
+      },
+      "temp-0.2-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And my mother said, \"Don't be afraid.\" But she didn't mean it. She meant to make me feel better about myself. So I went out and found the best man in town. He had a beautiful wife and two lovely children. I thought he would love me for who I am. But he wasn't that kind of man. He made me promise I'd never tell anyone what happened. Then one day... One day, when I was walking home alone, I saw him standing there with his arms around her waist. And then he kissed her on the lips. And that's how we met. That's how you meet someone special. You don't know if you're going to like them or not until you've seen them live their life together. And sometimes it's hard to see through all those lies. Sometimes they just seem so real. It's hard to believe they're lying. They say that love is blind. But I think it's true. Love can change everything. It can bring us closer than ever before. And sometimes even though we're far away from each other, we still have something in common. We share "
+        ],
+        "ttr": [0.7316017316017316],
+        "perplexity": [590.34],
+        "mean_perplexity": 590.34,
+        "mean_ttr": 0.73
+      },
+      "temp-0.2-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the country, and he had a farm. And one day, when he was working on his farm, John saw a little girl walking down the road with her mother. She looked so beautiful that John decided to take her home. But before he could do anything else, the farmer came out of his house and said, \"John, you are going to be late for work.\" So John went back inside and hid himself behind some bushes. When the farmer got up from his seat, he found John hiding behind those bushes. The farmer asked him what he wanted. John told him everything about his life. Then the farmer gave him a piece of bread and a cup of tea. And then he took John away. And they never spoke again. Now, if you want to know how John felt after he left, just listen to this story. I don't think I can remember it now. It must have been something very special because he didn't say goodbye. Well, that's all we need to know. Thank you. Good night. Good night. - Good night. - Good night. - Good night. - Good "
+        ],
+        "ttr": [0.6090534979423868],
+        "perplexity": [590.8],
+        "mean_perplexity": 590.8,
+        "mean_ttr": 0.61
+      },
+      "temp-0.2-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the woods with his wife and children. They were happy, but they didn't know it. John had been working for years on some big project. But he never finished it. And then one day... One day, he decided to go home. To his family. His wife and children would be waiting for him. Soon after that, he left. The next morning, when he came back, he found himself alone. There was no sign of anyone else around. No signs of life. Nothing at all. It wasn't even possible to find any trace of his body. He thought about what happened to his wife and children. And he wondered if he'd ever come back again. Then something strange happened. A voice called out from somewhere inside him. \"John! John!\" He heard it once more. He knew exactly where it was coming from. From the place where he had left them. He knew exactly how long they'd been gone. He could feel their pain. He felt their fear. He saw their despair. He understood why they couldn't see each other anymore. He knew what it meant to have lost "
+        ],
+        "ttr": [0.6302521008403361],
+        "perplexity": [604.86],
+        "mean_perplexity": 604.86,
+        "mean_ttr": 0.63
+      },
+      "temp-0.3-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a young man I had no friends, no family But one day my father died And then the world changed for me The world changed for me It took me years to find out what it meant To be alone and lost in the dark But now I'm back again I'm back again It's been so long since I've seen you I've missed you so much You were always there when I needed you You're still here with me When you're not around I'll miss you I'll miss you You'll never know how much I love you You'll never know how much I love you We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other laugh We'll make each other "
+        ],
+        "ttr": [0.41379310344827586],
+        "perplexity": [671.62],
+        "mean_perplexity": 671.62,
+        "mean_ttr": 0.41
+      },
+      "temp-0.3-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And my mother said, \"Go to bed.\" But she didn't say good night. She just left me alone in the dark. I thought I'd never see her again. Then one day... I saw her face. It was so beautiful! The sun shone through it and made it shine even brighter. I couldn't believe that I had seen her once before. And then I heard her voice calling out for me. My heart began to beat faster. And I knew that I would never be able to forget her. Soon after that, I went back to school. And every morning I would go there with my father. He'd always tell me stories about his childhood. One day he told me about how he used to play hide-and-seek. When he found someone hiding behind a tree, he would shout, \"Hey!\" And if anyone answered him, he'd yell, \"Stop hiding!\" And they'd run away from each other. And when they were finally caught, they'd get into a fight. And sometimes they'd end up fighting over who got first. But at least they could laugh together. And that's what I wanted to do as well. "
+        ],
+        "ttr": [0.6762295081967213],
+        "perplexity": [557.32],
+        "mean_perplexity": 557.32,
+        "mean_ttr": 0.68
+      },
+      "temp-0.3-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a little boy named John. He lived in the woods with his mother and father. They were poor, but they loved each other very much. One day he went out to play. And when he came back, he found that his mother had died. So John took up his mother's place as her husband. But one night while he was sleeping, he dreamed of something wonderful. It seemed like he saw himself walking through the trees. As if he could see all kinds of things. There were birds flying around him. And then he heard a voice saying: \"Don't be afraid, my son. I will take care of you.\" Then he woke up and looked at his wife. She was still lying on the ground. And she said to him: \"I have been waiting for this moment for so long. You are going to marry me now.\" And John said: \"Yes, I am going to marry you.\" And she kissed him on the forehead. And then she put her hands behind his head and pulled him away from the tree. And he ran down the hill and walked into the forest. And he met "
+        ],
+        "ttr": [0.6455696202531646],
+        "perplexity": [601.27],
+        "mean_perplexity": 601.27,
+        "mean_ttr": 0.65
+      },
+      "temp-0.3-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Jack. He lived in the woods with his mother and father, who were both old men. They had been living together for many years. But one day they decided to go away from their home. And so they left behind everything that belonged to them. Everything except this little dog. Jack loved his dog very much. He thought he would never see him again. So he made sure that every night when he went to bed, he would always put on his coat and walk around the house looking for his dog. When he found it, he would give it to him. Then he would sit down by the fireplace and watch the stars. And then he would tell himself stories about how wonderful life is without dogs. And how beautiful it is to have a dog. And how important it is to take care of your dog. And what kind of man you are if you don't do anything about it. And then he would fall asleep. And all through the night he would think about his dog. And how good it must be to have a dog. And how "
+        ],
+        "ttr": [0.5892857142857143],
+        "perplexity": [589.8],
+        "mean_perplexity": 589.8,
+        "mean_ttr": 0.59
+      },
+      "temp-0.3-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man who had two wives. One of them was his wife, and the other one he loved very much. But she was so beautiful that he couldn't bear to see her without feeling jealousy. So he made up some stories about her and told them all over the town, and then when they were done, he took off his hat and went out into the street and said, \"Now I know what it is to be married.\"  And as soon as he got outside, he saw this lovely woman standing by the side of the road with her face turned away from him.  \"What do you want?\" asked the man.  \"I am looking for my wife,\" answered the woman.  \"And where is she?\" asked the man again.  \"Oh!\" replied the woman, \"I don't know; but I'll tell you something if you will promise not to ask me any more questions.\"  The man promised, and after a while came back to find his wife in the same position as before.  \"Well,\" said he, \"you are sure you've found your wife?\"  \"Yes,\" answered the woman, \"and I'm glad you're satisfied.\"  Then the man went on "
+        ],
+        "ttr": [0.6219512195121951],
+        "perplexity": [595.8],
+        "mean_perplexity": 595.8,
+        "mean_ttr": 0.62
+      },
+      "temp-0.3-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Billy. He lived in the country, with his father and mother. And he had an uncle who worked at a mill. And every day they would go to work together. But one day, when they were going out for their morning walk, Billy's uncle got sick of it all. So he went back home and told his parents what happened. His parents took him away from them. They never saw him again. And then Billy grew up alone. And he started working hard to make money so that he could buy some food for himself and his family. One day, he met a girl called Mary. Mary loved Billy very much. She wanted to marry him but she couldn't find anyone who'd be willing to give her everything she needed. And so she decided to take Billy into her house. But Billy didn't want to live with Mary anymore. He thought that if he stayed with Mary, he'd have to pay for everything. So he left Mary behind and headed straight for the mill. The next day, Billy arrived at the mill. But instead of being able to get on the "
+        ],
+        "ttr": [0.6096491228070176],
+        "perplexity": [593.78],
+        "mean_perplexity": 593.78,
+        "mean_ttr": 0.61
+      },
+      "temp-0.3-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  I was in love with you I thought that we were meant to be together But now it's all gone, and I'm alone And the only thing left is this song It's been so long since I've sung it It feels like my heart's beating again The sun comes up every day And I know I'll find someone who'll understand me Someone who's willing to give me back what I lost Someone who will make me feel good again Someone who can take care of me Someone who knows how to hold on Someone who understands me Someone who loves me Someone who cares about me Someone who wants to see me happy Someone who doesn't want to leave me alone Someone who won't let me down Someone who will always be there for me Someone who will never forget me Someone who will always be there for me Someone who will never forget me Someone who will always be there for me Someone who will never forget me Someone who will always be there for me Someone who will never forget me Someone who will always be there for me Someone who will never forget "
+        ],
+        "ttr": [0.5024390243902439],
+        "perplexity": [734.28],
+        "mean_perplexity": 734.28,
+        "mean_ttr": 0.5
+      },
+      "temp-0.3-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named... - ...John. - John? Yeah, he lived in the woods with his father and mother for years. And then one day they died. So he went to live with his uncle. He had no money. But he worked hard every day. And finally, when it was all over... he made enough money to buy himself a house. And that's where I come from. I mean, it's not like we have any money at home. It's just that my family's always been poor. My grandfather used to say, \"If you want something, go out and get it.\" That's what I'm trying to do. Go out and get things. You know, sometimes people think that if you're rich, you can't help others. Well, maybe they're wrong. Maybe you can help them. What are you doing here? I'm looking for someone. Someone who wants to work. I don't need anyone. I just need some food. Food? You're hungry? No. Why would I be hungry? Because you've got nothing to eat. Look, I'll give you anything you want. Just tell me how much. How much? All right. I'll pay you whatever you want. Okay. Give me two "
+        ],
+        "ttr": [0.649402390438247],
+        "perplexity": [643.3],
+        "mean_perplexity": 643.3,
+        "mean_ttr": 0.65
+      },
+      "temp-0.3-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a child I had no idea what life was like. But now that I'm older, I've learned to appreciate it. And it's all because of you. Thank you for everything. You know, you're the only one who ever cared about me. That's why I love you so much. - You did? - Yes! You're my best friend and I love you too. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank you. - You're my hero. - Thank "
+        ],
+        "ttr": [0.19814241486068113],
+        "perplexity": [799.22],
+        "mean_perplexity": 799.22,
+        "mean_ttr": 0.2
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b7": {
+      "temp-0.1-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the city of New York City. He had a wife and two children. He worked hard to earn money for his family. He loved his job as an accountant. He also liked to play basketball, football, and baseball. One day he decided that he wanted to go fishing. He went out into the water and started fishing. When he got back home, he told his wife what he'd done. She said, \"John, you are lucky! You have caught some fish!\" The next morning, John called his friends and told them about what he'd done. His friends were all surprised at him. They thought he was crazy. But they didn't know how to react. They asked John if he really did catch fish. John answered, \"Yes, I do.\" And then they laughed. John's friends were very happy with him. Then John went on fishing again. After another few days, he caught more fish than before. He told his friends that he had caught more fish. They were all amazed. John was so proud of himself. He felt great. He knew that he could do anything he set his "
+        ],
+        "ttr": [0.5785123966942148],
+        "perplexity": [975.15],
+        "mean_perplexity": 975.15,
+        "mean_ttr": 0.58
+      },
+      "temp-0.1-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Tom  who lived in the town of Hodgesville, Georgia. He had a big house with lots of furniture and toys. Tom liked to play games on his computer. One day he played a game called \"Grandfather's War\". It was very exciting because it involved many battles between two opposing forces. The war ended when Tom won the game. Then he went home to tell his parents about what happened. His parents were surprised that they could win such a long battle against their own enemy. They asked him if he wanted to go back to school for more lessons. Tom said no but he wanted to play again. So he went back to school. Tom got into college at the University of Georgia. He graduated from high school and then started working as an engineer. After graduating from college, Tom worked hard all year to get a promotion. He finally got a job at a large company. Tom loved playing games on his computer. Now he's a successful businessman. Tom is now living in a nice house with lots of toys and furniture. Tom has a lot of friends. Tom lives "
+        ],
+        "ttr": [0.6336206896551724],
+        "perplexity": [950.49],
+        "mean_perplexity": 950.49,
+        "mean_ttr": 0.63
+      },
+      "temp-0.1-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a man who lived in the city of New York City. He had a wife and two children. He loved his family very much, but he also wanted to be independent. He didn't want to live with his parents or grandparents because they were too old for him. He wanted to live alone. His mother died when he was young so he moved away from home. He went on to find work as an engineer. He worked hard and earned money enough to support himself and his family. But he still needed more money. He decided to sell his house. He sold it and bought a new one. He then started working again. He got married again and had another child. He lived happily ever after. Nowadays, we have lots of people living in large cities like New York City. They are rich and famous. However, many of them don't know how to manage their own lives. Many of them are dependent on others for everything. This is called dependency syndrome. The problem is that this kind of thinking doesn't help you achieve your goals. You need to learn to think about things differently. "
+        ],
+        "ttr": [0.6754385964912281],
+        "perplexity": [973.66],
+        "mean_perplexity": 973.66,
+        "mean_ttr": 0.68
+      },
+      "temp-0.1-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the city of New York City. He had a wife and two children. He loved his family very much. He also liked to play basketball. He played basketball all day long, every day. One day he went out for a walk with his friends. He walked along the street when he saw a woman who looked like a prostitute. He thought that she was a prostitute because she was so ugly. He felt very sad about it. He wanted to know what happened to her. So he asked his friend: \"What's wrong with this woman?\" The friend said, \"She looks like a prostitute.\" John told him: \"I don't think she's a prostitute. She's just an old lady.\" John's friend agreed with him. They both laughed at the joke. John then left home and went back to work. After a while, he got up early one morning and went to work again. He found that the woman from the street had disappeared. She didn't come back. John called his wife and told her what happened. His wife answered him: \"You should have seen how happy I am!\" John "
+        ],
+        "ttr": [0.5743801652892562],
+        "perplexity": [998.18],
+        "mean_perplexity": 998.18,
+        "mean_ttr": 0.57
+      },
+      "temp-0.1-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He had a wife and two children. He lived in the countryside with his family. One day, he went to work on his farm. When he got home from work, he found that his wife had died. His son was crying because he didn't know what happened to his mother. The boy asked his father if he could go back to school. John answered no. He said, \"I have nothing left to give you.\" The boy then told him how much money he had saved up for his mother's funeral. John replied, \"That's enough.\" The boy thanked him very much. John's answer surprised him. He thought it was too generous of him. But the boy knew better than to say anything else. John's generosity touched the boy's heart. He felt sorry for his father's lack of understanding. Nowadays, we often see people who are generous but not giving back. They don't understand why others need them. We should be grateful for those who help us without expecting anything in return. This is called selflessness. It shows our gratitude for all things good in life. In fact, it's important to show "
+        ],
+        "ttr": [0.6528925619834711],
+        "perplexity": [927.59],
+        "mean_perplexity": 927.59,
+        "mean_ttr": 0.65
+      },
+      "temp-0.1-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the city of New York City. He had a wife and two children. He worked hard, but he didn't have much money to spend on his family. His wife wanted him to buy her a new car so she could drive around more. John decided to go shopping for a car. He went to a local auto store. He bought a used car from the salesman. The salesman told him that the car would cost $500.00. John paid the salesman $200.00. Then he drove home. When he got back home, he found out that the car had been stolen. He called the police. They arrested the thief. But they couldn't find the car. John's wife wanted him to buy a new car again. She asked John if he'd like to buy another one. John said yes. So she bought a new car. And then he drove away with his family. A few days later, John returned home. He saw that the car had been stolen again. He called the police again. This time, the police were able to find the car. The story ends with John saying, "
+        ],
+        "ttr": [0.5125],
+        "perplexity": [935.51],
+        "mean_perplexity": 935.51,
+        "mean_ttr": 0.51
+      },
+      "temp-0.1-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the city of New York City. He had a wife and two children. He loved his family very much. He also liked to play basketball. He played basketball all day long, every day. One day he went out for a walk with his friends. He walked along the street when he saw a woman walking down the street. She looked like she was going to run away from him. The man thought that it was a bad omen. So he turned back home immediately. He returned home and told his family about what happened. His parents were shocked. They didn't know what to say. They asked him if he wanted to go on playing basketball. John answered no. He said he would not play anymore because he felt sorry for her. But his mother insisted that he play. John refused to listen to her. He continued playing basketball until the end of his life. Now you can imagine how John's family reacted. Their reaction is understandable. They are surprised at John's decision to stop playing basketball. They don't know why he did this. They want to know "
+        ],
+        "ttr": [0.5948275862068966],
+        "perplexity": [976.17],
+        "mean_perplexity": 976.17,
+        "mean_ttr": 0.59
+      },
+      "temp-0.1-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the city of New York City. He had a wife and two children. He worked hard to earn money for his family. He loved his job as an accountant. He also liked to play basketball, football, and baseball. He enjoyed spending time with his friends and family. One day he got a call from his boss telling him that he would be leaving at the end of the month. His boss told him that he could not afford to pay him the salary he earned during the last month. John decided to quit his job because he felt that it was too expensive. He wanted to save up enough money so that he could buy a house. He then went to work on another job. He started working part-time while he found a new job. He worked hard all week long until the end of the month. At the end of the month, he received his salary. He paid his taxes and saved up enough money to buy a house. The next morning, he bought a house. Now, he has a home. He is very happy. But "
+        ],
+        "ttr": [0.5350877192982456],
+        "perplexity": [919.94],
+        "mean_perplexity": 919.94,
+        "mean_ttr": 0.54
+      },
+      "temp-0.1-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the city of New York City. He had a wife and two children. He loved his family very much. He also liked to play basketball. He played basketball for many years, but he never won any championships. One day, he saw a newspaper advertisement about a tournament that would be held at a nearby park. The tournament was called the Big Apple Basketball Tournament. John decided to go to the tournament. He went to the park where the tournament was being held. There were lots of people watching the game. They cheered him on as he played. When he finished playing, he got home. He told his family what he had done. His wife said, \"John, you are a great husband! You have always been a good father and a wonderful son.\" Her other daughter said, \"You know, I think we should win this tournament.\" She wanted her mother to win the tournament too. John's wife said, \"No, no, no. We don't want to lose.\" John's kids agreed with their mom. So they all cheered for their mom. Finally, the tournament ended and the team won the "
+        ],
+        "ttr": [0.5951417004048583],
+        "perplexity": [1008.84],
+        "mean_perplexity": 1008.84,
+        "mean_ttr": 0.6
+      },
+      "temp-0.2-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the city of New York City. He had a wife and two children. His life was very comfortable. But one day, he got sick. He went to see his doctor. The doctor told him that he needed to go home for rest. He said it would be better if he stayed at home. He didn't want to leave his family. So he asked the doctor what should he do next. The doctor advised him to take some medicine. And then he took some medicine. Then he left. After a while, the doctor came back and told him that he still needed to stay at home. He wanted to know why he did not tell him earlier. The answer is because he thought he could get away with it. He was afraid of being caught. He was right. Because he was caught, he would have been put into jail. He was wrong. He was caught by the police. Now he's living in prison. He has no money to pay his rent or food. He can't even afford to buy clothes. He lives on the streets. He doesn't know "
+        ],
+        "ttr": [0.5695652173913044],
+        "perplexity": [953.68],
+        "mean_perplexity": 953.68,
+        "mean_ttr": 0.57
+      },
+      "temp-0.2-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Tom Sawyer. He lived in the South with his father and mother, who were poor farmers. Tom had to work for their family's farm so that he could eat. His parents didn't have much money but they worked hard every day. Tom grew up very quickly because he was born on the same day as his brother Charlie. Tom saw many things that made him want to be a farmer. One of them was when he saw a man working on a horse pulling a wagon full of grain. Tom wanted to become one too. He decided to go out into the world and see what it would be like to live as a farmer. Tom Sawyer is an American writer whose story has been adapted into a number of films and books. Tom Sawyer is also known as The Boy from South Carolina. Tom Sawyer is a fictional character created by Mark Twain. He is a young boy from South Carolina who wants to become a farmer. Tom Sawyer is a famous American author and playwright. Tom Sawyer is a fictional character created by Mark Twain. He is a young "
+        ],
+        "ttr": [0.5652173913043478],
+        "perplexity": [1063.24],
+        "mean_perplexity": 1063.24,
+        "mean_ttr": 0.57
+      },
+      "temp-0.2-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I was in the middle of a dream... and it was very strange. It felt like I was being transported to another world, but then I woke up. The dream was about my parents. My parents were dead. They died when I was young. But they never left me. I always had someone watching over me. I was always safe. I could not go anywhere without them. And now that I'm older, I realize how much I miss those people. How hard it is to be alone at night. I know it's been a long time since I last saw anyone. I have no idea what happened during the dream. Maybe I just got lost in the dark. Or maybe something else really bad happened. Anyway, I am going to tell you what happened. I will try to explain everything as clearly as possible. I hope this helps. In my dream, I was with my parents. I was old enough to remember their names. I knew who they were because I grew up with them. I also knew where they lived. I remembered all of their stories. I liked listening to them talk. They told me "
+        ],
+        "ttr": [0.5991379310344828],
+        "perplexity": [952.52],
+        "mean_perplexity": 952.52,
+        "mean_ttr": 0.6
+      },
+      "temp-0.2-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He had a wife and two children. One of his kids died in the war, so he left all his money to his wife and her children. The other child lived on but grew up into a very rich boy. John's son wanted to be like him, too. So they both went to school together. They studied hard for years until one day John's son got an A+ in math. His father said that it was because he used more maths than his brother. But the other kid didn't get any good grades at all. John's son then asked his dad why he couldn't do well in maths. Dad replied: \"You're not doing enough work with your hands.\" John's son told him: \"I am! I use my hands every single day.\" John's son laughed and said: \"Well, that's great! You are a genius!\" John's son was very happy. Then John's son started working harder and became a famous mathematician. Nowadays we call this person a genius. We know from history that many people have been born geniuses. What is true about you? You are a genius. You can do anything "
+        ],
+        "ttr": [0.6584362139917695],
+        "perplexity": [973.79],
+        "mean_perplexity": 973.79,
+        "mean_ttr": 0.66
+      },
+      "temp-0.2-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man who lived in the woods He had a wife and two children. They were all very happy with their lives. But one day, he heard a strange noise coming from his house. He went to investigate but found out that it was an owl. The next morning, when he got up, he saw his family members lying dead on the floor of his bedroom. His wife and kids were killed by the owl. He panicked and ran away from home. He never came back. A few years later, another man lived in the same area. He noticed something unusual about the newcomer. He also heard a strange sound coming from his house. He went inside and looked at what he found. He saw a large owl sitting on top of a tree. He called for help and told him how to get rid of the owl. The other man came over and helped him remove the owl. The first man died because of the owl's bite. Now you know why it's important to keep your pets safe. Don't let them be preyed upon by animals like this! Do not allow any animal "
+        ],
+        "ttr": [0.6127659574468085],
+        "perplexity": [962.46],
+        "mean_perplexity": 962.46,
+        "mean_ttr": 0.61
+      },
+      "temp-0.2-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy named John. He lived in the woods with his parents and his brother. He loved to play with his friends, but he had a hard life. His father died when he was very young and his mother left him for another man. He grew up alone and became an orphan. He found solace in playing music and singing. He used to sing songs about his family and his love for his mother. One day, a girl called Mary came into the woods. She liked the way that he sang and asked if she could join her. Her mother heard of this and wanted to marry him too. But John refused because he didn't want to be separated from his brothers. The girls' mother said they would have to leave their families. They were going to live on the roadside. John's mother agreed and they moved away. Mary went home to tell her story. A few days later, John played a song at a party. Everyone laughed and praised him. Then he got married. He was happy and fulfilled. Now you know what happened? Yes, it did happen. John married Mary. And now "
+        ],
+        "ttr": [0.6394849785407726],
+        "perplexity": [908.3],
+        "mean_perplexity": 908.3,
+        "mean_ttr": 0.64
+      },
+      "temp-0.2-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the city of New York City. He had a wife and two children. His life was very comfortable. But one day, he got sick. He went to see his doctor. The doctor told him that he needed to go home for rest. He said it would be better if he stayed at home. He didn't want to leave his family. So he asked John's wife, \"Will you stay with me?\" She agreed. They left their house and went back to her husband's place. John's wife came back from work and found out what happened. She was shocked. She couldn't believe what she saw. She called her husband and told him about what had happened. She rushed to the hospital. Her husband was dead. She was devastated. She cried all night long. She wept bitterly. She wanted to know why he died. She wondered why he did this. She knew that something must have been wrong. She decided to investigate further. She went to the police station. She reported the murder of her husband. She filed a report. She went to the coroner's office. She checked into the "
+        ],
+        "ttr": [0.569672131147541],
+        "perplexity": [969.25],
+        "mean_perplexity": 969.25,
+        "mean_ttr": 0.57
+      },
+      "temp-0.2-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man who lived in the mountains of California. He had a beautiful wife and two children. One day, he went to his home for dinner with his family. When he came back from dinner, he found that his house had been robbed. His wife and children were gone. The robber took all their belongings except one thing: A Bible. The robber then left without saying goodbye. The next morning, the man returned to his home and looked around. Nothing but empty chairs. He called on God and asked him what happened. God answered him: \"Your husband has died!\" The man felt very sad. He remembered how much he loved his wife and children. Then he prayed to God again. \"Oh my God, I have lost everything. You are not going to leave me alone. Please help me find my husband's things.\" God told him that they would be found if he would only keep his promise. The man kept his word. He searched through every room looking for his wife and children. Finally, he found them. They were safe inside the Bible. Now you know why we should read the Bible. It helps "
+        ],
+        "ttr": [0.6192468619246861],
+        "perplexity": [946.04],
+        "mean_perplexity": 946.04,
+        "mean_ttr": 0.62
+      },
+      "temp-0.2-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man who lived in the village of Hodges. He had a wife and two children. His wife died, so he left his two children to live with their uncle. The uncle took care of them until they were old enough to go back home. One day the boy grew up and went away from his uncle. He never came back. The next morning the boy's mother found him dead on the roadside. She buried him. Then she told her husband that her son had gone missing. Her husband called for help but no one could find him. They thought it was a dream. But then something strange happened. The boy turned out to be alive again. He returned home and told everyone what had happened. This story is about a lost child. It has been retold many times over the centuries. A lost child (film) 2008 film directed by David Dobkin Film score by John Williams Soundtrack by Alan Menken Adapted from the book Lost Child by Michael Morpurgo The story begins with a man named Hodges living in a small village near the sea. There was a woman named Mrs. Hodges who "
+        ],
+        "ttr": [0.6638655462184874],
+        "perplexity": [928.45],
+        "mean_perplexity": 928.45,
+        "mean_ttr": 0.66
+      },
+      "temp-0.3-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Jack  who lived in the woods   He loved to play with his friends and go fishing. One day he went out for some fish but didn't catch anything, so he returned home. His mother said that he had caught nothing because he hadn't gone far enough. But when she came back from work, she found him dead on the floor of the kitchen. She called the police and they took him away. The police told her that it was an accident. They thought that Jack's death was accidental. Nowadays, people are very careful about their safety. There is no place left for accidents anymore. So, we live in a safer world. No one can escape from danger. Jack died accidentally. It wasn't his fault. He was killed by someone else. Jack was not responsible for what happened to him. This story tells us how dangerous life is. We should be careful. Don't let anyone kill you or hurt you. You have to protect yourself. Jack was not responsible for what happened to him. He was killed by someone else. Jack was not responsible for what happened to him. Jack was not "
+        ],
+        "ttr": [0.6293103448275862],
+        "perplexity": [937.83],
+        "mean_perplexity": 937.83,
+        "mean_ttr": 0.63
+      },
+      "temp-0.3-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a man named Thomas Jefferson. He was an American President of the United States and one of the greatest men in history. He is known as The Father of our country. Thomas Jefferson was born on July 4, 1726 in Virginia. He died on January 20, 1809 at age 51. Thomas Jefferson was born into a wealthy family. His father was a lawyer who served as a judge for several years before he retired to become a farmer. Thomas Jefferson's mother was a teacher. She also taught English. Thomas Jefferson was educated at home until his early teens. At age 14, he joined the Continental Army during the War of Independence. He later became a member of the House of Representatives from Virginia. In 1783, he was elected president of the United States. He was a strong supporter of the Constitution of the United States. He wrote many important works that influenced the founding of the United States. Thomas Jefferson was born into a wealthy family. His father was a lawyer who served as a judge for several years before he retired to become a farmer. Thomas Jefferson's mother was a teacher. She also "
+        ],
+        "ttr": [0.4713656387665198],
+        "perplexity": [1063.22],
+        "mean_perplexity": 1063.22,
+        "mean_ttr": 0.47
+      },
+      "temp-0.3-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a child of the age of seven years old. My mother had been in labor for five days and she gave birth to me on the third day after her first delivery. She was very weak, but still managed to get up from the bed with some difficulty. Her husband came over to help her out of the bed. The baby was born dead inside my mother's womb. It was not even two weeks old when it died. It was a small baby boy who weighed just under one pound. He was called Jack. I remember that he was very small and his face was red. His eyes were large and round. He looked like a little boy. I never saw him again. When I grew up, I learned about this terrible experience. I have always wondered why people give birth at such an early stage of life. Why do babies die so often? I am sure there are many reasons. But what I know is that we cannot control them. We only can try to live as long as possible. If you want to live longer, then you should be careful during your "
+        ],
+        "ttr": [0.71875],
+        "perplexity": [917.38],
+        "mean_perplexity": 917.38,
+        "mean_ttr": 0.72
+      },
+      "temp-0.3-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Tom  who lived in the town of Burbank California. He had a big house with lots of furniture and toys, but he didn't have any friends. His parents were divorced and his mother died when he was very young. Tom's father left him alone to raise himself on his own. Tom grew up and became an adult and married. He got a job as a mechanic at a local car dealership. Tom loved cars and drove them around the country. One day while driving through the desert, he saw a beautiful woman sitting on a rock. She looked like she was going to fall off the cliff. Tom ran over and picked her up and carried her back to his car. The next morning Tom told everyone about what he'd done. Everyone laughed at him for being so silly. But Tom knew that it wasn't funny. He wanted to find out why the woman fell from the cliff. So he went back down into the desert again. He found another woman sitting on a rock. This one was much prettier than the first one. Tom asked her if she was really "
+        ],
+        "ttr": [0.6506550218340611],
+        "perplexity": [930.78],
+        "mean_perplexity": 930.78,
+        "mean_ttr": 0.65
+      },
+      "temp-0.3-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy named George. He lived in the United States of America and he had a dog called Charlie. Charlie was very friendly with everyone, including his owner. Charlie loved to play with George. One day Charlie got into trouble with another dog. It was a black dog that was called Doggy. Doggy liked to bite George's neck. When George tried to fight back, Doggy attacked him. George ran away from the scene but found himself on a farm where he met up with his old friend Charlie again. They played together for a while before George returned home. The story ends with George saying goodbye to his new friends. Charlie is a dog who likes to play with people. He also loves to play with other dogs. He gets into trouble sometimes because he wants to be more than just a pet. This is a funny story about how two dogs get along well. It's a great way to introduce children to animals. Children will learn about friendship between dogs. This book is suitable for ages 3 years and older. A young child might not understand what happened at the end. No, this "
+        ],
+        "ttr": [0.6163793103448276],
+        "perplexity": [921.63],
+        "mean_perplexity": 921.63,
+        "mean_ttr": 0.62
+      },
+      "temp-0.3-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named Tom  who lived in the town of Buxton. He had a wife and two children, but he didn't have much money to spend on them. So he decided to sell his house and move into an old mansion that belonged to his uncle. The house was very large and it cost him a lot of money to buy it. But he did it anyway because he wanted to live with his family. His mother died when he was young so he took care of her until she was old enough to take care of herself. Tom's brother also moved out of the town and left behind a big pile of debt. Tom went to see his uncle about paying off his debts. Tom asked him if he could borrow some money from him for his brother's funeral. His uncle agreed to lend him some money. Tom then bought a new car and got rid of all the debt. Tom finally became richer than before. Now you can guess what happened after Tom sold his house? he got richer than before.\" Yes, he got richer than before.\" Yes, yes, yes! No, no, "
+        ],
+        "ttr": [0.5829787234042553],
+        "perplexity": [952.18],
+        "mean_perplexity": 952.18,
+        "mean_ttr": 0.58
+      },
+      "temp-0.3-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the town of John. He had two sons, one boy and one girl. They were both very intelligent. One day they went to school together. The teacher told them that their father died. Then they all cried. They knew it would be hard for them to go back home because they loved him so much. But they didn't know what to do. So they decided to ask John's parents if he could stay with them until they got back home. John's parents agreed. And then they left. They never came back. A few years later, when they heard about his death, they remembered him. They called him up and asked him if he'd come back. He said no. He just disappeared. No one knows where he is now. All these years ago, John's parents found out that he had gone away without saying goodbye. Now they're looking for him. They are trying to find him. John's parents have been searching for him for many years. They want to know why he disappeared. They want to know why he left them. Why did he leave? Because he wanted "
+        ],
+        "ttr": [0.5847457627118644],
+        "perplexity": [960.01],
+        "mean_perplexity": 960.01,
+        "mean_ttr": 0.58
+      },
+      "temp-0.3-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man who lived in the mountains of North Carolina. He had a son, and he named him John. The boy grew up to be a very handsome young man. One day his father came home from work and found that his son had been killed by a bear. His heart broke. He went back into the mountains to mourn for his son. There he met a woman called Mary. They were married and lived happily ever after. A few years later, John's father died suddenly. He left behind a large fortune. He wanted to leave it all to Mary. But she refused. She said that her husband would never give up on her. So they decided to live together forever. That is how the story of Mary and John began. No one knows why this happened. It may have been an accident or something else. But we know that John loved Mary dearly. And he always thought about her every day. He prayed for her every night before going to bed. When he woke up, he remembered what he'd done wrong and begged forgiveness for himself. Then he started living again. He became "
+        ],
+        "ttr": [0.6595744680851063],
+        "perplexity": [898.91],
+        "mean_perplexity": 898.91,
+        "mean_ttr": 0.66
+      },
+      "temp-0.3-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  there was an old man named Tom  who lived in the woods near his home. He had been living alone for many years and he wanted to find someone to live with him. He needed help, so he called out for help from all around him. His neighbors were very friendly but they didn't know what to do about it. They told him that if he would only give them some money to buy him a house, then he could move into their homes. The old man said no. So they gave him nothing at all. Finally, one of his neighbors offered him a small amount of money. But he refused to accept it because he did not want to spend it on anything else than buying a house. Then his neighbor offered him another little bit more money. And finally, he accepted it. He got a new house. Now, he's living happily ever after. One day, Tom's son came over to visit him. Tom asked him how he was doing. The boy replied: \"Grandpa, you are still alive!\" Tom thought this was wonderful news. He thanked his son for telling him. Then he went back "
+        ],
+        "ttr": [0.6468085106382979],
+        "perplexity": [922.75],
+        "mean_perplexity": 922.75,
+        "mean_ttr": 0.65
+      }
+    }
+  }
+]

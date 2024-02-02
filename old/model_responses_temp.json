@@ -1,0 +1,110 @@
+[
+  {
+    "bigscience/bloom-1b7": {
+      "temp-0.2": {
+        "temp": 0.2,
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamed of a place Where there was no fear No pain There was only love Love Oh, love, oh, my love! Oh! Love! I was there In the land of the free The land where there is no pain! No fear! There is only Love! And there I saw A beautiful girl! She was beautiful She had the eyes of fire Her hair was golden But she was not beautiful! Not beautiful at all! But I loved her So I took her to my heart To my soul My heart was full of love for her! My soul was filled with love and I knew That I would never be alone With her in my life For I could not live without her. I could never live Without her, no! Without love. Love is the only thing that makes life worth living! For love is what makes us happy! It is love that gives us courage! To face the world! The world is full Of pain and fear and pain is all that we have to fear. But love will never leave us! We will "
+        ],
+        "ttr": [0.4424778761061947],
+        "perplexity": [637.53],
+        "mean_perplexity": 637.53,
+        "mean_ttr": 0.44
+      },
+      "temp-0.4": {
+        "temp": 0.4,
+        "response": [
+          "Once upon a time  I was a young man I was young and foolish And I loved a girl But she was too young To understand So I left her She left me Now I am a man and I know That love is not a game It is a real thing Love is real It's real, it's real! Love, love, Love! It's true! I love you, baby You know I love ya Oh, yeah, I do I'm gonna be there for ya, babe I'll be right there Yeah, I'll be Hey, hey, don't worry 'Cause I got you My love All right, all right Don't worry, man, I'm right here Come on, come on Let's get out of here, let's get to the party Go, go, get in the car Get in, in - Let's go Stay with me, stay with us We're gonna get through this We got to get together We'll get a new start Look, look, we got a whole lot of time Just get on the road The road, the way If we get the hell outta here tonight Then we can start a family A family, a baby, and a home Home, home, where we "
+        ],
+        "ttr": [0.5042735042735043],
+        "perplexity": [614.58],
+        "mean_perplexity": 614.58,
+        "mean_ttr": 0.5
+      },
+      "temp-0.6": {
+        "temp": 0.6,
+        "response": [
+          "Once upon a time  in a world far away  I was a little boy  and I had a dream  that I could be a hero  but I wasn't  'cause I didn't have the strength  to save my friends  from the evil  man who was trying to take them  away from me  the man was called The Evil Man  he was the worst  evil man in the whole world  for he used to eat his friends' brains  so I used my powers  of magic   magic to turn him into a monster  when I tried to stop him  The evil Man was in control  my magic was useless  because the Evil man had the power  power to control all the magic in this world so  now  I'm a magician  a magical person  who can turn  anything  into  gold  silver  or  fire  if I want  it's just a matter of  making  it happen  with  little  effort  just like  you  can  make  something  happen with a  pencil  paper  crayon  even  water  what  is  more  magical  than  this  right  here  on  earth  where  all  things  are  real  people  love  each  other  they  help  one  another  as  well  And  there  was  only  me and  no  Evil "
+        ],
+        "ttr": [0.44755244755244755],
+        "perplexity": [575.32],
+        "mean_perplexity": 575.32,
+        "mean_ttr": 0.45
+      },
+      "temp-0.8": {
+        "temp": 0.8,
+        "response": [
+          "Once upon a time  we had the best of times  and the worst of days But the happiest days were over long ago And the most sad days are ahead of us We were a happy family  but now it's gone We're all alone in this world I don't know what the future holds Oh, my love, what a long way to go It's all in my mind I'm falling I'll be all right One day you'll see  how far I've come For I know I've tried  to be the one to take you on So don't give up Don't give in You're a wonderful man  who never fails When you're gone  I'll feel a way I've never known before You gave me everything  I couldn't ever give you I've been searching for you all my life No matter how many times I look You'll never come back  for I love you more than I can say You've been the greatest thing in the world  so don't let me down Why can't we be friends? I know you mean well  that's why I want to keep you close My love Do you think you can tell me what's wrong? Don't "
+        ],
+        "ttr": [0.6082949308755761],
+        "perplexity": [648.25],
+        "mean_perplexity": 648.25,
+        "mean_ttr": 0.61
+      },
+      "temp-0.9": {
+        "temp": 0.9,
+        "response": [
+          "Once upon a time  you gave me the wrong  for the right one  and you just threw me out on the street  with no one to take me back  You gave a bad idea to me  And you could never make it work  But now I'm coming back to you  Because I can feel it  It's my time to shine  I don't wanna be in love again  When I get what I want  So I'll be the one who takes it back again So I just wanna get back into the groove again \uff08When I got what my want\uff09 So now it's my turn to beat it again (And I will take it) So don't let me down  Take me to the top again And I'll do whatever you want And if you get to believe me Take it on down to my place again and I'll take you there again Now I'm ready for my dream again. So let it go  I'll get you back right now \uff08I just want to get right back on track\uff09 Don't let the past get in the way  Just know I'm right here for you Take my hand  Make me feel again Take "
+        ],
+        "ttr": [0.42857142857142855],
+        "perplexity": [604.38],
+        "mean_perplexity": 604.38,
+        "mean_ttr": 0.43
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b7": {
+      "temp-0.2": {
+        "temp": 0.2,
+        "response": [
+          "Once upon a time  there was a boy named Jack  who was very smart and very brave  He was always on the lookout for trouble and was never afraid of anything . He loved to play with his friends and loved the outdoors . Jack was the best of friends with a girl named Jill . Jill was also a very clever and brave girl . She loved playing with her friends , and she loved outing . They were very close friends . One day Jack and Jill went to a fair . There was lots of fun going on there . But Jack had a bad accident . The fairground was full of dangerous things . It was dangerous to walk around . So Jack decided to go home . When Jack got home he was so sad . Because he didn't have anything to do . His friends were all gone . And he couldn't play . Then he thought of Jill and how she was brave and smart . That made Jack feel better . Now Jack is a happy boy . he is now a big , strong boy and he loves to be out in the world . - Jack the Brave ( 2008 film ) - Plot summary - A boy called Jack who is very intelligent and a brave "
+        ],
+        "ttr": [0.4978902953586498],
+        "perplexity": [929.88],
+        "mean_perplexity": 929.88,
+        "mean_ttr": 0.5
+      },
+      "temp-0.4": {
+        "temp": 0.4,
+        "response": [
+          "Once upon a time  I was a kid  and I used to play in the garden  with my friends and my parents  playing with the grass and the flowers and playing in our yard . I loved it . It was so fun . And I would love to have that same feeling again . So I decided to start my own garden . The garden is my favorite hobby and it is a great way to spend time with family . But I have to admit that I am a little nervous about starting my garden because I do n't know what to do . How do I start a garden ? I will share my secrets with you . Let 's get started . Gardeners love the idea of having a yard to grow their own food . They enjoy the fresh air and they can enjoy their plants . You can also enjoy your garden by watching the birds fly over your yard and by enjoying the beautiful scenery . In fact , gardeners enjoy spending time in their yard because they enjoy having their garden as a hobby . However , they also love having the yard as an extension of their home . Gardening can be a relaxing and enjoyable hobby for "
+        ],
+        "ttr": [0.5065502183406113],
+        "perplexity": [880.71],
+        "mean_perplexity": 880.71,
+        "mean_ttr": 0.51
+      },
+      "temp-0.6": {
+        "temp": 0.6,
+        "response": [
+          "Once upon a time  I was a little girl in a garden. I had a teddy bear and a ball. My teddys were my favorite. We played hide and seek. The ball was my best friend. It was always with me. There was no one else like it. But I loved my teddiest. And I never had any friends. Because I couldn't play with other people. Why? Because they were teddies. They were all tedbies. Now I'm a grown up. I'm not a kid anymore. So I have a new friend: a doll. A doll is a friend for me now. She is my new best friends too. Her name is Barbie. Barbie is also my doll! She has a big brother. He is named Ken. Ken is the big sister. She's my sister and she is very nice. All the other dolls are my sisters. They're my friends as well. Who are they? Barbie and Ken's sister? No one. No. It's not that. This is just a story. That's all. Happy birthday to Barbie! Barbie, my friend! Happy Birthday! She's six years old! Six! That's a lot of years! You are a real doll, Barbie doll ! Barbie has six! "
+        ],
+        "ttr": [0.50390625],
+        "perplexity": [961.65],
+        "mean_perplexity": 961.65,
+        "mean_ttr": 0.5
+      },
+      "temp-0.8": {
+        "temp": 0.8,
+        "response": [
+          "Once upon a time  a small group of local fishermen had a good fishing charter for a year or two, then when they were caught off the coast, they had to go to the nearest town to get their gear back. Nowadays, fishing is more like a sport, and the fisherman has a better gear and a higher catch rate. There are also regulations about how many fish to catch and how much they should weigh. But what about the fishermen themselves? They continue to be fishermen. They need to fish, even if they are not caught. However, the fishing industry is in a strong position because there are more and more people interested in fishing. For example, if you see a fly fishing tournament on TV, you might think that it is a great sport. It is very popular and attracts a lot of people to it. You might not know that the TV shows and other media are part of the entertainment industry. An important part in the growth of a fishery is the increase in interest from the public. The public becomes interested when a particular fish is caught or an event is happening. More andmore people "
+        ],
+        "ttr": [0.5374449339207048],
+        "perplexity": [857.29],
+        "mean_perplexity": 857.29,
+        "mean_ttr": 0.54
+      },
+      "temp-0.9": {
+        "temp": 0.9,
+        "response": [
+          "Once upon a time  there was a little boy who was poor and had nothing to do but play in the mud. He wanted to be a baseball player. But he couldn't play baseball because he didn't have the money to play. So he decided to take up football. And he played football until he could get the $18 to buy a football for himself. His mother saw the child play the football and said, \"That's good, my son. You are good at football, but you don't know baseball.\" The boy was embarrassed and didn't know how to answer. The mother said to him, \"Well, I know that you are a poor boy, and you have nothing else to offer. \"Now, you know what you must do. Get the ball. Use the hands to hit the baseball and try to win. That's what you'll do if you want to become a good baseball athlete. It was very simple. A little child had to decide whether to try his best to succeed or to give up. Well, the boy picked up the soccer ball and tried his hardest to make the difference. I think the problem is that we do not "
+        ],
+        "ttr": [0.5107296137339056],
+        "perplexity": [960.3],
+        "mean_perplexity": 960.3,
+        "mean_ttr": 0.51
+      }
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "bigscience/bloom-1b7": [
+      {
+        "response": [
+          "Once upon a time  I was a teenager And the best thing I ever did was... Wait a second... You said the only thing that you wanted from life was to be a musician. I have a plan. You're going to go to college and get a degree in engineering. Yeah. - And that's when you get to work for the music industry. That's what I want. You want to take some pictures of me? Oh, that would be great. Okay. All right, I'll get you something to wear. And I'll call you right back. What? I'm so sorry. Why? I wasn't... I didn't know what to do. Look, I didn't want you to get hurt. No, it's fine. It's fine, okay? Thank you. Hey, can you talk to him for me for a sec? He's got an attitude. He just needs to hear it from you first. Well, that's nice. But it's not gonna happen. Yes, it is. So, what are you gonna do? You're gonna let him win? No. I'm not giving up. Not now. I'll take the risk. Good. 'Cause that means I can keep you from having a relationship with another person. Because you're right. That makes ",
+          "Once upon a time  I was a young man  who thought I could make  a living I used to sit on the riverbank  and listen to the wind blow  to see the world go And sometimes  I'd look out over the water  or see a fishing boat  but most of the time I just sat and smoked Somewhere in my mind  someone told me  that there was an answer for everything Now that I'm older  I've tried to take it easy  knowing that I never truly understood My family's a broken family  I'm a poor man So  now I sit here  in the woods  watching the sun set  feeling lonely For  some reason  it's always the same  so I guess it's only a matter of time Until someone else comes along  like the young boy I used  before I ever understood the answer Who will look at me and say  this is all I needed That no one else needs to be lonely  for  someday  maybe  you'll be  my son If you think  you're lonely tonight  take a look around you There's somebody who will be there for you  always - This is the place Come on Let me show you "
+        ],
+        "ttr": [0.5277777777777778, 0.5690376569037657],
+        "perplexity": [595.42, 592.73],
+        "mean_perplexity": 594.08,
+        "mean_ttr": 0.55,
+        "typical_p": 0.7
+      },
+      {
+        "response": [
+          "Once upon a time  before we were  the same  now we're different. It's because of the change. - What are you saying? - I don't know. And you, you are going to marry him? I'm sorry, but  you have to tell me what you're saying. So I heard that she married a man with a moustache. That's a bit harsh. Didn't I say she got married? What about the moustaches? Are they a part of her? Well, it is, I suppose. Look, we know each other for a long time, aren't we? And I know that you've always had a lot of friends. Well? Why don't you just go home and get ready for bed? Just go to bed. I'm going with you. Do you want me to go with him or not? It's your choice. You think that's a good idea? I don't want to be alone with her. I want you to do whatever you need to, that's all. Just relax and take it easy. Then what will you do? Will you marry me? Of course I will. Good night. Will I see you again? Where? Oh, yeah, of course. Right, I'll see... - Where do you live? Wake up. What ",
+          "Once upon a time  There lived a great king of Ys. In his palace there dwelt a fair young maiden. She loved him with all her heart. The king loved her even more. He thought her the most beautiful of all the women. One day she was going to spend the night in the palace with the king. But when she came to the door he threw it open. Now this young maid went out and sat down by the fire. And she heard a noise. Then a man came up the chimney and threw a stone. \"Stop that,\" said the man. \"Not by your life, young fair lady, not by my life. Just sit down.\" So she sat by his side and they did not speak again. That was all. Soon the young woman got tired of sitting by him. \"Are you sleeping?\" she asked. \"No, no, my love, I'm not sleeping\" And they got up and walked away. They never saw each other again but they kept eachother in their thoughts. This is what happens to love. When you go too far it falls apart. My love is far away from me. I don't even know if I'll "
+        ],
+        "ttr": [0.49019607843137253, 0.5909090909090909],
+        "perplexity": [634.63, 567.03],
+        "mean_perplexity": 600.83,
+        "mean_ttr": 0.54,
+        "typical_p": 0.8
+      },
+      {
+        "response": [
+          "Once upon a time  we were children In a land where every day was a miracle Now, the children are gone Only the memory is left And the child inside is all alone But the time has passed You see, it's time for us to grow up To leave the nest and go our separate ways We're grown up now We just have to remember who we are Just like we did when we used to be children  A:  I just had a thought about the same thing, and I think you could use it. Maybe it will make you remember the simple childhood things more clearly, but also make it easier to recall more deeply. I have noticed that if you think about something in your childhood and think back on it, or in my case if I write it down, I often remember things that were present at that time. I don't think they will always be present to remind me of the actual event, though. Sometimes, they come back to me, even if they are forgotten. This happens to both myself and others. It can be because I remember details, which I hope will continue to occur, ",
+          "Once upon a time  I dreamt I saw a man who walked upon the earth with a golden sword and with his hands he grasped the stars The stars were sparkling in his eyes He took a star out of his hand that sparkled in a way  to my eyes. A white hand was over his head I looked down and he was gone Then I looked back and his face was mine My life  my home was his As he came walking on the ground So I came back to life again Life is full of surprises You never know what will happen tomorrow If I try  if I take the wrong path But I keep walking  always  on  the right path. Life was made of hardships No matter what happens today It will always be the same tomorrow. But  with my smile That face  that golden  sword  and that hand  so many things Will change Because life is not always easy. So let me go on and keep going. That's why I can't stop. Because  that's how life goes. Let me walk with you. Let's go and make new memories. It's a good thing to always remember All "
+        ],
+        "ttr": [0.5954545454545455, 0.5614035087719298],
+        "perplexity": [592.2, 633.2],
+        "mean_perplexity": 612.7,
+        "mean_ttr": 0.58,
+        "typical_p": 0.9
+      }
+    ]
+  },
+  {
+    "bigscience/bloomz-1b7": [
+      {
+        "response": [
+          "Once upon a time  the sun  had a lightness of  love  for its inhabitants  and the inhabitants of the earth had never known it. A day in the sky was like a star, the brightest star in all the night sky. And that was the light of love. He who loved would see that in his heart there was love, and this love was perfect. When the moon came up, they saw a beautiful light in their eyes. All of a sudden a storm came and it stopped the day. It was a bad day for the Earth. But the love of this man was not affected. The man continued to love the other woman. This was how love works. For this reason, we know that love is not a feeling. Love is a way of life. It's a belief. We can't believe in it, but we can live in love and live our lives in that way. God, who loves us, sent His Son to give us the message of what love is: He was willing to die for us. In the movie Jesus, God told us that God was going to send His only Son, Jesus Christ, to ",
+          "Once upon a time  we were not only two women, but three women. The women were two sisters. In other words, we lived with each other and were a family. All of us were very close and very loved by each. We shared a large part of our lives with the same man. During the past few years, he has gradually disappeared. He has moved away from us and we feel lonely and left out. This has been a very long time and I know he is not coming back. Can you tell me about this story how the narrator feels about her sister's relationship with her boyfriend. lonely for a long period of time. She also feels her relationship is going to end. I wish she would stay with them. Her boyfriend is moving away. What will happen to the sisters relationship? She will end the relationship. no one knows where the boyfriend might be. They will try to find out how long this has happened and what to do. the boys and the girls had a hard time at first but now they are growing up and becoming more mature. No one can tell what the future holds. "
+        ],
+        "ttr": [0.48068669527896996, 0.5777777777777777],
+        "perplexity": [903.46, 961.98],
+        "mean_perplexity": 932.72,
+        "mean_ttr": 0.53,
+        "typical_p": 0.7
+      },
+      {
+        "response": [
+          "Once upon a time  a guy named Frank   was a local college athlete . Frank was the smartest guy in college , but now he's been unemployed for a while . Frank had been waiting to start his new job for over a year and now it was just a matter of waiting until the last day of his last job to get a job interview . He had applied for the jobs but was not successful . At last , he wanted to find a new start . One day he went to a store to look for jobs . And he found that there were few jobs available . Now he has to search again for job interviews . How can he get new jobs in the future ? He has no clue . Can you help him ? Yes , you can help Frank out . Use the information in this book to help with his job search . Thank you for reading the book . Yes . There is a great job in every profession . The question is how to be successful in your job . This book helps you to solve your problem . You may read it if you are interested in job searching . - It helps people in different fields . It is helpful to ",
+          "Once upon a time  there was a woman who wanted to know whether there were any horses in her village. She looked around her home, but could find nothing. At one point, she got up and went out and looked for horses. It was late afternoon when she returned. There was nothing! She asked again, late in the evening. And again there wasn't a horse. Then she decided to call the village and ask the chief of the area. The chief was furious, saying that the women must not dare to question his authority. But the woman insisted that she was right. In the morning, the same thing happened. When the villagers went for the horses she had missed, they saw no horses either. As they had been foraging, a goat was seen grazing on the grass. They thought the goat had got into their nets, and the horse had also escaped.The chief insistently asked the young woman why she wanted horses? She told him that her husband had a bad reputation in his village for killing goats.When the woman's husband got home and learned about the bad report, he didn't approve of his wife's asking for and had told "
+        ],
+        "ttr": [0.5109170305676856, 0.5466101694915254],
+        "perplexity": [938.82, 854.83],
+        "mean_perplexity": 896.82,
+        "mean_ttr": 0.53,
+        "typical_p": 0.8
+      },
+      {
+        "response": [
+          "Once upon a time  a great woman called Elizabeth I of England  lived a long and fruitful life...but she had one major flaw: she was pretty. She used this to her advantage throughout her reign. In her time, the country was not yet at the height of her splendor. Her reign, from 1562 to 1603 was called The Golden Age. This was a good period, but it is difficult to know if she really was the most beautiful woman in Europe. There is a debate. A good number of historians are now accepting Elizabeth's claim and say she is the second most well-loved woman of all time. However, Elizabeth II was born in 1948. Elizabeth the Second was also called Queen of Scots. On 22 February 1952, she became queen of the United Kingdom of Great Britain and Northern Ireland. For those unfamiliar with the history of Britain, her real name is Victoria Mary, Victoria Adelaide. Born in Stirlingshire, Scotland, in 1874, Queen Victoria grew up in a family that was one of many that had served on the Royal Navy: she inherited the royal title of Victoria from her grandmother. But her true passion was writing, and she kept ",
+          "Once upon a time  there was a family from England. Their home was near the river. But when a storm blew through the area, their home had fallen into the water. The family moved to a new home. A boy from the family was very excited. He wanted to go on a camping trip. So he had to find some supplies. To find supplies, the boy went to the store. After a few hours he found some of the supplies he needed. On the bus to school, he was amazed to see that he didn't even have what he wanted. Then he said to himself: \"I have to get some other supplies first.\" But he knew that the parents wouldn't like him if he did not bring them back. That day the whole family went on the shopping trip, buying all the necessary supplies for the camp. When they arrived at the shop, they didn't have any supplies at all. Now the boys were having a panic. They started asking their parents what they should do. And their mother said, \"No!\" She didn't want to lose their baby. Because of her love for her child, she didn't let them go. "
+        ],
+        "ttr": [0.5950413223140496, 0.5517241379310345],
+        "perplexity": [1143.58, 892.71],
+        "mean_perplexity": 1018.14,
+        "mean_ttr": 0.57,
+        "typical_p": 0.9
+      }
+    ]
+  }
+]

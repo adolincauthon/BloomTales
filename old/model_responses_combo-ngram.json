@@ -1,0 +1,496 @@
+[
+  {
+    "bigscience/bloom-1b7": {
+      "temp-0.3-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He was born in the year of the Lord of Ages. And he was the son of a farmer. But he had a dream. A dream that he would be a king. So he went to the king and said, \"I have a vision. I see a great white horse. It is the horse of my dream.\" And the King said to him, \"Go and tell the people that I have seen a white horses. They will believe me. \" So John went and told the whole people. The people believed him. Then the white man came and took John and brought him to his palace. There he sat on a throne. John was very happy. \"Now,\" said the man, \"you will be king. \"I will give you all the kingdoms of this world. \"And you will have no need of anything else. \"\" But the next day, the White Horse came to John's palace and he took him away. To the palace of his dreams. Now the dream was over. For the first time in his life, John was not a prince. No, he wasn't. Not a single one of them "
+        ],
+        "ttr": [0.4708333333333333],
+        "perplexity": [589.24],
+        "mean_perplexity": 589.24,
+        "mean_ttr": 0.47
+      },
+      "temp-0.3-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Luke. He was born in the year of the Swan. And he was the son of a farmer. But he had a dream. A dream that he would be a prince. So he went to the city of Rome. To the palace of Caesar. The palace where the emperor was. When he got there, he saw a man. Who was dressed in purple. With a golden crown. On his head. His name was Caesar. Caesareus. What was he doing there? He wanted to see the Emperor. Why? Because he wanted a son. I don't know. Maybe he thought he could get a child. Or maybe he just wanted the chance to be the next emperors son And to rule the world. How did he get there in Rome? By ship. By boat. It was very expensive. They had to pay a lot of money to get to Rome. Then he took a ship to Italy. From there he walked to Italy. In the boat, there were people. People who were rich. There were also people who lived in poverty. Some of them were slaves. Other people were free. All of these "
+        ],
+        "ttr": [0.49586776859504134],
+        "perplexity": [629.25],
+        "mean_perplexity": 629.25,
+        "mean_ttr": 0.5
+      },
+      "temp-0.3-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I dreamed of a fairy tale Where a prince and a princess lived But they were so far apart That I could never see them I was so sad and lonely Until one day A fairy's wand came to me It brought me back to life To the kingdom of the fairies The kingdom where the prince was He was the king of all the princes So I told him I loved him Then he said he would marry me if I would If I only knew how to make him happy Well, I did Now I know how All I have to do is tell him the truth Tell him that I love him too Oh, tell me how you do it How do you make a man happy? Tell me, how do I do that? Well... I don't know It's just a matter of time Time? Time is the most important thing You have no idea how much time it takes to get a girl to love you Don't you? Oh... Oh! Oh...! Oh...? Oh? ! I love this song! It's so beautiful! You know, it's so true! It "
+        ],
+        "ttr": [0.53125],
+        "perplexity": [648.68],
+        "mean_perplexity": 648.68,
+        "mean_ttr": 0.53
+      },
+      "temp-0.3-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He was born in the year of the Lord  in a village called Bethlehem. His father was named Joseph and his mother was Mary. And they were blessed with a son. But the man was not blessed. The man had a disease. A disease that made him weak and sick. So he was sent away from his parents. To a place called a farm. Where he lived with his brothers and sisters. They were all children. One day, the brothers went to the fields. When they returned, they found the father of John dead. There was no sign of him. No sign. Then they went back to their house. Their mother had gone to sleep. She was sleeping. Her husband was there. John was alone. In the dark. With his brother. It was dark in there, and the brother was asleep. Suddenly, a voice came from the darkness. \"John, wake up. Come out of your sleep.\" John opened his eyes. Seeing his father, he cried out. \"Have mercy on me, father. I am a sinner. \" The voice said, \"John. You are a good son. You are the son of a "
+        ],
+        "ttr": [0.4980237154150198],
+        "perplexity": [621.88],
+        "mean_perplexity": 621.88,
+        "mean_ttr": 0.5
+      },
+      "temp-0.3-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named... - ...and he was very rich. - And he had a wife and a daughter. And he loved them both very much. But one day, he decided to leave them. He left them to go to a place where he could be alone. So he left the wife, the daughter and the money. The man went to the place, and he stayed there for a long time. Then he came back to his wife. They were still together. It was the happiest time of his life. Now, they were living in a big house. There was no one else there. Only the man and his daughter were there, living happily. One day the father came to see his son. When he saw him, his heart was broken. His son was gone. No one knew where the son had gone to. All the neighbors knew that the boy had left his house, but they didn't know where. Nobody knew why. Until one night, a strange man came into the house and said, \"Your son is dead. He's gone.\" The father was so shocked that he couldn't believe it. \"Who is that man?\" he asked. "
+        ],
+        "ttr": [0.47540983606557374],
+        "perplexity": [559.72],
+        "mean_perplexity": 559.72,
+        "mean_ttr": 0.48
+      },
+      "temp-0.3-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I lived in a small town I was happy But then a man came along He was tall and he was handsome So I loved him Then he took me away To a big city Where he had a job In a factory It was very nice The people were nice and the food was good They had everything they could want Except for me My name was Anna Anna was my name When I came home All my friends were gone Only my brother was left His name is Peter Peter was the only one who knew That I had been taken away from him and Anna and my mother Because they had no money No money? I had nothing Nothing? Anna and I were poor We had to live on the streets Every day we had one meal One meal? Yes A piece of bread and a cup of tea Sometimes we ate a piece Of meat What did you eat? A little piece, a bit of cheese You ate meat? No Why not? Because I didn't have money to buy it That's why I ate nothing at "
+        ],
+        "ttr": [0.6028708133971292],
+        "perplexity": [642.97],
+        "mean_perplexity": 642.97,
+        "mean_ttr": 0.6
+      },
+      "temp-0.3-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named... - ...and he was... He was the greatest. - What? - He was great. He had a great voice. And he had the best guitar. I mean, he could play any song. But he never had any money. So he started making money by singing. You know, like, singing songs. Like, you know... You can sing a song, and then you can make money from it. That's what he did. Well, I guess that's what I do. I'm a singer. Yeah, well, I'm a writer. Oh, yeah. You're a good writer, too. What? Yeah. It's funny. When I was little, my mother used to tell me stories. She used a storybook. It was called, \"The Story of the Greatest Man.\" And it was about a guy named, uh, George Washington. George Washington? Well... I guess I could say that I am a George W. Washington. Okay. Now, listen, if you want to know the story of George, then listen to this. This is the first time I ever heard of a person named George. The first thing I heard was, \"George,\" and I thought, \"Oh, that's a name. \" So I went to the library "
+        ],
+        "ttr": [0.46441947565543074],
+        "perplexity": [611.66],
+        "mean_perplexity": 611.66,
+        "mean_ttr": 0.46
+      },
+      "temp-0.3-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a young man And I had a dream A dream that I would be a king But I didn't know That I wasn't meant to be king. I was just a boy I had no idea What I wanted to do When I got to the king's palace The king was waiting for me He was so proud of me. He said, \"You're a good boy. You're going to make a great king.\" So I went to school To learn how to read and write Because I knew I could be great If I just worked hard. But the school was only for boys. And the only boys in the kingdom were the kings. So, I left school and went back to my father's house Where I lived with my mother and my brother. My brother was the youngest of the three. We were all brothers. The only thing that was different between us was that my father was more powerful than my brothers and he was always trying to get us to work for him. One day, my dad came to us and said, \"You're all going back home. You can't stay here. "
+        ],
+        "ttr": [0.5225225225225225],
+        "perplexity": [658.89],
+        "mean_perplexity": 658.89,
+        "mean_ttr": 0.52
+      },
+      "temp-0.3-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a little girl  who was called  Alice. And she lived in a house in the country. She had a garden full of flowers. There was always a lot of fun in there. But one day, Alice went to the market. So she bought some flowers for her garden. When she came back, she found her flowers wilted. The flowers were dead. They were all dead! And the little boy who had helped her to grow them was gone. He had gone to work. Alice was very sad. Her garden was all gone! She was so sad! But she had to go to school. That's why she went back to her house. Then she saw the flowers again. They're all alive! They are all growing! They're growing so fast! So Alice decided to take care of them. Now she has a beautiful garden! Alice is very happy. She's very proud of her new garden and of the new flowers! Now, everybody has to help her. I will help you. You will have to plant some of these flowers in your garden too. It's a very important job. If you don't plant them, they'll all die. "
+        ],
+        "ttr": [0.45569620253164556],
+        "perplexity": [634.54],
+        "mean_perplexity": 634.54,
+        "mean_ttr": 0.46
+      },
+      "temp-0.65-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  when I was a child I was on a farm with my father And I had a dream A dream that I would be a farmer But I didn't know how When I woke up My father was gone He had gone to work The farm was empty No one was around It was dark So I sat on the fence Looking up at the stars Until I saw a light There was someone Who was walking Through the fields With a lantern She was carrying a basket On her back Then she stopped Turned around and looked at me As if she was afraid Of what I might be What I could be if I got out of this farm That night In the morning Her name was Mary Mary Mister, I need your help I'm looking for my mother Oh, my God Where is she? I don't know It's not her She's not here Is she in there? Yes, she's in the basement We need to get her out Go Get her, go Come on Help me, please Please You can do it Just go, just go! Go! Mary! It's okay You're safe now "
+        ],
+        "ttr": [0.6435185185185185],
+        "perplexity": [675.06],
+        "mean_perplexity": 675.06,
+        "mean_ttr": 0.64
+      },
+      "temp-0.65-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a friend who was just like you She was like a bird But she was not a fairy I was the only one Who could talk to her So I used to tell her stories That I could make her believe You know what I mean? You can believe anything you want to believe in That's the power of magic It's the magic of words Magic of the heart - Magic of love -Magic of life My friend was there When I first met her  she looked so beautiful Her hair was so long It was golden Like a rainbow With a sparkle like diamonds All the way to the end The way she walked Was like the wind Always blowing In the direction she wanted Then she said to me \"Don't you ever forget How much you love me\" \"You can do anything If you just believe\" I said \"I believe you\" she answered \"But you must believe me first Because I am a witch\" She said and she took me to a place Where there was no one but a tree There was only the sound of "
+        ],
+        "ttr": [0.5601851851851852],
+        "perplexity": [643.61],
+        "mean_perplexity": 643.61,
+        "mean_ttr": 0.56
+      },
+      "temp-0.65-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  a man was a slave and a woman was his wife. And now she has a son and he is a father. But the master has given her no money, no property, nothing. I have no right to be here, you have not a right. The only thing I have is the right of life. You can live if you want to. I'm not here to live. You're here because you're a free man. Free man! You're free! You think that you can come here and kill me? You don't know what freedom means. It means nothing to me. - But you don't want freedom. What do you care? - I want money. Money! Money to buy a life! - Money! I don't have money! What about the money you stole from me last night? I stole it from you. Why did you steal it? Why? Because I didn't have any money to give you for your freedom! And I don't care! Because you said you didn't want it! Why would you say you did not want your money? What does it matter? It doesn't matter. If you gave me money last time, I would have given you the "
+        ],
+        "ttr": [0.40585774058577406],
+        "perplexity": [628.7],
+        "mean_perplexity": 628.7,
+        "mean_ttr": 0.41
+      },
+      "temp-0.65-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a girl named  Grace. She was the daughter of a rich man. And she was very beautiful. But she had a secret. A secret that made her very unhappy. One day, she met a boy named Jack. Jack was just a little boy. He was so shy. Grace loved him. So she tried to make him feel special. The secret was that Jack was not the son of the richest man in the world. It was only a matter of time before the truth came out. Then Grace was gone. They never found her. When Jack grew up, he became a very successful businessman. For a while, Jack seemed to be the happiest man on the planet. In the end, however, the secret came to light. I don't know what happened to Grace, but I know that I never loved her again. I'm sorry. What are you doing? I thought you were in a movie. No, I'm not. It's just that... I have to go. You have no idea how much I miss you. - Bye. Bye. Hello. Hi. How are things? - Fine. Are you looking for something? No. Just looking. What's this? It's a "
+        ],
+        "ttr": [0.5100401606425703],
+        "perplexity": [613.03],
+        "mean_perplexity": 613.03,
+        "mean_ttr": 0.51
+      },
+      "temp-0.65-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  the earth was young and green  and the sky was blue and clear  And the sun was shining brightly  The birds were singing and playing  There was no rain and no snow  But a terrible storm was coming on  A terrible, terrible day  It was a dreadful day for the land  All the trees were falling down  No one could get out of the house  Nobody could go to school  Everybody was scared and frightened  They all ran to the woods  To hide from the storm  I was frightfully scared  When I saw the wind coming  My heart was beating fast  So I ran as fast as I could  As fast I can run  For I knew that the rain was going to come  If the water got too deep  Then the ground would be flooded  That would destroy the whole place  Every tree would fall down and burn  We all would all die  Oh, oh, my dear  Don't you worry about me  It's just a big storm coming   Oh  oh  my  dear don't you  worry  about  me   Don't worry, don't worry Don't  you   worry   about   me Don't   you, worry don't  do   anything  for me Oh "
+        ],
+        "ttr": [0.4823529411764706],
+        "perplexity": [627.82],
+        "mean_perplexity": 627.82,
+        "mean_ttr": 0.48
+      },
+      "temp-0.65-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a girl She was beautiful And she was very special But she had a secret A secret that she wanted to share I was one of the few boys who knew That the girl had the secret  and that he was the only one who could help her Her secret was that her name was  Alice Alice was happy So happy she didn't know The secret had been known for years To everyone around her  except her mother Now the day came When the world was at peace All the children were happy and all the adults were sad Everyone was sad except Alice  who was happier than any of them Even the parents were happiest when they saw their little girl  walking through the woods With her head down and her eyes closed There was no one there to help Alice except  the boy who had seen her face  before How many times have you heard the name  \"Bob\"? I don't know. But I know who he is. You know, I don't think I would have known if you hadn't said it. Bob? Who are you? Alice? What are we doing here? We're "
+        ],
+        "ttr": [0.5560538116591929],
+        "perplexity": [650.27],
+        "mean_perplexity": 650.27,
+        "mean_ttr": 0.56
+      },
+      "temp-0.65-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  when I was a boy I was walking along the beach And I saw a man walking by He was wearing a blue shirt His hair was gray But he was so beautiful It was like he had been there all his life When I looked at him My heart was beating so fast That I couldn't stop For a moment So I stopped and I kissed him on the cheek Then I walked away 'Cause I knew that he would never love me As much as I loved him, but I never could Because I didn't know him at all Well, I know now Now I understand Why I always had to be so careful To keep my heart pure Until I found him in the crowd The man I had always been waiting for Who was always waiting All my life for me to find In the city of dreams Oh, oh, baby, you are so sweet You are the only one I ever knew Baby, don't you know How much I love you? Oh Don't you see? I love - Oh, no No, I'm sorry I'm sorry, honey It's all right I'll be back "
+        ],
+        "ttr": [0.6036866359447005],
+        "perplexity": [673.48],
+        "mean_perplexity": 673.48,
+        "mean_ttr": 0.6
+      },
+      "temp-0.65-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a little girl  And I lived in a house  Where the cats were all sleeping  But now I know  That there are cats that sleep  Sleeping cats  Like me  Who sleep in the night  With their little babies  Cats who sleep with their babies and sleep and dream  Of the day they wake up  To find  The world has changed  So I  Go and tell them  Tell them what I have found  'Cause they sleep all day  They sleep for a while  Then they come to me and say  'Tell me what you have seen  'They sleep so much  It's hard to wake them up'  Yes, I tell the story  When I told them the truth  It was so funny  All the little cats cried  For the way they slept  A little cat said  'I know what it is  You sleep, you sleep' And he said, 'Yes, but I don't know why' 'Cats sleep because they have babies' But the babies sleep too  Too much sleep is a bad thing  If you don't wake the baby  He will sleep forever  Maybe you can wake him  In the morning  I'll tell you the secret  Cause "
+        ],
+        "ttr": [0.4901185770750988],
+        "perplexity": [588.44],
+        "mean_perplexity": 588.44,
+        "mean_ttr": 0.49
+      },
+      "temp-0.65-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a young boy. I was born to a rich family. A rich, rich man. And he was the father of a lovely girl. She was beautiful. But she was also a bit of an idiot. The idiot? She'd come to him in the morning, and he'd say, \"Baby, have you seen your father?\" And she'd say \"No, I haven't.\" And he'd laugh. So she didn't like him. Then she took him to see a priest. You know, a Catholic priest, the one who talks to the dead. He'd talk to her, he said, \"She's just a little girl,\" and he would say, \"I know she's just some little, little child. She's just your daughter. Why don't you take her away to be with your mother?\"' But he wouldn't do it. No, he'd never do anything. Because he knew she would never forgive him if he ever did. He's a good man, is he? Yes. Good. Yeah. Well, I've got to go. If you'll excuse me, Mr. White. Oh, no, of course. Don't worry. I've got a plane to catch. Bye. - Goodbye. Nice to meet you. Excuse me. I'm sorry, sir. We don't have any "
+        ],
+        "ttr": [0.5111940298507462],
+        "perplexity": [591.04],
+        "mean_perplexity": 591.04,
+        "mean_ttr": 0.51
+      },
+      "temp-0.8-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a big house With lots of rooms For my dolls and my toys I had lots and lots Of things to do But I never had any playmates Because my parents were busy They didn't have time To play with me So I thought I'd be happy If I could just play alone Then I got a doll Who was very pretty She had her hair long and she had big eyes Her name was Alice When I first saw her It was like My life was gonna be A lot more fun I'd never seen a real doll before Now, I know I can do it It's just that I'm scared to play Why? Because They're all so sad You know, like, they don't have any friends No one wants to be friends with them That's why Every time I play, it's like I get a new friend Like I meet a different person That I wouldn't have met if I wasn't playing with her now Well, that's what I like about dolls: they make you feel like you're meeting new people Just like real people do. "
+        ],
+        "ttr": [0.6367924528301887],
+        "perplexity": [630.91],
+        "mean_perplexity": 630.91,
+        "mean_ttr": 0.64
+      },
+      "temp-0.8-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  we were all children. - Now, we are adults. We can be children again. I don't want to be a child again, but I don't know how. I'm not sure if I can ever be anything more than a kid again! I want the world to know I was a good kid! - I didn't mean that. No. You didn't. But I guess you were a little too young to understand. It was hard for me. The first time I got really mad at you. And then you came back. That's when I realized I loved you so much. You're the only thing that matters to me! You're my only family! And you're the reason I'm a happy man. Well, that was great. Now I just have to find a way to make you happy. What do you mean? Well... I guess I really don't have any idea. Hey, kid, what's wrong? I think we need to talk about this. How come you don't talk to your mom? You know, she doesn't like you, and you know it. She says you're not good enough. Look, I know that you have some problems, okay? But maybe we could just "
+        ],
+        "ttr": [0.5062240663900415],
+        "perplexity": [646.44],
+        "mean_perplexity": 646.44,
+        "mean_ttr": 0.51
+      },
+      "temp-0.8-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  you were a girl  and I was your friend  You were my heroine  My hero who I always admired  But now you are gone  And now I am alone  I think of you every day  Every day I try to get up  To be with you once again  That was my promise  We were meant to be  Never be apart  Your smile was all that  Was left for me to take  From my heart  All my memories  When you called me girl I loved you too  Yes I did  How could you leave me all alone?  It was only a dream  A dream that I couldn't believe  Now I see you through my tears  The girl you left behind  Where is the love that you gave me  What did you give me when I left you behind? I know you love me too I don't care what happens  It's only fair  If I can find you again I will be there  For you  Forever  Girl  Baby girl... Girl, baby girl, girl. Baby, you know I'm not like you. I love you more than you can imagine  Love, love, Love  Don't leave my side, don't leave, never "
+        ],
+        "ttr": [0.4979757085020243],
+        "perplexity": [661.89],
+        "mean_perplexity": 661.89,
+        "mean_ttr": 0.5
+      },
+      "temp-0.8-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy who lived in a village called Paddington. He had a very beautiful wife and two beautiful children. They were very dear to him. But one day, while they were playing, he fell asleep. And he never woke up again. His wife was very, very sad. She thought that he had died. Then, one morning, she woken up. The children were all asleep, too. There was no one to look after them. So she went out and looked for him, but she couldn't find him anywhere. What was the matter with him? She tried to find out, and she found out that his name was Padd. Paddy. That's it. It was that name. Now, you know what happened to Paddy? He was left in the dark. In the middle of the night, a man came to the door of his house. A man? Yes. One of those men who come in at night and take the children and leave them in their room. You know, they say that they come to take them away from their parents. Well, that's what he did. That man was Mr. Parry. Mr. Mr. Oh, yes. Yes, I "
+        ],
+        "ttr": [0.4980237154150198],
+        "perplexity": [618.66],
+        "mean_perplexity": 618.66,
+        "mean_ttr": 0.5
+      },
+      "temp-0.8-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  the three of us lived in a house with a tree in the middle of the yard. My mother taught me how to read and write. We lived a quiet life. Then a war broke out. The Nazis invaded our home. They took everything we had. There was no one left. I was 12. When I was 13, my father was killed. He was my only family. It was terrible. After the war, I went to live with my aunt. But she was dead. She was a nurse. Her husband was sick. And she had a daughter. Lola. Now I know why you had to leave. You have to go to school. - Why? - To earn money. Earn money? What kind of money do you have? I have money, but it's all for me. I'm going to buy a car. A car? A what? An old car, a truck, or a van. If you want to earn more money you'll have more to eat. Don't worry. We'll buy one for you. What's the matter? Nothing. Just that I don't want you to come to the funeral. What? Why? You know that I'm going. It's not important. You're "
+        ],
+        "ttr": [0.5298804780876494],
+        "perplexity": [671.43],
+        "mean_perplexity": 671.43,
+        "mean_ttr": 0.53
+      },
+      "temp-0.8-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a young girl named Annie - Annie? - Yeah. And she lived in a house with a nice big garden. Annie... An Annie. Oh, Annie... - Oh, no. - No? No. That is... That's not good enough. That's too much. I don't like it. It's too sad. She's not sad, she just has a hard time sleeping. How do you know? Because I've seen her. I've seen Annie's face. Well, I've had enough of your sad faces. You know what? You don't have to go through with this. I'll talk to her tomorrow. When you go to bed, just think of something nice. What is that? That... That flower. Just think about it, okay? I love you. Come on, sweetie, let's go. Wait. You're not gonna miss the show. I'm gonna show you how to make the best coffee in the world. All right, baby. Okay, look. We need to add two more cups of water, and a little bit of sugar. Now, we want to mix the coffee and the sugar together, so we just press down. We're gonna see what happens. Thank you very much, Mr. Gumble. See you tomorrow morning. Is that a coffee? Yeah, "
+        ],
+        "ttr": [0.5227272727272727],
+        "perplexity": [606.59],
+        "mean_perplexity": 606.59,
+        "mean_ttr": 0.52
+      },
+      "temp-0.8-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  we had a man named Mr. Smith. - Oh, I remember him. He was a nice man. Well, he was. I guess he had to leave. So, how's the weather? - Fine. It's been a long time. Isn't it? Well... I think it's just a little too warm for you. We haven't been here in a while. Oh, it's been wonderful. I've been thinking about you, too. And about the place. How could you let me go? I didn't know you were coming. You know, you don't have to explain yourself. You're a good man, and you're not going to hurt me. I'm sorry. Why did you do it, Mr... Smith? Because I thought you might be a friend. A friend? You mean like a family? Like a brother? Yes, like that. What did I do to deserve that? Why didn't you tell me? What do you mean? It was my fault. It wasn't your fault, was it. If you had known me, you'd have known. But you didn't. No, of course not. Because you never told me about your wife. She died. That's why I came here. For you to tell you the truth. To tell the "
+        ],
+        "ttr": [0.4806201550387597],
+        "perplexity": [638.71],
+        "mean_perplexity": 638.71,
+        "mean_ttr": 0.48
+      },
+      "temp-0.8-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man called ... Oh, God, no! No! [Groaning] [Coughs] Well, he's gone now. No. It's all right. He's gone. [Laughs] [Cellphone Ringing] [Chattering] I don't know how to thank you, Mr. Wilder. Oh. Well... Well. Thank you. I just... I don't think I could say thank enough. Of course. We can say that. You don't have to say anything. I'll take care of that, too. Yes. Sure. [Sighs] So, what do you think? I think it's beautiful. Really? Yeah. It looks great. - [Door Opens] - [Knocking] Hey, Dad. Hey, sweetie. What's up? Oh... I'm sorry. I'm just so, so tired. Yeah, I know. You're just tired, and you're just in the middle of a really big day. And I just want to take you home. Why don't you come in, just for a minute? [Door Closes] Come on. Come in. What are you doing? I'm going to put on my nightgown. Good. Do you want me to come with you? No, Mom. I've got a lot to do. Okay. But you can come home if you like. Just let me put the clothes on, okay? Okay, good. Bye. Hi. Uh, you were in there. Did "
+        ],
+        "ttr": [0.5117056856187291],
+        "perplexity": [630.04],
+        "mean_perplexity": 630.04,
+        "mean_ttr": 0.51
+      },
+      "temp-0.8-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  you were a girl. You didn't know what it was to be a woman. And you had no idea what love was. There was a day when you really believed it. What day? That day you saw me. It was the day I saw you. A girl like you, who was so close to me, and yet was never close enough. I loved you then. Then you left me and went on to marry that guy. That was your destiny. The one you chose. But you know something, because you never told me what that meant. No one ever told you what I was going through. Because you wanted to hide it from me? Because I believed you when I said that I wanted you to believe it? You told her? I didn't tell her anything. If she believed me... Then she would know. Yeah, you would. Why? She'd know, right? Why do you think you told the police? What did she do? Her son was murdered. She was there the whole time. So you knew. That's why you killed her. There's only one way to find out. You're the one who saw her son murdered, "
+        ],
+        "ttr": [0.453781512605042],
+        "perplexity": [676.1],
+        "mean_perplexity": 676.1,
+        "mean_ttr": 0.45
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b7": {
+      "temp-0.3-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a man named Jack  who lived in a small town called Jacksville  in the state of Georgia. He was an honest man who loved his family and his home. Jack lived a simple life. His wife and children loved him. They loved to play games and have fun. But one day Jack was very sad. Because he was going to be leaving his children forever. One day he called his wife, and told her that he wanted to leave his kids forever and never return. The wife of Jack called him back. She told him that she loved Jack and would never leave him, even if he left his own children. Then Jack left. And he never returned. A few years later, Jack's wife called again. This time she was not very happy. Her husband had left her forever, too. So she called her husband back and asked him to come home with her. No one could answer. Finally Jack came home and found his two children were gone. When Jack saw his dead children, he cried. All of a sudden he realized that his life was over. Now you can guess what happened? "
+        ],
+        "ttr": [0.5043103448275862],
+        "perplexity": [871.64],
+        "mean_perplexity": 871.64,
+        "mean_ttr": 0.5
+      },
+      "temp-0.3-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  a man was born with a special gift for the music. He was gifted with the ability to play the piano. His parents were very proud of him. They were also very happy to have him as a son. But one day, his parents realized that he was not playing the right way. The piano was too loud. Their son was a musician, but he wasn't playing right. So they had to take him to a piano teacher. After a few lessons, the boy was able to improve his playing. Now he can play with his friends. And he is a very talented music player. What is the name of the man? The boy. No, he isn't the son of his family. He's a talent. A talent player, a pianist. Who is he? A pianista. Yes, he's a gift. a genius. the pianists. piano player is not the same as the gift of music, is it? No. It's a skill. Is it true? Yes. If you are a good piano music teacher, you can teach a boy to be a great pianiste. no. he doesn't have to. That's not true. You are not a teacher Yes "
+        ],
+        "ttr": [0.4268292682926829],
+        "perplexity": [905.49],
+        "mean_perplexity": 905.49,
+        "mean_ttr": 0.43
+      },
+      "temp-0.3-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a young man  who loved to play with my toys. I loved playing with toys, especially with the ones that I had bought for myself. But I also loved the toys that my parents had given me. They were very special to me and I felt very loved. My parents were my best friends and they were always there for me when I needed them. And they always had lots of toys for my play. So I thought that they would be my favorite toys too. When I grew up, I started to have a lot of friends, and my friends were all very different. Some of them were nice, some of... None of the above choices . None. of these choices. None . of this choices are right. my friend was nice. no one was right . my father was not nice . no one's right my mother was n't nice noone was wrong my brother was bad my sister was good my cousin was great my grandpa was no good no-one was correct my uncle was too nice my aunt was very nice none of her right I liked my toy more my dad's toy my "
+        ],
+        "ttr": [0.4608695652173913],
+        "perplexity": [1013.92],
+        "mean_perplexity": 1013.92,
+        "mean_ttr": 0.46
+      },
+      "temp-0.3-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy named John  who was very rich. He lived in a large mansion. His parents were very wealthy. They had a lot of money. John was rich because he had inherited it from his parents. But he was also very poor. Because he lived on the streets. And he didn't have any money to buy food. So he ate only vegetables. One day he went to the market and bought some vegetables and some meat. Then he cooked some food for himself. That was the first meal he ever had. After that he bought more vegetables, meat, and cooked more food again. When he finished cooking, he put the food in the refrigerator. The next day, John ate the vegetables he just bought. It was not very good. Later, when he got home, his mother said to him, \"John, you ate nothing but vegetables today. You are very hungry.\" John said, \"No, I ate some of the meat I bought, too. I didn't eat all of it. \" John's mother then said \"That's right. That's why you are hungry today\". Now, what is the story? John had eaten some vegetable meat and didn't finish "
+        ],
+        "ttr": [0.4959349593495935],
+        "perplexity": [908.57],
+        "mean_perplexity": 908.57,
+        "mean_ttr": 0.5
+      },
+      "temp-0.3-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Billy  who was very smart  and very clever  He was also very popular with everyone around him . He had a good job , a nice home and a beautiful girlfriend . But Billy had one problem . Billy was always late for work . His boss was angry with Billy and wanted to punish him for being late . So Billy got a new job . A new boss . And a different job from Billy . The new guy was not as smart as Billy , but he was still very nice . Everyone liked him and he had his own job too . One day Billy went to work and his boss said to him , \" Billy ! You are late again . \" He looked at Billy with a big smile and said , \"Billy , you are a very good worker . I love you .\" Billy looked up at him with an amazing smile . Then Billy said \" Oh my god , I was so late ! I forgot to tell you I had to go to the bathroom . Oh no , no I didn't . My boss is angry at me again and I have to leave . ' Billy wept . \"I was late because I wanted a job and to "
+        ],
+        "ttr": [0.4560669456066946],
+        "perplexity": [1018.19],
+        "mean_perplexity": 1018.19,
+        "mean_ttr": 0.46
+      },
+      "temp-0.3-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He had a large mansion and a beautiful wife. But he had one problem. His wife was always having an affair. John was angry and he wanted to get rid of her. So he decided to sell his mansions and his wife to a stranger. The stranger was John's brother. They lived in a small town. After a while the stranger asked John to marry him. And John agreed. Then the brother and sister-in-law lived together in the mansi\u00f3n. Soon the couple had three children. One of the children was born with a rare disease. When the baby was three years old, the father died. Now the sister and brother-in-law are living in their own mansiones. I am not sure if this story is true or not. No, it is not true. This story was written by a writer named Charles Dickens. Yes, he was an English writer. Charles dickens is famous for his stories. no, this is a story from the past. yes, Charles was famous No. It is from a different time. A different country. a very different story. Not true! No! It was "
+        ],
+        "ttr": [0.5],
+        "perplexity": [1030.39],
+        "mean_perplexity": 1030.39,
+        "mean_ttr": 0.5
+      },
+      "temp-0.3-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He had a large house and a lot of money. But he was not happy. His life was full of problems. One day he went to the doctor. The doctor told him that he had to have a heart transplant. John was shocked. How could he have such a big heart? He was so poor. So he decided to make a fortune. And he made a bet. If he could not make the bet, he would have to give up his fortune and his house. That is what happened. After a while, John made the fortune he wanted. Now he is very happy and rich again. This story is about how to win the lottery. It is called the lucky lotteries. You can win lotto tickets if you bet on the numbers that are on a ticket. There are lots of people who bet and win. They are called lucky winners. In this story, the man who won the money was John. Because he bet the right numbers. We can learn from this tale that you can make money by betting on numbers on lottees. However, "
+        ],
+        "ttr": [0.4830508474576271],
+        "perplexity": [964.86],
+        "mean_perplexity": 964.86,
+        "mean_ttr": 0.48
+      },
+      "temp-0.3-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named Tom  who was very rich. He lived in a mansion. Tom was always dressed in expensive clothes. His house was decorated with expensive furniture. There was an expensive piano in the house. And Tom had a lot of money. But Tom didn't know that he was rich because he didn't have any money to spend. So he had to work hard to earn money every day. One day Tom went to the bank to borrow money from the manager. The manager said, \"Your money is not enough.\" Tom said to him, \"I have a hundred dollars. I have only one hundred. Can you lend me a thousand dollars?\" The bank manager replied, \"No, I don't lend money unless I see your money in my account. \" Tom asked him again, \"Can I borrow a million dollars from you? The man said no. Then Tom told him that his money was only a dollar. \"I only have one dollar,\" he said. \"No. You can't lend it to me. I'm sorry.\"\" Tom thought, \"How can I earn a billion dollars in one day?\"\" He thought for a long time. Finally he decided to try "
+        ],
+        "ttr": [0.46887966804979253],
+        "perplexity": [974.73],
+        "mean_perplexity": 974.73,
+        "mean_ttr": 0.47
+      },
+      "temp-0.3-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a kid  and I used to play with my friends  in the park  with a small wooden toy called a frisbee. I would hit the ball with it and then throw it back to the ground. The frisbees were made of wood and were very lightweight. They were not very strong, but they were fun to throw and play. Nowadays, I have a new toy, a golf ball. But I still play the same old game. How do I play golf? I need a club. What do you think? My friend, Joe, played golf for a long time. He played for many years and he was very good at it. So, he knows how to golf. Joe is a good golfer. Can you tell me who is right Joe. His friend played the game for long. It was fun. You can play it too. Yes, you can. Good. Well, now that you know how golf is played, what do we do now? We need to buy a clubs. We will buy clubs and we will play again. Do you agree? Yes. No. Not now. Let's play a game first. First, let's play football. Football "
+        ],
+        "ttr": [0.4779116465863454],
+        "perplexity": [1098.82],
+        "mean_perplexity": 1098.82,
+        "mean_ttr": 0.48
+      },
+      "temp-0.65-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a child  and I had a dream  about a girl  who was  a little girl with a long hair  that was blonde  She was very beautiful and had long blond hair . I dreamed about her for a very long time . She had always been there in my dreams . It was so beautiful . And I loved her . The dream was about me . But I could not tell her that I love her because I did not know how to tell a person what I really felt . So I never told her about it . Then I got older and learned how . Now I can tell you what my dream really was . My dream is about you . You are the only person that can make me feel this way . All of the other girls in school are just girls . They are not like you and you are different . None of them can touch me like I do . Because you make my heart beat so fast . When I see you , I feel like everything is worth it and everything I have is good . If you were a friend of mine , you would be my best friend . We would "
+        ],
+        "ttr": [0.4675324675324675],
+        "perplexity": [917.27],
+        "mean_perplexity": 917.27,
+        "mean_ttr": 0.47
+      },
+      "temp-0.65-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a girl named Jane  who was very rich. She had a mansion and a large garden. Jane was so rich that she could buy all kinds of nice things for herself. There were horses, cars, and even a helicopter. But Jane had no time to play with them. So she had to buy them from her parents. When Jane grew up, she went to school and learned how to ride a horse. Then she learned to drive a car. And when Jane became old, Jane went on a shopping spree. Now Jane is a rich lady. Her grandchildren are very happy. They have lots of toys. Their grandma Jane bought them all. In the end, the granddaughter of Jane's was richer than her grandmothers. The answer is Jane. who is rich now Jane grand-daughter. her grandmother Jane never bought anything for her. the answer does not match the text correctly no one else is mentioned grandpa jane did not buy anything grandchild of jenny grandson of lisa no grandparent jennys grand daughter grand grandmother jannys grandmother never purchased anything the other answers are not correct no other grandparents have mentioned no children jennifer grand "
+        ],
+        "ttr": [0.524],
+        "perplexity": [844.84],
+        "mean_perplexity": 844.84,
+        "mean_ttr": 0.52
+      },
+      "temp-0.65-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  in the past  when a woman was a man\u2019s wife  a young woman  was called to the altar. She was given a new name and given new life. The ceremony was known as a baptism. Today, women are called by the same name as the men they were baptized by, but are not baptised with the water. They are referred to as women. A woman is called a bride in many cultures. In many traditions, the bride is the wife of her husband. There are many reasons why a women is considered a wife, in some cultures, a husband is a more important person than a female. Many women in cultures are still considered to be wives. For many women, marriage is not a choice but a necessity. Some women have been raised in a household with no one to look after them. Women have traditionally been looked after by their families, and supported by other women of the family. Culture and tradition have influenced the role of women as wives and mothers. It is common for women to spend a lot of time in care of children and to support their family, often through homemaking. "
+        ],
+        "ttr": [0.48484848484848486],
+        "perplexity": [958.86],
+        "mean_perplexity": 958.86,
+        "mean_ttr": 0.48
+      },
+      "temp-0.65-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  I was a child  in a village  where there was no internet  no cell phone  and no cable TV  but I had a lot of friends and a good home  because I lived in the middle of the country. I used to play in my backyard  with my friends. It was so fun. Now I am a grown up and I have a new home and new friends but there is no longer the same fun I once had. What is the reason I no more have the fun of playing in backyards? There is not enough time. There are too many things to do. But I still have lots of fun memories of my childhood. My kids are growing up so I need to find a way to make them happy. How can I make my kids happy? Answer not in context . I will not have time to spend with them. They are grown now. So I must find ways to keep them entertained. If I do not, they will grow up without me. The kids grow. This is a big life change. Sometimes I wonder if I really want to have kids. Maybe I "
+        ],
+        "ttr": [0.4870689655172414],
+        "perplexity": [944.81],
+        "mean_perplexity": 944.81,
+        "mean_ttr": 0.49
+      },
+      "temp-0.65-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  I was a kid  and I used to sit on the floor with my parents and play hide and seek. I would hide in a secret place and then when I found out who was there, I just ran away. It was fun. But I have to say that my mother was very strict and she would not let me play in the yard. She would have me hide out in her bedroom. My father was always very active and would go out and do things like play golf or play tennis. He was also a very popular guy. One day my father went out to play a tennis game and he hit a ball. Then he came back home and said, \u201cOh, my ball was hit.\u201d I had to hide because I knew I could be caught. There was no way I wanted to go to the tennis court. So I played hide-and-seek. At first it was just a simple game of hiding and finding. Later on, it became a lot more. Once I got to know the rules, the game became more fun and exciting. And now I love it. Play hide & seek is "
+        ],
+        "ttr": [0.5260869565217391],
+        "perplexity": [930.53],
+        "mean_perplexity": 930.53,
+        "mean_ttr": 0.53
+      },
+      "temp-0.65-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  in the past, the world was an open, unrestricted, and free, but now it is a closed, restricted, closed and unfree world. As a result, we have become the slaves of our own ignorance and we are not free. We are in a situation of being slaves to our ignorance. The only way to free ourselves is to be free of ignorance, which is the only freedom. It is not a matter of what we believe but of how we see the facts. There are two things we must know to know how to live in this world: one is that there is no freedom without ignorance; the other is, that ignorance is self-righteousness. If we know the truth, then ignorance will become freedom, if we do not know it, ignorance becomes self-will. In this way, knowledge of the fact that knowledge is knowledge and that the knowledge cannot be known without knowledge, is an absolute truth. All the absolute facts are absolute knowledge. Knowledge of absolute fact is absolute freedom and absolute ignorance of all things. For knowledge does not come from the mind, it comes from God. This is how knowledge comes to freedom. "
+        ],
+        "ttr": [0.42616033755274263],
+        "perplexity": [960.78],
+        "mean_perplexity": 960.78,
+        "mean_ttr": 0.43
+      },
+      "temp-0.65-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named Bill Clinton. He was President of the United States of America. Bill was the first president of a country that was not a democracy. His presidency was one of change and transformation. And he was also the president who was known for his social conservatism. So, Bill, you know, I think you have to be a social conservative. You know what I mean? Bill did not want to see the country divided. But he did want the nation to unite. I know that he wanted to have a united front. That is what he called the \"United States.\" And I believe that is the way that we should live. We should all work together. Together we can make the world a better place. Thank you. Question: What is Bill's occupation? President. of United states of america.'. What does Bill do? president.of United uss of am\u00e9rica.\u2019. what does bill do ? president .of united usss of american.\u201d\u2019, what do bill does ? President . of united states .\u201d', president . of us .\u2019 , president \u2019 president\u2019 president \u2018 president president President President\u2019 President \u2018 President \u2019 President president \u201d President \u201d president \u201c President\u201d President \u201c president\u201d president ' President ' president \" President\" President \" president\" president' President' president "
+        ],
+        "ttr": [0.4223826714801444],
+        "perplexity": [1061.91],
+        "mean_perplexity": 1061.91,
+        "mean_ttr": 0.42
+      },
+      "temp-0.65-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named Ginger. He was very wealthy. But he had a problem. His wife was always having an affair. She was having affairs with other men. Gingers wife called him to his home and told him that she was going to leave him. The man was in shock. Then she told the story of her life. Her story was so sad. It made him very sad too. That is why he decided to help the other women. To help them out of their problems. That's why GINGER started the GIVEN charity. Now GINER is helping other woman out. A charity that helps women out from all kinds of problems and all kind of situations. I am sure you will like this story. You will love it. Good luck with your reading. This is a story about a rich man and his wife. They had an unhealthy relationship. So they decided not to have children. Their only son died. And the woman had to divorce. Not because of the affair, but because the husband was unfaithful. What a sad story! I think you would enjoy this book. It's called The Giver. If you like "
+        ],
+        "ttr": [0.5591836734693878],
+        "perplexity": [993.69],
+        "mean_perplexity": 993.69,
+        "mean_ttr": 0.56
+      },
+      "temp-0.65-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a kid  playing in the snow and having a great time. It was the perfect way to spend my time with my friends. But, there is a difference between the kid and the adult. Now, I am a parent and I know what I want. I have to balance the needs of my children with the demands of me. So, it is not the same. There are certain things I do not want to see happen to my kids. They are my responsibility. In this post, we will look at some of the things that I will not allow my son to do. Here are some things you might want in your son. A parent who is responsible has to make a choice. This is the first step in being a responsible parent. You will have your children for the rest of your lives. However, you will also have choices. That is why you have a right to say no. No is one of life's greatest lessons. If you say yes, then you are committing to a future of happiness for your child, and it will be for them for a long time to "
+        ],
+        "ttr": [0.4889867841409692],
+        "perplexity": [930.95],
+        "mean_perplexity": 930.95,
+        "mean_ttr": 0.49
+      },
+      "temp-0.8-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  a man called Jack  was a rich man. He had a large fortune and a beautiful wife. His wife was very fond of him and he was always telling her how much he loved her. Jack had no children, but he had many grandchildren. One day, Jack was asked to go to a party. The party was held in a small room. There were a lot of people in the room and Jack felt very nervous. Everyone was talking and laughing, and the party looked very fun. But Jack didn't know what to say. At last, he said, \"I don't know.\" Jack's wife said to him, \"You mustn't be nervous, because you have a great fortune. You can say whatever you want. And if you don't like what you say, just say it again. \" Jack answered, \"Well, thank you. I don't really know how to talk. It's just that I feel very shy. What shall I say?\" He was nervous and couldn't say anything. Then he looked at his wife and said \"Thank you very much. That's very nice. You're very kind. Now, you can tell me what I should say to my grandkids. Yes,\" he "
+        ],
+        "ttr": [0.4939271255060729],
+        "perplexity": [1005.41],
+        "mean_perplexity": 1005.41,
+        "mean_ttr": 0.49
+      },
+      "temp-0.8-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  a boy named Jake  lived in a small town called Jake. Jake lived a peaceful life. He lived alone and loved to play with his cat, Jake's cat. One day Jake was very angry at his father, because he was late for school. His father told Jake to go to the bus stop to catch his bus. When Jake went to get his car, he forgot his keys. So Jake got his hands dirty and forgot to pick up his own car. As he got home, his mother called him to come home. But Jake didn't come. Instead, the mother was mad at Jake for not coming home and called the police. The police arrived and took Jake home with them. A few days later, a man named Billy arrived at the home of Jake and Jake asked him if he knew what happened to Jake on the way home from school, since Jake had been late. Billy asked Jake what he wanted to do next. In answer to Billy, and in response to his mom, it was Jake who had forgotten to put his key in his new car and he had to drive home "
+        ],
+        "ttr": [0.47345132743362833],
+        "perplexity": [922.8],
+        "mean_perplexity": 922.8,
+        "mean_ttr": 0.47
+      },
+      "temp-0.8-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a man called Peter Daves. He was an artist. But he was also a musician. His art was music. Nowadays, he is best known as an art director and music director of the American opera company, The Royal Opera House. Peter was the first director to write a score for an opera. In fact, there is only one opera with a Peter score. This is \"The Marriage of Figaro\" by Giacomo Puccini. The story is about the romantic hero, Figaro, who is played by Don Carlo. After the death of his father, the two of them move to a small town in Italy. There they meet a young woman who becomes their friend. They then become lovers. While the lovers are traveling in the countryside, they learn about Figaro's passion for the beautiful woman. When the heroine's love is discovered, it ends up in a tragic ending. So the opera tells the story of love, and the passionate love. Yes, music is the art of expressing emotion through the sounds and rhythms of words. And music and art form a powerful partnership. It is an important part of a performance of an op\u00e9ra. For "
+        ],
+        "ttr": [0.5469387755102041],
+        "perplexity": [934.48],
+        "mean_perplexity": 934.48,
+        "mean_ttr": 0.55
+      },
+      "temp-0.8-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  the world was in the hands of the Chinese and the Japanese. The world had been ruled by China and Japan. But, in recent years, the world's economy has been influenced by many factors, including the economic growth of India. India is a country that has a large population. It is also a developing country. China is the largest country in Asia. And China has its own culture. So, it is not surprising that China will have a strong influence on India as well. However, what is surprising is that India will be influenced in a positive way by the growth and development of China. In this article, we will see how the two countries have developed. Let us start with China\u2019s history. Chinese are a people from the east. They live in China today. Before they came to China, there were many people living in other parts of Asia, such as India, Southeast Asia and even Africa. There are many stories about the people who lived in these other places. Many of these stories are very interesting. Let's read about one of them. A man named Sun Shangxiang lived on a small island in Southeast "
+        ],
+        "ttr": [0.5411255411255411],
+        "perplexity": [859.16],
+        "mean_perplexity": 859.16,
+        "mean_ttr": 0.54
+      },
+      "temp-0.8-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  I had a little girl who was a bit of a rebel. She liked to run around in the woods, and would not do what she was told. I got her a frisbee and she loved it. Now she is 16 and still likes to play frisbees. But she has become a good sport. We have had two children, a daughter and a son. It was great to have her as a baby. Today, she loves to do things on her own, like play with her frisberies. And I am happy to see her playing with them. The frisbers are a great toy. They are fun and they make me happy. Thank you for your products. Very happy with the frisble. Best of luck. Julie S. from Florida. Good job. Loved your product. Great price and good quality. Highly recommended. Thanks. Mary M. Florida, USA Thank You Julie for making such a wonderful toy for us. This is such an excellent toy and we would definitely recommend your company to others. Merry Christmas. Patti H. Scotland, UK Thank u Julie. Have a happy holiday season. Love your gifts. Patricia L. California, US Julie, Thank-you for the "
+        ],
+        "ttr": [0.5652173913043478],
+        "perplexity": [970.2],
+        "mean_perplexity": 970.2,
+        "mean_ttr": 0.57
+      },
+      "temp-0.8-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  the United States of America had a large number of people that lived in a single large city, a big city. A city is a metropolis and is the largest urban community. Many cities have a metro area that includes multiple cities. The United State of American is an example of a city-state. United states of america has a metropolitan area with a population of more than 100 million people. This is called a megacity. There are many types of megacities. In the US, there are two. They are the metropolitan areas with more then 100,000 people and those with over one million. Megacites are a type of metropolitan city with many cities in the metro. meganticity is large population city of one or more megaregions. At the time of the formation of United The states, the megaretions were large regions of many states. Today, megagroups are larger regions that include several megareegion. Mega cities are megagrans, and megacountries are large countries with megarenegies. Big cities with large populations are called megapolis. To know more about the cities, you should look at the Megapolis section of Megacity section. Cities are typically defined by size, population and "
+        ],
+        "ttr": [0.4728682170542636],
+        "perplexity": [845.9],
+        "mean_perplexity": 845.9,
+        "mean_ttr": 0.47
+      },
+      "temp-0.8-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  I had a dream that I was on a beach with a beautiful woman. I dreamt that she was my mother. She was very beautiful and I loved her. The dream was so sweet. It was like a love story. But the truth is that it was a nightmare. What was the nightmare? I got hit by a car. When I woke up, I found out that the dream had been a reality. How did I get hit? Car accident. That is what happened to me. Why did the car accident happen to you? Because I drove too fast. And I did not pay attention to the signs. You know, the traffic light was red. He drove very fast and he hit me and then I fell off the road. Because of that, my car broke down. Now, what do you think of the story? It is a sad story because it is true. There are many car accidents. So, you should pay more attention when driving. Do not drive too quickly. Thank you for reading this story and taking the time to read it. Good luck. Bye. No one is perfect. Sometimes we make mistakes. "
+        ],
+        "ttr": [0.5254237288135594],
+        "perplexity": [962.53],
+        "mean_perplexity": 962.53,
+        "mean_ttr": 0.53
+      },
+      "temp-0.8-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  the world was filled with beautiful women...but they were not beautiful enough to care about other men. They had to compete for the hearts of men who were willing to take them to bed. This is why so many women are desperate for a man who can be their knight in shining armor. A true knight is the one who will protect her, and not just protect them physically, but emotionally. He will be there for her when she needs him, no matter what. Let us know what you think in the comments below! Have you ever had a woman tell you that she wants a knight to protect and be with her? Tell us in your comments. You can also write to us at or follow us on Twitter. Be sure to tag us! If you like what you're reading, please share it with your friends! Enjoy! #TheSwordOfTrueChivalry #Challenge #WomenWarriors #SpoilerFree #WarriorChallengemosts #challengeWomensWars #warriorchallenger #swordchampion #truechivalricemore #bravewarriors Share this story with friends on social media. #Truechiccharm #BrideChic #BridalChicas #BeautifulWives #LovelyWeddings #LoveWays #Valentine #GirlsWearSwords #WomanWise #WorldWideChampionBe True to your knightly values and help women to find their true beauty by dressing for your love.</s> "
+        ],
+        "ttr": [0.59375],
+        "perplexity": [1196.91],
+        "mean_perplexity": 1196.91,
+        "mean_ttr": 0.59
+      },
+      "temp-0.8-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  a man was born and died a million times before his birth and he lived a thousand years before death. He was not very old, so he could only live once. So he was happy. Then his life began again from scratch. Now his firstborn was dead. The man felt sorry for himself. But he also knew he had to live. No matter how long he felt it was a waste of time. Because he never had a chance to play again. And so the man started his second life. You see what happened? The second time he died, he played the game again because he wanted to enjoy life again, and to try something new. That is the way to get new experiences and learn things. Maybe your first life was short. Your second was longer. Let your second live out. It is important to have second lives. There is something about our second birth that we don't see in our first birth. We don't experience our life as a learning experience. What we experience in life is a rush. As soon as we reach the age of 25, we have a lot of responsibilities "
+        ],
+        "ttr": [0.5242290748898678],
+        "perplexity": [876.35],
+        "mean_perplexity": 876.35,
+        "mean_ttr": 0.52
+      }
+    }
+  }
+]

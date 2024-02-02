@@ -1,0 +1,188 @@
+[
+  {
+    "bigscience/bloom-560m": {
+      "top_p": {
+        "response": [
+          "Once upon a time  when there were many foreign treaties that I had accepted, when several of them had already expired, and where several of those treaties had been written by them, my dear friend innocently accepted them, although he made no claim to them, being only an honorary member of Parliament, and his lawyer had promised to dismiss him if he accepted any of those treaties. I find it all so pathetic, that I want to say nothing at all against those treaties. But I do not say that the second breach of the United States Constitution is so ridiculous, for I have seen millions of men innocent and loyal so violently in the one extremity of a country which has so long foregone the last principle of justice and equality.  I had a much greater disturbance that day; and I declare it to be so violent that I shall not believe that there is such an extraordinary thing as a secret crime, which, even by a man who was so impolite to his mother, he was not yet aware of. This is a very common thing. I often hear of such things, when I see children in this "
+        ],
+        "ttr": [0.5770925110132159],
+        "perplexity": [3223.69],
+        "mean_perplexity": 3223.69,
+        "mean_ttr": 0.58
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  we are not forebears  I have been waiting long for this hour, so I had only to pass his shoulder. His face was full of a look of hope, and I had to wonder how he had managed so badly to keep up appearances on the day. Then I saw that his eyes were red, and that he had his lips twitching.  It was a cold and wet day, and I could not bear it. Then I took a small cup of coffee. At first I took it just the same as the other night; but soon I found that my mouth was sore, so I started at morning to get up the coffee and start again to the front. All of a sudden I found myself in a doorway and found myself in one corner of a little room. As I was walking, a man came knocking on my door in the doorway, and he said he was Mr. H----.  I walked along the staircase with the door opened and the man with the door just shut behind a woman in the window with a maid at the end of the stairs. This woman was "
+        ],
+        "ttr": [0.5281385281385281],
+        "perplexity": [3616.76],
+        "mean_perplexity": 3616.76,
+        "mean_ttr": 0.53
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  as long as  the time has passed  yet in the same place  still I shall be there  waiting  for your heart to grow  to be strong enough to bear the pain of being loved  and loved to be  like a flower  until one day  one of your leaves is gone  and it will be torn from your hand  and you will cry  but I will keep the rose alive. A day after she has left her husband, she is seen by her husband at her house and his daughter and he exclaims that he has fallen in love. Maureen is the first to say she has fallen in love, but that she has never felt the love of a husband. She has fallen in love, and she is so angry that she throws herself into the pool, because her love for him was wrong. He sees her face and he makes love to her. A few days later, when he sees her at his house, he tells her that he has fallen in love and he has said it is true. A couple of months later, he goes to meet the girl at the park. He "
+        ],
+        "ttr": [0.46120689655172414],
+        "perplexity": [3026.06],
+        "mean_perplexity": 3026.06,
+        "mean_ttr": 0.46
+      }
+    }
+  },
+  {
+    "bigscience/bloom-1b1": {
+      "top_p": {
+        "response": [
+          "Once upon a time  one of them told me I had to live my life on a farm. And that, my dear... I can... I'll see you at home. Don't bother. Thanks for this. I'm sorry about this, Brian. Can you believe it? We're not even out here by ourselves. And what kind of pig in the world could make that mistake? Just keep going! And watch the road! Yeah. Got it. Hey, look who's here. It's me. I'm back home. I'll see you later, yeah? Now. I'll call you later. - I'm sorry. - Never mind. I've been thinking. A lot about... Come in. I was going to ask you to come in, but I thought, maybe if you had to... So I just came over to ask you... - Did you want to come in? - I mean, I want to come. I just wanted to talk to you about something. Oh, yeah. About me. You know, with just knowing you, I guess. I was... I was really tired of all the arguments that we had, and now I can't even face the fact that we're going to have children, which, as I told you, is kind of a problem. It was "
+        ],
+        "ttr": [0.4980392156862745],
+        "perplexity": [1329.72],
+        "mean_perplexity": 1329.72,
+        "mean_ttr": 0.5
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  someone wrote a nice song that is about love. \"I'm so in love with you, you're such a good guy.\" \"Why didn't you know?\" \"Why didn't you notice?\" \"You're so beautiful, just come closer.\" It's a song, so do not be jealous. I love you, but also I am in love with her, but I am not a monster, just a man. Yes, but that's because I cannot believe her. Because you, too, do not believe her. \"You're so beautiful...\" It's very difficult. My friend and I are together. What the hell is this? Do not make fun of my friend! Please, leave the party! What? - I'm just joking! - No, this is not a joke. Don't make fun of anyone! Why? Because, even if I know that you think that I... And you are right. That you have no power. - That you cannot do without me! - Don't make fun of me! Please go! - I want to see some guys. - Just leave. - Don't leave without asking. - It is all right. Come! - Hey, look there - Get out. Where did you come from? Where are you going? - Go on! - Go on! Look at you. I was so scared of "
+        ],
+        "ttr": [0.4485294117647059],
+        "perplexity": [1470.12],
+        "mean_perplexity": 1470.12,
+        "mean_ttr": 0.45
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  I was a snail named Sally  in the sea with a lot of fun  and lots of love  and lots of love and plenty of love  and lots of love and lots of love  and lots of love and lots of love  and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots of love and lots of love  and lots of love and lots of love and lots "
+        ],
+        "ttr": [0.10138248847926268],
+        "perplexity": [918.85],
+        "mean_perplexity": 918.85,
+        "mean_ttr": 0.1
+      }
+    }
+  },
+  {
+    "bigscience/bloom-1b7": {
+      "top_p": {
+        "response": [
+          "Once upon a time  when I had this place. Wake up, Mr. Crane! Wake up, Mr. Crane! Help me! Help me! Someone help me! He's dead! He's dead! We can't make it! - Give me your hand! - No, I have to put my hand in it. I can't help it. I can't help it. - No, no, no! - Yes! Yes! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! You're dead! You're dead! We're stuck here. No! We're stuck here! No! We're stuck here! No! We're stuck here! Help me! Help me! Help me! Help me! Please! You can't stay here! You can't stay here! Please! Help me! Help me! Come on! Come on! I'm so sorry. I was lying to you, didn't I? I had a child. I was planning to adopt him, but they took him away. How do you feel? I think I've already forgiven you. Forgiven? How does that make me feel? It makes me feel so much better. I feel alive again. Wake up. I'm alive! Help! Help! We gotta get out of here. Come on. Come on. Go on, take your clothes off. I'm not going to tell you again. Don't be afraid. I don't want you to be "
+        ],
+        "ttr": [0.35106382978723405],
+        "perplexity": [697.09],
+        "mean_perplexity": 697.09,
+        "mean_ttr": 0.35
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  there was little more you could tell The truth was there... but it still felt wrong The time had just come that this could happen I told him... I said he could change it you could see it in his eyes That he could change, he could change The time had been ripe But he was wrong I just want to be told... that you still love him I think he knows you still love him I told him... I said he could change you could see it in his eyes And that now, he's in his right mind That he could change, he could change And the time has been ripe But he was wrong I just want to be told... that you still love him I think he knows you still love him I told him, I said that he could change. This song was written by singer and song writer Tony Dyer. The song won an Academy Award nominations for Best Original Song; Best Original Motion Picture Score. It's first recording was released in 1974. The movie The Secret Of Everglades was released later that same year and featured the track. It was "
+        ],
+        "ttr": [0.43243243243243246],
+        "perplexity": [595.8],
+        "mean_perplexity": 595.8,
+        "mean_ttr": 0.43
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  in a small village on the edge of the forest there lived a king. The king had a son and a daughter, they were both beautiful and clever. Once, the king was preparing for a grand banquet. The king made a special feast. It was a wonderful feast. He made the best meal ever. But the king was having such a nice time. But the king had a bad temper. The daughter and the son of the king had never seen such a good meal. But the king had the same bad temper. They had never seen such a good meal. The king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. So the king had the same bad temper. They had never seen such a good meal. "
+        ],
+        "ttr": [0.24778761061946902],
+        "perplexity": [514.07],
+        "mean_perplexity": 514.07,
+        "mean_ttr": 0.25
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-560m": {
+      "top_p": {
+        "response": [
+          "Once upon a time  el Financial Times website revealed that WikiLeaks was being run with Australia, the magazine was proud to mark the date with a presentation from foreign experts. The US and Canadian Directors have led the way and forward this week. With the changes that have been taking place, changing media preferences and changing paper products, The Times will be getting a really different approach to its production. It will be a new moment for The Times to appear on a more diverse agenda. A full blog and commentary is available on our website as well. be in your country. You can take the vaccine and take a different approach to your commute, even if you are against vaccinations. We have encouraged everyone to follow a social distancing policy in the public buildings and at restaurants, but all new social distancing guidelines and restrictions will be posted on the website. The Royal Mail has also issued a special policy to make it easier for their customers to deliver them. We are continuing to deliver deliveries from Central Mail via TNT as well as another online service, Whysling. Warehouse products will also be delivered on a fully online basis. "
+        ],
+        "ttr": [0.6200873362445415],
+        "perplexity": [5877.4],
+        "mean_perplexity": 5877.4,
+        "mean_ttr": 0.62
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  all over the world have developed computer technology that can easily connect in the most easily and instantly possible a large number of peoples . However , the main advantage of the computer technology relates to the fact that it is easily available to the users in the most efficient as this can be accomplished in a quick and economical way in the most available locations . However , this advantage does not necessarily guarantee that the users will always be happy with the service or the advantages of the software application when they use it . To make possible that , in order to increase user satisfaction , software companies must make an effort to increase the speed of their product delivery . That is , the software applications have got to increase the speed of their delivery delivery speed . Thus , the introduction of software technologies that increase the delivery delivery speed must be encouraged . If it cannot help to increase the increase delivery delivery speed by reducing the time it takes for software to complete , software companies must make a serious effort . However , it should not be given up hope . For that , software should be able to handle the rapid delivery deliver speed "
+        ],
+        "ttr": [0.4681818181818182],
+        "perplexity": [6264.7],
+        "mean_perplexity": 6264.7,
+        "mean_ttr": 0.47
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  when the Earth was the Earth's third largest, Earth is very small compared with all the smaller planets on our solar system. If you have been in space in the past, you will be very close to the surface of our planet. The surface of Earth is very cold and very hot. The surface of Earth is very thin. Earth is the only planet with a double-sided spiral spiral shape. If you look at the planet, you see that there is a double-sided spiral spiral shape. Earth, like other small planets, is very small. But even if you were in space long time, the surface of Earth would still have been very close to the surface of our planet. In fact, the surface of Earth would have been very close to the surface of the planet if Earth had been the third largest. On the other hand, if Earth was the third largest, the surface of Earth would have been very close to the surface of other smaller planets on our solar system. There are other planets on our solar system that have very small planets. Earth, for example, was on the third highest of the "
+        ],
+        "ttr": [0.3274336283185841],
+        "perplexity": [5296.59],
+        "mean_perplexity": 5296.59,
+        "mean_ttr": 0.33
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b1": {
+      "top_p": {
+        "response": [
+          "Once upon a time  men in painted murals and squirrel-horned heads played a key role in managing the game. The concepts of 'colourful' and 'pleasant' (i.e. bright colours) and the dominance of the game were central to the novel. The reader will need to be able to connect these with the novel's other elements, such as those of 'humour' and 'aggression'. The novel also offers the reader valuable resources for future play and interpretation, such as the notion of the game as a study of culture and identity and the task of finding ways to change society. The meaning of the game was discussed in the novel. Several critics considered the text to be an example of 'players' games, or the players' game of the 1960s and 1970s. Game of Thrones is a novel by George R.R. Martin. This is the sixth novel in the Daenerys series. The novel was published in 2003 and was named one of the world's most popular novels. Written in 2015, it is the longest novel in the series. The game is mainly based on a 16th century history, but with some historical references. It tells of the adventures of three children, namely Tyrion Lannister, "
+        ],
+        "ttr": [0.5568627450980392],
+        "perplexity": [8188.38],
+        "mean_perplexity": 8188.38,
+        "mean_ttr": 0.56
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  I used to know that it was because I was the girl who was born with an IQ of 100. It was because I was the girl who was not educated. It was because I was the girl who was not even a student. It was because of my father who was not educated. It was because of the fact that I was not educated as the only girl in the household. It was because of the fact that I was not educated as the only girl in the household. Yes, it was one of the reasons. And this is now. But this is not about education. This is about responsibility. This is about honor and loyalty for your people, not just to yourself. Yes, if you are the son of a teacher. You will lead with honesty. If you are the son of a teacher. You will lead with honesty.If you are the Son of a Teacher.You will Lead with Honesty .Yes,if you Are Educated.But this is no reason for anyone to give up the effort. No matter what condition you get. Because of the honor and loyalty, yes, you will be successful. If you "
+        ],
+        "ttr": [0.4008438818565401],
+        "perplexity": [8537.42],
+        "mean_perplexity": 8537.42,
+        "mean_ttr": 0.4
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  we used to make a specialty to attract attention to the great people of the world, and that is how we got to know you, Mr. Smith.' 'That,' said Mr. Smith, 'is the reason why I am so proud to be a teacher here.' 'Very well,' replied Mr. Smith, 'I shall be glad to receive your compliment.' So Mr. Smith sent a student to visit Mr. Smith at his home. The boy looked at him kindly, and, on his return, said, 'Dr. Smith, I believe I know what you mean.' 'The reason for that is that Mr. Smith gave me this card.' The student returned with it, and Mr. Smith was glad to accept it. When he was in a hurry he went to see a friend, and as he arrived, he came back with the card. 'Yes,' said the friend, 'I was just on my way here, but now I have heard you are in London, and thought I'd come and see you.' And he paid for the card and drove off. In an instant he reached Mr. Smith's house, where he paid for his friend and drove away. After that he spent an evening "
+        ],
+        "ttr": [0.46875],
+        "perplexity": [7676.48],
+        "mean_perplexity": 7676.48,
+        "mean_ttr": 0.47
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b7": {
+      "top_p": {
+        "response": [
+          "Once upon a time  John McClane was the hero  Who got a day off in Afghanistan To play an instrument and play a showcase concert Give yourself up for a royal love There\u2019s a bunch of other problems  And a group of highly special agents The other bad guys Good, bad, ugly, great The good guys McClane, McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane McClane "
+        ],
+        "ttr": [0.14245014245014245],
+        "perplexity": [1006.23],
+        "mean_perplexity": 1006.23,
+        "mean_ttr": 0.14
+      },
+      "top_k": {
+        "response": [
+          "Once upon a time  before we were on vacation  I heard a bunch of boobs . That sounded funny , but they sounded really interesting . I went exploring and came across a bunch of boobs . I looked at the tarnate rocks that surrounded the boobs and saw nicks in the rocks that had not yet solidified . This made sense as it was a body which was buried in the ground , and had been in a state of decomposing . I called her name and called her , she responded . I continued to talk to her , slowly and cautiously , and she began to smile and say something like , \" I am here with you and all the others \" . I called her name again , and she said yes , with a sort of surprise tone . I called her name again , she said yes again . I called her name again and she said yes again . I let her go away , and we ran off before things got out of control . I had to get very, very careful in the area , and take some self - defense training . I thought that one day a chance may come along , and I would get my hands on a few boobs and do some "
+        ],
+        "ttr": [0.5102880658436214],
+        "perplexity": [761.47],
+        "mean_perplexity": 761.47,
+        "mean_ttr": 0.51
+      },
+      "top_pk": {
+        "response": [
+          "Once upon a time  we used to call our home town a city. Once upon a time there were only a handful of people living there, but with a few improvements, the city began to take off. Once upon a time the city was called home town. If you have never been to the city yet, you have not yet experienced its true potential. Home town is something you call a place that you live, or which you love. If you're going to move back home, you may still refer to the city as home town. Once upon a time, the city was called home town. You may not call it home town anymore. The city is becoming smaller or is no longer viable. If you move back home, you may call it home town now. The city is becoming smaller or is no longer viable. If you move back home, you may call home town now. You have moved to a city. If you have moved to a city and are now home to a home, you call it home town. Once upon a time the city was called home town. If you are moving back home, you may "
+        ],
+        "ttr": [0.3303964757709251],
+        "perplexity": [1075.97],
+        "mean_perplexity": 1075.97,
+        "mean_ttr": 0.33
+      }
+    }
+  }
+]

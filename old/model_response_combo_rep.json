@@ -1,0 +1,498 @@
+[
+  {
+    "bigscience/bloom-1b7": {
+      "temp-0.3-p-0.6-k-40-rep": {
+        "metrics": {}
+        "response": [
+          "Once upon a time  I was a young man I had no friends, no family, And my life was all alone. But now I'm back in the city With a new friend and a new home. My name is John Doe. I'm from Chicago. Now I've got to tell you something about me. I've been living here for three years. Three years? That's not long enough. You know what I mean. What do you want? I don't have anything against you. I just want to talk to you. Well, that's easy. Come on inside. Sit down. How's your wife doing? She's fine. She doesn't mind if I come over sometimes. Oh, she's wonderful. Thank you. It's nice of you to say that. I guess it's good to be able to see her again. Yeah. It makes it easier to get along with her. Is she still married? No. Why? Do you think she'd like me? I don't know. Maybe. Well, maybe she would. I hope so. Good night. Good night. Hello? Hello? Who are you calling? John Doe. Hi, John Doe. What's up? Nothing. Just wanted to check in. Sure. I'll call you later. Okay. Bye-bye. Hey! Hey! Stop! Stop! "
+        ],
+        "ttr": [0.6060606060606061],
+        "perplexity": [643.55],
+        "mean_perplexity": 643.55,
+        "mean_ttr": 0.61
+      },
+      "temp-0.3-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  I was in love with you I had no idea what it meant to be loved But now I'm not sure anymore And it's hard for me to explain Why the world is so cruel To those who are left alone Because they don't know how much they need each other 'Cause they're afraid of losing them again 'Cause they've never known true love It's like this, baby. This is where we live. - This is our home. - It's beautiful. It has everything that we want. We have all these things here. Everything's perfect. We're just waiting for someone special to come along and make us happy. That's why we're living here. You see? I'm sorry. I didn't mean to scare you. No, no, no, no. Don't worry about it. You're gonna get over it soon enough. Oh, my God! What happened? What's wrong? My husband... He died last night. - What? - He passed away. - Oh, my God. - No, he wasn't dead. He's gone. He went into his room. He took off his clothes. He put on some kind of mask. He sat there and stared at the ceiling. He looked up at me and said, \"I've been "
+        ],
+        "ttr": [0.684],
+        "perplexity": [600.69],
+        "mean_perplexity": 600.69,
+        "mean_ttr": 0.68
+      },
+      "temp-0.3-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a young man And I had a dream A dream that would change my life forever. I saw the world through a glass darkly With eyes of fire and light That were as bright as the sun But they could not see me Because I was blind To what I was seeing So I hid in the shadows Where no one knew who I was Until one day, when I woke up It seemed like yesterday The only thing left to do was to get out And live again I felt so alone I thought I'd never be able to find anyone But then I met you You made me feel alive again And now I'm here with you And I'll always love you Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever Forever</s> "
+        ],
+        "ttr": [0.5585106382978723],
+        "perplexity": [768.59],
+        "mean_perplexity": 768.59,
+        "mean_ttr": 0.56
+      },
+      "temp-0.3-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named... - ...and he had a wife and children. - Yes, yes, I know that story. But what about the other one? The other one is true. I have to go now. - Goodbye. - Bye-bye. - You look like you could use some help. - Thanks. You don't need any help. You're doing great. I'm not sure if I'm ready for this. It's just something I've been thinking about lately. What do you mean? Well, it's kind of hard to explain right now but... it feels like there's someone else in my life. And I think maybe that's why you're feeling so lonely. Maybe you've got somebody who wants to be with you. That's all. No, no, no! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! Stop! "
+        ],
+        "ttr": [0.370253164556962],
+        "perplexity": [745.29],
+        "mean_perplexity": 745.29,
+        "mean_ttr": 0.37
+      },
+      "temp-0.3-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had this dream I saw myself in the mirror I looked at my face and it was all right But now I'm not so sure anymore I'm just tired of being alone So I thought I'd come back to you To tell you that you're beautiful That you're perfect You're everything I've ever wanted You are my only hope Oh, baby, oh, baby Oh, baby, oh, baby Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave me Don't let go Baby, don't leave "
+        ],
+        "ttr": [0.3185840707964602],
+        "perplexity": [551.92],
+        "mean_perplexity": 551.92,
+        "mean_ttr": 0.32
+      },
+      "temp-0.3-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a little boy named Jack. Jack had a big heart and he loved his family very much. And one day, when the sun went down, all of a sudden, Jack saw something that made him feel so happy. It was a beautiful flower with red petals and white blossoms and it looked like a star. And then, as the stars were going to fall into the night, Jack thought about what he'd seen in the morning. He said, \"Let's go home.\" So they walked away from each other. But before they left, they decided to make a promise. They would always be together. So, after a while, they came back again. And this time, they found out that the flowers didn't look any different than they did last time. But now, instead of being blue and white, they turned red. And now, instead of having two hearts, they had three. And now, instead of being green and yellow, they were purple. And now, instead of being pink and blue, they were red. Now, instead of being bright and shining, they were dark and gloomy. And now, instead of being alive, they were dead. And "
+        ],
+        "ttr": [0.5465587044534413],
+        "perplexity": [567.37],
+        "mean_perplexity": 567.37,
+        "mean_ttr": 0.55
+      },
+      "temp-0.3-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the country, and he had a farm. And one day, when he was working on his farm, He saw a little girl walking down the road with her mother. The little girl looked so beautiful that John decided to take her home. But before he could do anything else, the farmer came out of the house and said, \"John, you are going to have to leave your daughter.\" So John went away from his farm and left his daughter behind. And then, as soon as he got back, he found his daughter dead. And he couldn't believe it. He thought she'd been murdered. And he started looking for her. And he found her lying in the fields. And he took her body to the village doctor. And they examined her. They told him what happened. And the doctor said, \"Well, I don't know how this is possible. She must've died because she didn't want to be buried alive.\" And the doctor also said, \"If she hadn't wanted to be buried alive, I'd never have seen her face again.\" And the doctor said, \"I think it's best if "
+        ],
+        "ttr": [0.5756302521008403],
+        "perplexity": [551.65],
+        "mean_perplexity": 551.65,
+        "mean_ttr": 0.58
+      },
+      "temp-0.3-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a boy who loved to play. He had a great big house with lots of toys and games, but he didn't have any money. So one day the little boy went out into the world and bought some food for his family. But when he came back home, he found that his parents were dead. And then he started crying because he couldn't find anything to eat. Then he thought about what would happen if he died. If I die, will my parents be happy? Will they still love me? And so he decided to make something special for them. He made this beautiful flower pot. And it looked like this: \"To my dearest mother.\" And he put all these flowers in it. And he said, \"I hope you can see how much I love you.\" And then he took off his hat and gave it to his mother. And she opened her eyes and saw this beautiful flower pot. And she smiled and said: \"Thank you very much!\" And then she kissed him on the forehead. And then she sat down next to him and began to cook dinner. And as soon as "
+        ],
+        "ttr": [0.6422413793103449],
+        "perplexity": [549.84],
+        "mean_perplexity": 549.84,
+        "mean_ttr": 0.64
+      },
+      "temp-0.3-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  I was in love with you I thought that we were meant to be together But now I'm not so sure anymore And it's hard for me to believe it It's hard for me to believe it It's hard for me to believe it It seems like yesterday when we first met But now we're no longer the same We don't know what we'll do tomorrow But if we can just try again... If we could just try again... Then maybe someday I'll see you again Maybe someday I'll see you again Oh, yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! Yeah! "
+        ],
+        "ttr": [0.24115755627009647],
+        "perplexity": [1280.42],
+        "mean_perplexity": 1280.42,
+        "mean_ttr": 0.24
+      },
+      "temp-0.65-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  when I was young and foolish And you were my friend, dearest one. I thought of nothing but your face, Your eyes, the way you looked at me. But now I'm older and wiser, And I've learned to love again. Oh, how sweet it is to be loved once more! How beautiful it is to have someone like you. To know that you're not only mine, But also yours. I will always love you, Forever. I will never forget you, Never. - Oh, no! - What? It's too late for us. We can't stop now. - We can. - No, we can't. No, we can't. No, we can't. Come on, let's go. Let's get out of here. What are you doing? You shouldn't have come back. Why did you do this? Because it's over. It doesn't matter what happened between us. I don't care about anything anymore. I'm sorry. I should've listened to you. You're wrong. I mean, if you really wanted to make things right... Then why didn't you just tell me everything? Why didn't you say something? I couldn't. I couldn't. I guess I just wasn't ready. Well, maybe that's all there is to it. Maybe you've been "
+        ],
+        "ttr": [0.6046511627906976],
+        "perplexity": [610.03],
+        "mean_perplexity": 610.03,
+        "mean_ttr": 0.6
+      },
+      "temp-0.65-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  I was the king of all And now I'm in trouble with my brother The king of all! I want to make sure you know that your father is here. But he doesn't look like he's coming. Oh, no? Well, maybe he'll be there soon enough. He'll come when we need him most. Okay, I'll see you then. - Bye-bye. - Bye-bye. You got it. Come on, let's go. Let's go. Let's get outta here. - Come on, let's go. - Let's go. It's okay. Hey, what's going on? What's wrong? What happened? Where's my son? - Where's my son? - My boy. My boy. - He ain't here. - He's not here. He's gone. No, it's not true. We don't have any money. We've been looking everywhere for him. We're gonna try and find him. We'll take care of everything else later. All right, what about me? Where am I supposed to put this? Here. Thank you. Thanks. Take care. Good luck. I'll tell them you're sorry. They'll understand. I'm just so tired of waiting. Wait till they hear from you. They're still trying to reach you. Don't worry. Everything will be fine. Please keep an eye on her. She needs some rest. "
+        ],
+        "ttr": [0.6190476190476191],
+        "perplexity": [607.75],
+        "mean_perplexity": 607.75,
+        "mean_ttr": 0.62
+      },
+      "temp-0.65-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  when the world was very, very small. A tiny little planet with only one sun and just three stars... But life wasn't so bad on that tiny little planet! There were many people there who lived happy lives... working hard to make things better for themselves and their families. And then one day, everything changed. The first man came from outer space. He brought us food. He gave us new clothes. And he taught us how to play games. I don't know what happened next, but I believe it was because of him that we became human. It was not until after all those years, that we realized how much he had done for us. But now I'm afraid it's too late. He's gone. You can see his grave? Yes. Where is he buried? In the mountain where my father grew up. It's beautiful. Isn't it? So, tell me about yourself. - What do you want to be when you're old? - A doctor. Well, I think I'll have to wait till I'm older. Oh, come on, no one's ever asked me anything like this before. - Who are you looking for? - My son. What kind of a name "
+        ],
+        "ttr": [0.7024793388429752],
+        "perplexity": [605.22],
+        "mean_perplexity": 605.22,
+        "mean_ttr": 0.7
+      },
+      "temp-0.65-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  I was the king of the world I ruled over all the land and the sea And there was no one to stop me But now, I'm not so strong anymore I'm afraid that I'll be alone forever So I've come back here to live with you Now, you're my queen! - Come on. - Go ahead. Go on. You can do it. It's your turn. Come on. Oh, yeah. Yeah. That's right. That's good. That's great. Yeah. Okay, that's perfect. You're doing great. Good job. Great job. Thank you. Thank you very much. Thank you. Hey, buddy. Hey, what's up? How's everything going? Uh... Well, it's just... we were wondering if maybe you'd like to go out tonight for dinner or something. What about tomorrow night? Tomorrow night is our anniversary. Really? Yeah. We're gonna celebrate together. We should probably get some drinks. Yeah. Sure. Um... Okay. See you later. Bye-bye. All right. Here we are. What's this? It's an old friend from school. It's called a \"french kiss.\" Isn't it funny how things change in two days? No. It doesn't matter what happens between us today, I'll always love you. And you'll always know who I "
+        ],
+        "ttr": [0.660377358490566],
+        "perplexity": [652.62],
+        "mean_perplexity": 652.62,
+        "mean_ttr": 0.66
+      },
+      "temp-0.65-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  the great world was made of stone And then there came a man to make it of clay. He built a house and a barn, And in his heart he thought, 'We will be rich.' But when he finished building, The sun went down behind the hill. Then he looked at his work again. It seemed like nothing had happened. There were no birds singing or flowers blooming. No one could see him anymore. A few days later he died. His wife buried him next to the wall. She set up a little altar on top of her grave. She put some food around the body. And she said that if anyone saw this dead body, They should not touch anything else until they find out who killed him. Now, how did the people know about the dead man's death? Because someone told them. Who? I don't know! Maybe it was the old man from the church. He used to come here all the time. He always talked about something. You remember what he said? He said that whoever killed the dead man would die. That is why you have to keep your eyes open for "
+        ],
+        "ttr": [0.7056277056277056],
+        "perplexity": [598.37],
+        "mean_perplexity": 598.37,
+        "mean_ttr": 0.71
+      },
+      "temp-0.65-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  the world was full of love And joy and peace... As we stand here today, we celebrate our new nation. I want to thank my husband for taking this opportunity to speak with me today. Thank you, Mr. President. I appreciate your honesty. You have been able to express your feelings in such an honest manner that I think it is very important to all Americans to hear them. President Johnson will now read his inaugural address. \"From the floor of the White House, \"I dedicate myself to America, whose destiny lies at stake tonight. \"It is not just about what happened yesterday, but also how we plan to live together as one people from tomorrow forward. \" I know that many of us are listening intently because we expect this speech to be very emotional. But I'm afraid that's not going to happen. I hope so. I hope you're proud of yourself for being brave enough to say those words. I'm sure you'll do well if you can deliver these words without tears or anger. The United States has achieved greatness during its turbulent past. We must never forget who we were before the war. We "
+        ],
+        "ttr": [0.7445887445887446],
+        "perplexity": [591.26],
+        "mean_perplexity": 591.26,
+        "mean_ttr": 0.74
+      },
+      "temp-0.65-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a little girl named Sally. And she had one big dream: To be the greatest singer in the world. But, unfortunately, her voice wasn't good enough for that. So, when it came to singing at school, Sally decided to sing herself instead. And that's how we know what happened next... The Greatest Singing Kid of All Time! Oh, my God! I have never seen anything like this before! Wow! This is amazing! - I can't believe you did it! - You did? Yes, I do. I am so proud of you! You are incredible! Thank you! I'm so glad you're here. What an honor. Well, if you'll excuse me, I'll go get some water and then we'll talk about your performance tonight. Okay. See you later. - Bye-bye. - See ya. Bye-bye. Wait, wait, wait, wait. You're not gonna tell anybody? No, no, no. It's just, uh... it's really important. Yeah, well, I'm sure they'll understand. They're going to love hearing you sing. Yeah, they will. I promise. I'll see you tomorrow. Good night. Hi. Uh, sorry. Didn't mean to disturb you. I-I wanted to say thank you. For what? For saving my life. That's great. That would've "
+        ],
+        "ttr": [0.644927536231884],
+        "perplexity": [632.42],
+        "mean_perplexity": 632.42,
+        "mean_ttr": 0.64
+      },
+      "temp-0.65-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was an old man with two sons, and they lived in the country.  One of them went to London for his education, but he did not stay long; at last he returned home and took up farming.  The other son had no ambition, and spent all his time playing at cards. He never learned anything useful, except that he could play well on cards. He also played bad, and got into trouble once or twice.  One day he came back from school very late, as usual, and found that his father had been absent many days without returning.  \"It is useless to be angry about this,\" said the old man.  \"I have told you so before now, and I will tell you again: your father has gone out to find work for himself, and when he comes back, it will be too late. You must go away and earn your own living, and if you do, you can make good use of what you get.\"  \"I am afraid my father cannot afford me to go away,\" answered the boy, with tears in his eyes.  \"What does that matter?  You may come back any day after "
+        ],
+        "ttr": [0.6709401709401709],
+        "perplexity": [563.23],
+        "mean_perplexity": 563.23,
+        "mean_ttr": 0.67
+      },
+      "temp-0.65-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  I had my dream And I was there with you I knew it would be good for us But now I'm in the middle of this nightmare. Oh, God! What did we do? How can we stop him? You're right, it's not our fault. He has no idea what he's doing and he doesn't know how to control himself. We have to keep trying, but we're losing them every day. - How many are left? - One. Look at her eyes. She's got a lot of pain coming through here. A lot more than she should. You can't fight that without your team. We've got to find another way. My name is David and I've been training for 18 years. I've trained with renowned masters like John Maynard Keynes, Edward D. Bernays and Charles Taylor. David's also an expert on hypnosis. He's helped thousands get rid of their addictions. This will help me relax, but only if I let myself feel it first. Now, there's something about these people... Something about the look they give each other. Like they've all met before. They've all known one another since childhood. It's like they're living a repressed memory from when "
+        ],
+        "ttr": [0.7827868852459017],
+        "perplexity": [628.41],
+        "mean_perplexity": 628.41,
+        "mean_ttr": 0.78
+      },
+      "temp-0.8-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  I was a kid And my mommy used to make me play hide and seek. But then she died, so I had to learn how to survive. So when I was three years old, I went back home to find her grave. It wasn't there anymore. But the graveyard is where I'm from now. I'm not gonna let you take me away from here! No! You can't just go anywhere with me! If we don't come back together... I'll never see your mother again! Come on, let's get out of here! Let's go! Hey, hey! It's okay. You're safe. We're all safe. - Are you sure? - Yeah. Look at us. We look like we're living in an alternate universe. Oh, no. This isn't happening. What are you doing? Just keep walking. Keep walking. Okay. Yeah. Yeah. That's it. Okay. That's great. Okay. Here we go. Thank you. That was really nice. Good luck. See ya. Bye-bye. What's going on? I got something for you. Oh, thanks. It's nothing. It's only water. Is that what this is about? It's nothing. It's just a little gift. I thought maybe you'd like it. It's just some flowers. Well, it's pretty "
+        ],
+        "ttr": [0.623574144486692],
+        "perplexity": [625.96],
+        "mean_perplexity": 625.96,
+        "mean_ttr": 0.62
+      },
+      "temp-0.8-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  I had a friend Who would love me to tell you. - You must be the new one? - Yes, sir. What is your name? My name's... - Your father gave it to me. - Oh! It's very nice of him. And where do you live? I'm in a hotel over by the river. The river? I was just wondering if you'd like to stay with us for dinner tonight and have some drinks. Oh, no, thanks, ma'am. I'd rather wait until tomorrow morning. But that's all right, Mr. McGrath. You can come up anytime after midnight. All right, then. Thank you. Good night, Mr. McGrath. Come on, boys. Let's go. We're going out into town. Well, we'll see about that later. I'll see you at home. Now, don't forget the little girls' dresses, will ya? Yes, sir. And make sure they're ready before we leave. Okay, gentlemen. - Good luck, Mrs. Hicks. - Thank you, sir. - Good night, ladies. - Good night, Mr. McGrath. Good night, everybody. Goodbye, dear. Good-bye, Mr. McGrath. - Good evening, Mr. McGrath. - Good evening. - How are you doing, Miss...? - Brown. Mr. McGrath, I hope you'll excuse me. Please sit down. Why didn't you let me know sooner? I "
+        ],
+        "ttr": [0.5472312703583062],
+        "perplexity": [612.01],
+        "mean_perplexity": 612.01,
+        "mean_ttr": 0.55
+      },
+      "temp-0.8-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I lived in the south of France. I was married to a lovely lady, and we had six children. In the summer, I made an effort to get away for a little while. And then, on a beautiful night, when my wife was at work, I heard a distant scream coming from behind a fence. She ran out, and I saw this woman. It must have been like two squirrels with their tails up that were going after me. They could only be one thing: two women trying to escape their husbands! How did you know it was them? Because they looked exactly like each other. Now tell us about your son. What happened? He went missing around Christmas. When I found him, I just couldn't believe what I'd seen. It's impossible to put words into my mouth. He's so small, he's almost invisible. That's why he got lost. I tried to find him every day. Everywhere, but no-one knew where he might be or how he came there. He'd come here once before. The last time I saw him, he was sleeping under a tree. Aren't you scared of him? No... Not really. But I "
+        ],
+        "ttr": [0.7195121951219512],
+        "perplexity": [616.36],
+        "mean_perplexity": 616.36,
+        "mean_ttr": 0.72
+      },
+      "temp-0.8-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  I was a girl And you were the one who said, \"I will always love you\" I don't know what to say anymore You have no idea how much I mean to you I am sorry. Please forgive me for being such an idiot Oh! Why did you do that? It's not my fault! I can't believe it. I'm so embarrassed. What are we going to do now? Do you want to go home with us? Yes. Okay, let's just leave her alone and come back tomorrow morning. Good night. Wait up! - What is this? - It's your homework. What's wrong with this? Are you okay? You're really good at math. Didn't you learn anything from last week's lesson? Yes, but... No, I'm fine. Don't worry about it. If you're feeling sad or upset, I can talk to you later on. Thank you. That's great. How many hours of sleep do you need each day? Three. Well, then I'll try three more times today. See you in class. Bye. So, what's the problem? I thought you liked him. I guess it's just because he's so beautiful. He doesn't look like any other guy I've ever met before. "
+        ],
+        "ttr": [0.7165991902834008],
+        "perplexity": [646.17],
+        "mean_perplexity": 646.17,
+        "mean_ttr": 0.72
+      },
+      "temp-0.8-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  I was living in the city of London And there were lots and lots of people around me I liked to be with them because they made me feel happy But now I'm going home. I want my life back, too! I'm leaving this place, and I'm gonna get some sleep. My sister's waiting for me outside. - So where are you staying? - Don't worry about that. I'll stay here. - What do you mean? - You'll see soon enough. Oh... Where is she? Well... well, she's gone into the kitchen. - She'll be back soon. - You sure? Yeah. Thanks. You're welcome. Good night. - Good night. - Good night. Thank God you're safe. You two can go now. It's all right, honey. We're gonna find her. We'll figure out what happened. Hey! Get away from him! Don't move. No one's moving. He's dead. Let's go. Stay down. Stay down. What's wrong? Look at me. It's nothing. Come on. Move it along. Put your hands up. Your hands' over your head. Over your head. Down. - Get off! - Go ahead. Go ahead. Give us one more shot. Let go. Keep it down. Turn around. Turn around. Wait. Just wait till we have everything "
+        ],
+        "ttr": [0.6309963099630996],
+        "perplexity": [639.67],
+        "mean_perplexity": 639.67,
+        "mean_ttr": 0.63
+      },
+      "temp-0.8-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  the great Druids used to live in caves and keep their knowledge of life on stone. Now, if you're looking for a way back into the past... it's only got one thing left to do... Build up your own cave! We're gonna need all kinds of supplies. So where's that? In my pocket. Right under there. Come on, come on. Let's go. Dad? We don't have much time. I know I didn't say it before but I was going to tell you later tonight. But this is important. I can't find my phone anymore. You're not worried about me? Of course I'm not. I'm just concerned about you. Oh, well then you'll be happy to hear that I've been found. You see there's something here that's worth saving. It's probably gone missing from the other place too. Look at these. They're ancient tablets. They were written by the same people who created Stonehenge and they contain information about the creation of mankind. Something tells me that they're very old. I've already read them through once. Maybe it's another book. - It might even be a different book. - Well, we'll wait and see. Well, maybe we should just "
+        ],
+        "ttr": [0.7283950617283951],
+        "perplexity": [572.99],
+        "mean_perplexity": 572.99,
+        "mean_ttr": 0.73
+      },
+      "temp-0.8-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  I was a boy I was a little boy with no friends And my mother said to me \"You're too young for your own good.\" But I'm not so sure. Because the truth is that I've never been in love before. And there's something about you, like you're... different from everyone else around here. You don't look like anybody's son or daughter. It's just... I'm gonna tell you what it is. When you first came into this house, I didn't know how much you'd change things up and make them better. Well, that's because you've always been there. You've been watching over us all these years. Oh, yeah? So now it's time for you to take care of yourself. And when we do that, we'll be able to have more fun together. Thank you very much. Okay, bye-bye. What are you doing? What's wrong? Nothing. Why would you lie to me? We had an agreement. It wasn't easy. You can't come back to this place without knowing what's going on. - It isn't safe! - You want me to leave? Yes, I do. But why did you do this? To hurt him. No. You wanted to protect him. "
+        ],
+        "ttr": [0.6938775510204082],
+        "perplexity": [635.13],
+        "mean_perplexity": 635.13,
+        "mean_ttr": 0.69
+      },
+      "temp-0.8-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  when the gods were fair and they ruled all things. They gave us land, fish, flowers, birds and trees. But then there was trouble... - Where is she? - The sun sets in 10 minutes. If we don't get her by that time we're dead. Do you understand me? Now, listen to me. If you see this girl at any point of time do not come running to me. She's gone! She disappeared without leaving a trace! The only thing left is your daughter. Go find her! I'll wait here for you! Don't go! I'm going alone! No one will know you're coming! Be careful! I didn't think I'd ever be so scared again. My God! It's really cold out there! - Who are you? - It's no use asking. We're from the city council. - Why have you followed us? - We came looking for you. We wanted to talk to you about something important. What's up with you guys? Are you crazy or what? Look at my hands! They're freezing. Get off me! I said get off me! Take it easy. Stay where you are. Let me help you. Come on. Hurry! Quickly! Come on! - What's happening? - My leg! Your "
+        ],
+        "ttr": [0.6511627906976745],
+        "perplexity": [617.48],
+        "mean_perplexity": 617.48,
+        "mean_ttr": 0.65
+      },
+      "temp-0.8-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  there was an old man who had been sick for many years. He came to the town to seek help and cure.  \"How is your father, my son?\" asked his wife as she sat near him in her room on Sunday morning.  \"He is well,\" answered he. \"Such are all his friends.\"  \"Well, I hope you have no trouble, sir?\" inquired her husband anxiously. \"I wish it were possible to get out of this house. It is so damp and cold.\"  \"Oh! yes; we can do that easily. We could go outside and let our rooms get warm up before us.\"  \"But how about you and me, my son?\" asked his mother when they had come out again from their walk through the woods.  \"I think it would be much better if we both stayed here together. My work, and yours, are not very different. The fact remains, however, that there is nothing either of us can do at present. Besides, the weather must soon be getting colder and colder, for now every thing grows darker and duller, and we cannot see anything except what lies across the water. At any rate, we shall have plenty "
+        ],
+        "ttr": [0.6877470355731226],
+        "perplexity": [587.21],
+        "mean_perplexity": 587.21,
+        "mean_ttr": 0.69
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b7": {
+      "temp-0.3-p-0.6-k-40-rep": {
+        "metrics": {}
+        "response": [
+          "Once upon a time  there was a man named John. He lived in the city of New York City. He had a wife and two children. He loved his family very much. One day, he went to work. And then he got home from work. His wife called him up and said that her husband had died. She told him what happened. John answered her call with joy. But when she asked him why he didn't come back home immediately, John replied: \"I have been working too hard at my job\". John's wife wanted him to return home immediately. But John refused because he loves his family more than anything else. The story ends with a happy ending. Yes, it is true. We all love our families very much. However, sometimes we forget about them. Sometimes we are so busy doing other things that we don't think about them as often as we should. This is not a bad thing. It shows us how important they are to us. If you want your family to be happy, make sure you always remember their presence. You can do this by making sure that you give them lots of attention every day. "
+        ],
+        "ttr": [0.6695652173913044],
+        "perplexity": [1024.14],
+        "mean_perplexity": 1024.14,
+        "mean_ttr": 0.67
+      },
+      "temp-0.3-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a boy named John. He lived in the city of New York City. He had a big house and lots of money. He loved to play with his friends, but he didn't like to go out much because it was too hot. One day, John went outside for some air. He saw that there were many people around him, so he decided to ask them if they wanted to join him on their walk. But when he asked one of them, he got very angry. The man said no. So John walked back inside. Then he thought about what he'd done wrong. He felt guilty. He looked at all of the things he did right and realized that he wasn't good enough. And then he started to think about how bad things could happen if he continued to do the same thing. He remembered that he had been told by his parents that he should be more careful. So he turned around and left the park. He walked home. He sat down and wrote down everything he had learned from his experience. His name is John. He has become an adult now. Now he "
+        ],
+        "ttr": [0.64],
+        "perplexity": [936.06],
+        "mean_perplexity": 936.06,
+        "mean_ttr": 0.64
+      },
+      "temp-0.3-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I was in love with you, but now I'm not. You are too old for me. I am not your age anymore. I know that you're going to be lonely and sad. But don't worry about it because I will never leave you. I love you.\" - Auntie Sally (film) \"...I love you so much!\" \"I can't believe this is true!\" \"Oh my God!\" \"Oh no!\" \"Oh my God!\" \"Yes!\" \"Yes!\" \"Yes!\" \"Yes!\" \"Yes!\" \"Yes!\" \"Yes!\" \"Yes!\" Yes! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! No! "
+        ],
+        "ttr": [0.21142857142857144],
+        "perplexity": [2069.87],
+        "mean_perplexity": 2069.87,
+        "mean_ttr": 0.21
+      },
+      "temp-0.3-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a man named John, who lived in the city of New York City. He had a wife and two children. One day he went to work at his job as an electrician. When he got home from work, he found that his wife had died. His son was also dead. He then remembered how long ago his mother used to tell him stories about fairy tales. So he decided to go back to the past and find out what happened to his family. He went back to the past and saw that his father had been killed by a gangster. The story ended with John's death. Nowadays, we have many people like this person. They are called magicians or psychics. These people use their powers to communicate with other people through dreams, visions, and other supernatural phenomena. This is not true. It is only possible for magicians to communicate with others if they believe in something. If you do not believe in anything, your communication will be limited to words and numbers. You can learn more about these things here. Magic is not real. There is no magic involved. In fact, it is very "
+        ],
+        "ttr": [0.6694915254237288],
+        "perplexity": [932.14],
+        "mean_perplexity": 932.14,
+        "mean_ttr": 0.67
+      },
+      "temp-0.3-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy named John. He lived in the woods with his parents and grandparents. They were very poor, but they loved their son dearly. One day he went to school and got lost. His parents called him back home, but he didn't come back. The next morning, when they woke up, they found that John had disappeared. Their search for him went on all over the country. Finally, they found him dead. There was no one left to tell them what happened. So they buried him. But it wasn't easy burying him. Because they couldn't find any clues about where he died. They thought that maybe he had been killed by some animal or something. Then they started searching for other ways of finding out more about this mysterious death. And then they found out that John's father was a farmer who used to live in the woods. That is why they named him John. In the story, we learn that John was a good boy. He always helped his family. He was kind to everyone. He also liked playing with animals. He never hurt anybody. We can see from the story that John "
+        ],
+        "ttr": [0.6239316239316239],
+        "perplexity": [955.87],
+        "mean_perplexity": 955.87,
+        "mean_ttr": 0.62
+      },
+      "temp-0.3-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  I was in love with you... I loved your smile, your laugh and the way that you looked at me. But now I'm not so sure about it anymore. You have changed. You've become a man. And it's hard to know what you're going to do next. How will you be able to keep up with this new guy? He is older than you, he has more experience and he's much better looking. Don't worry - you'll get used to him eventually. Just remember that you are still his girlfriend. He'll treat you just like before. Don't forget that! If you've been dating for a while, then he'll probably already know who you are. If not, ask him out on a date. Ask him out if you want to make things official or just let him see how you feel. It's okay if you don't think he likes you right away. Remember that guys can change their mind sometimes. Don't be too disappointed if he doesn't respond right away. It happens all the time. Just give yourself some time. After a few dates, you may start to realize that he really likes you. Then tell him. Tell "
+        ],
+        "ttr": [0.6623376623376623],
+        "perplexity": [987.22],
+        "mean_perplexity": 987.22,
+        "mean_ttr": 0.66
+      },
+      "temp-0.3-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Billy. He lived in the woods with his parents and his brother. They were very poor, but they loved each other very much. One day he went to school and got lost. His parents called him back home. But when he came home, his parents found out that he had been kidnapped by some people who wanted to steal their money. The family tried to find him everywhere, but couldn't find him. Finally, one night, Billy's mother woke up and saw her son lying on the floor of the kitchen. She thought she had killed him. Then she started crying. Her husband also began to cry because he didn't know what to do. Billy's father said, \"Let's go to the police\". So they went to the police station. There, they told the police officer everything about what happened. The policeman asked them if they knew anything else about the boy. Billy's mother answered \"Yes, we did.\" And then the policeman explained to them all about it. Billy's mother cried again. She felt very sad. Billy's father said, \"Let me tell you something.\" Billy's mother is dead now. Billy's father said, \"Well, "
+        ],
+        "ttr": [0.592741935483871],
+        "perplexity": [936.93],
+        "mean_perplexity": 936.93,
+        "mean_ttr": 0.59
+      },
+      "temp-0.3-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a man who lived in the mountains of Norway. He had a beautiful wife and two children, but he didn't have much money to buy them with. So he decided to sell his house for some cash. He sold it at auction on eBay. The house went up for sale for $500,000. That is how much he got from selling his home. How much did you get? Answer not in context  500,000 dollars ($) 0.00 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) 5,000 $500,000 dollars ($) "
+        ],
+        "ttr": [0.2257142857142857],
+        "perplexity": [1340.62],
+        "mean_perplexity": 1340.62,
+        "mean_ttr": 0.23
+      },
+      "temp-0.3-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  the world was in chaos. The people were living in fear and terror. They had no hope, they could not escape from their misery. They lived in fear of each other. There was an outbreak of plague that killed all the people except for one person who survived. He was saved by his faith. This story is called Noah's Ark. It tells us about how God created man out of clay. In our modern day we have many stories like this. We are told to be afraid of something or someone because it is bad. But if you look at history, there has never been anything like this. Noah's Ark is a good example of what happened in the past. It shows that when things get bad, God can save us. History teaches us that sometimes bad things happen to help us grow as human beings. If you want to learn more about Noah's Ark, read the Bible. You will find lots of information on it. Here is a picture of Noah's Ark. Look at the image. What do you think would happen if you saw this? Would you feel happy? Yes, I would feel happy. "
+        ],
+        "ttr": [0.6508620689655172],
+        "perplexity": [927.41],
+        "mean_perplexity": 927.41,
+        "mean_ttr": 0.65
+      },
+      "temp-0.65-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  there was a man named Jack. He had a job and lived in the city. He worked hard, loved his family and enjoyed life. One day he decided to take a vacation from work. His wife and children were waiting for him at home. They wanted to see him before they left for work. Jack made plans to go on holiday with them. But what happened next? Jack didn't have enough money to pay for the trip. So how did he get around that problem? By borrowing money from friends. How did he do this? No one knew about it until later when he told his family. The story is told through Jack's point of view. This book tells us how to deal with problems like these. It also teaches us how to be resilient and stay strong during difficult times. It's very inspiring. I highly recommend it! A great read! Thank you, Jack! Jack. - Kindle edition by David C. HicksJack. - Kindle edition by David C. HicksJack. - Kindle edition by David C. HicksJack. - Kindle edition by David C. HicksJack. - Kindle edition by David C. HicksJack. - Kindle edition by David C. HicksJack. - Kindle edition by David C. "
+        ],
+        "ttr": [0.5355805243445693],
+        "perplexity": [986.6],
+        "mean_perplexity": 986.6,
+        "mean_ttr": 0.54
+      },
+      "temp-0.65-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  the city of Detroit was filled with cars. It had an abundance of gasoline and oil, and it was rich in resources. But now Detroit is falling apart. The city's streets are deserted, its businesses closed down, and its residents have lost their jobs. In the past year, Detroit has experienced significant decline in its economic growth. The recession has also led to high unemployment among Detroit's youth. There are signs that Detroit is heading for another depression. Now it's up to you to save your town from this dire situation. Help Detroit by filling out the form below. You will be given a chance to earn some money! A few tips on how to fill out the form are: Fill out all the information completely. Don\u2019t worry about accuracy. If you know what you want to do, don\u2019t hesitate to provide as much information as possible. Do not try to get too specific. For example, if you would like to help rebuild Detroit, just say \"rebuild\". If you know which companies should reopen or hire people back, give them details so they can start rebuilding. Don\u2019t forget to include any other ways you could help. "
+        ],
+        "ttr": [0.7148936170212766],
+        "perplexity": [1005.59],
+        "mean_perplexity": 1005.59,
+        "mean_ttr": 0.71
+      },
+      "temp-0.65-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  we were young, happy and unmarried. We went to the movies together and had fun. Nowadays our relationship is over but I still miss that feeling of being single for so long. How can i forget about my ex boyfriend? I would use an ice pack on myself to help me remember him. The thought of his face reminds me how bad it was when he used to be there. How do you forget someone who left you in such pain? by keeping them busy with other things. I keep thinking about him and I cannot stop thinking about him. Why did you break up with your boyfriend? He was too much of a jerk. What happened to make you want to end it all? It was something serious and serious enough to make you want to break up with him because of that. I don't know why I didn't think of this sooner. It hurt so much. How did you find out about the breakup? He texted me and said he wanted to break up. I found out through text message. Did you have any problems before the breakup? No. So what made you decide "
+        ],
+        "ttr": [0.6217391304347826],
+        "perplexity": [973.96],
+        "mean_perplexity": 973.96,
+        "mean_ttr": 0.62
+      },
+      "temp-0.65-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  the world was ruled by a group of people called the Great Powers. They were powerful, wealthy and feared. The world was governed in accordance with their rules and laws. But things changed when they discovered that there was another group of people living on earth who had different rules and laws than them. This new group of people became known as the Third World. It was very difficult for the Great Powers to govern because they could not control this new group of people. They wanted to know what happened to these other people. So they sent emissaries to ask questions about them. And they got some answers from the third world. The Great Powers finally realized that they had been wrong. The Third World is not like the Great Powers. The Third World has its own rules and laws. These are called the International Regulations. They are written down in international law books. The Great Powers have no authority over these regulations. Instead, the Great Powers give the International Regulations to the Third World. The Great Powers never want to see any more Third World governments. Because they think that it will cause chaos. "
+        ],
+        "ttr": [0.5585585585585585],
+        "perplexity": [1002.01],
+        "mean_perplexity": 1002.01,
+        "mean_ttr": 0.56
+      },
+      "temp-0.65-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a boy who loved his mother dearly. He wanted to be a good son and he always did what he could to make her happy. However, one day when he went to school, he found that his mother had died suddenly. His heart broke in two pieces and he felt very sad. Now the boy would never forget this moment until his last breath. At the same time, he also realized how much his mother cared for him. The boy then decided to become a better son. So he started taking care of his mother with love. Soon afterward, the boy became a father. A few years later, the boy's mother passed away too. But before she left, she told the boy: \"Be careful now because I am going to die soon\". After hearing this, the boy began to worry about death. In fact, he feared dying at any minute. This is called \"anticipation anxiety disorder\" or anticipatory grief. Anticipatory grief can cause severe depression, even suicidal thoughts. You might think that you are ready to give up but don't know where to start. Don't panic! There are ways to cope with it. Get "
+        ],
+        "ttr": [0.6926229508196722],
+        "perplexity": [925.34],
+        "mean_perplexity": 925.34,
+        "mean_ttr": 0.69
+      },
+      "temp-0.65-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  there was an old man named John, who lived in his little cottage on the island of Coney Island. He had a son and daughter-in-law, but he never got to see them grow up because they died when he was very young. Then one day a beautiful girl called Mary came into his garden and asked him if she could stay with her for a while. She wanted to have a home away from home and did not know what life would be like after school. The boy replied, \"I am too young\" so she left him. Later that same afternoon Mary went back and found out that the boy's mother had died. They were both lonely, sad and lost. After hearing about this story the boy started looking forward to meeting new people. His mother had passed away, but he hoped that life would turn around soon. A few months later he met a woman named Sarah Jane Smith. He fell in love with her instantly and decided to marry her right away. The couple married and moved down to the big city where they bought a house and began living together. It was their "
+        ],
+        "ttr": [0.695067264573991],
+        "perplexity": [928.45],
+        "mean_perplexity": 928.45,
+        "mean_ttr": 0.7
+      },
+      "temp-0.65-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a little boy who loved to play with his toys. He played with them all day long, and he liked it very much. But one afternoon the little boy got tired of playing with his toys and wanted to go home. So he took his toy away from the ground where he had been playing. And then he went back into the house. His mother saw him going in the same direction she had gone before. She thought that something was wrong. So she ran out of the house. The little boy came running back to her side. \"Where have you gone?\" she asked. \"I didn't want to leave you alone! I just wanted to see if you'd be okay.\" The little boy said nothing at first but looked at her for a few seconds. Then he answered, \"Yes, I'm fine.\" She held up her hand and let him play again. That is what happens when we are too busy thinking about our own problems or worries to give others help. We forget that sometimes people need us. Sometimes they can only find themselves on their own. When someone needs help, they should come "
+        ],
+        "ttr": [0.6812227074235808],
+        "perplexity": [959.93],
+        "mean_perplexity": 959.93,
+        "mean_ttr": 0.68
+      },
+      "temp-0.65-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  I was in the middle of an interview with my boss. He asked me to look at his office and say something about how he felt while working there. The first thing that came to mind was the way it looked like the rest of the offices in his company. It seemed disorganized, dirty, and unkempt. His eyes were on me as I walked down the hallway, looking around the office for any sign of organization or cleanliness. When I found nothing, I said, \u201cYou know what? I have never seen anything like this before.\u201d And then, out of nowhere, I started crying. I could not stop until I finished talking. Afterward, I realized that all of us are suffering from the same problem. We live in a world where we think our jobs are too important to be treated properly. Our job isn\u2019t enough to make us happy. That\u2019s why we end up feeling stressed and anxious throughout the day. As such, many people find themselves struggling with their work life because they don\u2019t see the importance of being well-hydrated. Drinking water can help you feel more relaxed and calm during your workday. If you\u2019re "
+        ],
+        "ttr": [0.7396694214876033],
+        "perplexity": [1025.9],
+        "mean_perplexity": 1025.9,
+        "mean_ttr": 0.74
+      },
+      "temp-0.65-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  I was living in the dark and alone...but now I'm living it again. It's been 20 years since my last trip to Paris, so I feel very nostalgic about this city that is one of my favorite places on earth! The weather in Paris has been great - warm and sunny, but not too hot or cold. So far, it's been a fantastic experience. I am looking forward to returning soon! :) #paris #loveitParis #mythologyofparis #travelphotography Parisian people are incredibly polite and courteous! Definitely worth a visit when you're there! xo <3 <5 5 stars 5 stars \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605 I have never been to Paris before, but I've heard amazing things about it from friends. This was my first trip as well and everything went really well. The weather was nice, and everyone was friendly and welcoming. It was a perfect weekend! Thank you for a beautiful stay! \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 Paris is such an incredible place! \u2764\ufe0f Love your photos! I also love how you captured all the local life like making coffee at home and sharing stories with each other. Thanks for being so sweet and helpful! \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 \u2605\u2605\u2605\u2605\u2605 "
+        ],
+        "ttr": [0.4914772727272727],
+        "perplexity": [86085.14],
+        "mean_perplexity": 86085.14,
+        "mean_ttr": 0.49
+      },
+      "temp-0.8-p-0.6-k-40-rep": {
+        "response": [
+          "Once upon a time  the world's first modern rock band was formed in San Francisco. The Bandstand Boys were a punk rock band from San Francisco, California that performed their music on stage and also recorded their music for release on vinyl. They had their first demo tape released by Columbia Records in 1972. The Bandstand Boys are still playing today as an alternative rock band known simply as the Bandstand Boys. In 1975, they signed to CBS Records, but did not have any recordings until 1979. After releasing two albums, the Bandstand Boys broke up with CBS Records in 1981. Their last album was released in 1984. The Bandstand Boys (San Francisco) - Bandstand Boys (San Francisco) - Albums - Bandstand Boys (San Francisco) - Demo Tapes - Bandstand Boys (San Francisco) - Videos - Bandstand Boys (San Francisco) - Biography Bandstand Boys (San Francisco) - Bandstand Boys (San Francisco) - Albums - Bandstand Boys (San Francisco) - Demo Tapes - Bandstand Boys (San Francisco) - Videos - Bandstand Boys (San Francisco) - Biography Bandstand Boys (San Francisco) - Bandstand Boys (San Francisco) - Albums - Bandstand Boys (San Francisco) - Demo Tapes - Bandstand Boys (San Francisco) - Videos - Bandstand Boys (San Francisco) - Biography Bandstand Boys (San Francisco) - Bandstand Boys (San Francisco) - Albums - Bandstand Boys (San Francisco) - Demo Tapes</s> "
+        ],
+        "ttr": [0.3089171974522293],
+        "perplexity": [1295.87],
+        "mean_perplexity": 1295.87,
+        "mean_ttr": 0.31
+      },
+      "temp-0.8-p-0.75-k-40-rep": {
+        "response": [
+          "Once upon a time  in the past , when I was still young and strong... there were only two ways of doing things . You either did it or you didn't do it ... and then you had to find out what happened with your life . And that's where this story comes from . A man named John has always been honest about his experiences so he could help others understand them too . - John Sutterman is an American writer and speaker who writes for The Christian Post , USA Today and other publications . He also teaches at Bible College in North Carolina . He lives in North Carolina with his wife and daughter . His latest book is called ' Saving the Word ' . Follow him on Twitter @JohnSutterman or visit www.savingtheword.com John Sutterman: My parents raised me to be honest . If I needed money , they would lend me cash instead of giving me a check . They never gave me any of their money back . I used to live with my brothers and sisters until I turned 16 years old . Then I went off to college and spent most of my time away from home . When I returned , I found that my parents had left everything behind and had "
+        ],
+        "ttr": [0.7125],
+        "perplexity": [972.95],
+        "mean_perplexity": 972.95,
+        "mean_ttr": 0.71
+      },
+      "temp-0.8-p-0.9-k-40-rep": {
+        "response": [
+          "Once upon a time  I was in love with my boyfriend The only thing he cared for was his work. We were together five years before we broke up. He never loved me and had always blamed it on the fact that I was not interested enough in his work to give him a chance. As if to prove his point, when things worked out well at work, he would put himself forward as the victim because of some misfortune or accident that happened during our breakup. Although this was all true about me, but he did not understand that sometimes people are just unlucky. After 5 years of trying to have a relationship with someone who cared less about his job than his career, what went wrong? No Answer   Didn't end up getting married His career kept getting better. I wanted to be left alone so bad. At first it felt good when I got off work early and could spend more time with him, until something changed. This change became even worse. I told myself that maybe he was going to try again, but then it turned out that there was nothing. It didn't matter how many times "
+        ],
+        "ttr": [0.7092511013215859],
+        "perplexity": [930.03],
+        "mean_perplexity": 930.03,
+        "mean_ttr": 0.71
+      },
+      "temp-0.8-p-0.6-k-90-rep": {
+        "response": [
+          "Once upon a time  the boy was very much in love with his mother and loved her dearly. He was also quite fond of his brother, who he called \"Johnny\". The boy liked to play soccer and other sports with Johnny. At school, the boy had good grades and played well at all subjects. His parents were proud of him. One day, the boy's father got sick and died. The boy then lost interest in his studies and became depressed. He did not know what to do anymore. The boy felt lonely and wanted something more than just food. So he decided to steal from people for money to buy himself food. One day, he went out on the street and saw a girl walking by. She asked him if she could borrow some money from him. But when the boy refused, she walked away. Then he turned back home and started drinking heavily. The next morning, the boy woke up feeling very ill and couldn't eat anything. After that, he fell into a coma. The boy tried to wake him but failed. A few days later, the boy was dead. The boy's mother found out about it. She was "
+        ],
+        "ttr": [0.625531914893617],
+        "perplexity": [943.88],
+        "mean_perplexity": 943.88,
+        "mean_ttr": 0.63
+      },
+      "temp-0.8-p-0.75-k-90-rep": {
+        "response": [
+          "Once upon a time  there was a guy named Jack Jack was a guy who loved sports and enjoyed playing basketball. He liked to play football, too, but he didn't like it much because he wasn't good at the sport. He also played baseball once in his life. He never really got into hockey or ice hockey. His favorite sport was basketball. He would always win. He had a team of friends that were all good at sports, too. One day they decided to have a party for their friend Jack's birthday, so they invited everyone over to hang out. Everyone came except one person: Jack. His friends thought he was just being nice, but they couldn't tell him anything because nobody knew what happened to Jack. He went home alone. The next morning when he woke up, he found out that no one had come over to celebrate his birthday. So, he took off for the streets with nothing to eat. Finally, he ran out of food and ate some garbage. Eventually he died. After that Jack left behind many orphans. There are now only two orphans in the world. No longer do I know your name, but you "
+        ],
+        "ttr": [0.6324786324786325],
+        "perplexity": [939.23],
+        "mean_perplexity": 939.23,
+        "mean_ttr": 0.63
+      },
+      "temp-0.8-p-0.9-k-90-rep": {
+        "response": [
+          "Once upon a time  the city of Mexico City had more than 100,000 inhabitants. It was one of the most populous cities in Latin America. Nowadays it is estimated to be around 800,000 inhabitants. The city also has a large cultural and historical importance for Mexico. Some characteristics of the city are unique among other cities of Latin America: Its high density urban growth pattern, its diverse architectural style, modern architecture, ethnic diversity, great economic development potential and an important trade link with Central America. This information on the Mexican capital can help you prepare yourself if you're planning to travel there. If you\u2019re planning to visit Mexico City during your vacation, there are some things you should know about what to expect before you arrive. Here\u2019s a list of common questions that many visitors ask about visiting Mexico City: How much does it cost to live? Is it expensive to buy things like clothes or electronics? Where do I get food and drink? What kind of entertainment am I supposed to look forward to? What attractions are nearby? What else do I need to know before making plans? Check out this post about what to know before traveling to "
+        ],
+        "ttr": [0.6724890829694323],
+        "perplexity": [970.57],
+        "mean_perplexity": 970.57,
+        "mean_ttr": 0.67
+      },
+      "temp-0.8-p-0.6-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a little girl named Lucy. She lived in the village of St. Louis. Her parents were very wealthy and she had a lot of friends. But one day, her parents died. She lost all her friends and her parents left her alone. Then she found out that she had to go away from home for a while because they could not afford to send her back home. And so she went away to Paris. Now Lucy is 20 years old. Lucy loves Paris and has lots of friends there. Lucy lives in Paris with her best friend, Alice. They are both very beautiful girls. There is also another girl named Anna who lives in Paris too. In Paris Lucy meets many people but none of them likes her at first. One by one Lucy gets used to them. Lucy becomes friendly with everyone in Paris. Lucy goes on a trip to London to meet some other people. Lucy wants to be richer than Alice. Lucy has a big surprise when she sees what happens next. Lucy became richer than Alice. What does Lucy want to do now? travel to London again to meet others. "
+        ],
+        "ttr": [0.5859030837004405],
+        "perplexity": [889.75],
+        "mean_perplexity": 889.75,
+        "mean_ttr": 0.59
+      },
+      "temp-0.8-p-0.75-k-125-rep": {
+        "response": [
+          "Once upon a time  there was a little boy named Billie Billie's mother had a heart attack She died in the hospital. Billy's father had to take care of her while he went to work. He worked hard for two years, so that he could pay his mother's funeral. But Billy was too old and couldn't go. She left him all this money to give him when she passed away. Billy lived with his grandparents until he turned eighteen. When Billy grew up, he got married and bought a big house. His wife died in an accident, but he didn't get a widow's allowance from her husband because he hadn't paid his debts. Now Billy lives with his grandparents. He has a son named Max. He is very smart. The story goes on. This book tells about Billy's life. It starts with how Billy was born. Then it describes what happened to Billy as a baby and how he grew up. It also includes some facts about the people who were important to Billy. Finally it ends with the ending of Billy's life. I loved reading this book. It made me think about my own childhood. It's called \"Little Billy\". "
+        ],
+        "ttr": [0.6382978723404256],
+        "perplexity": [940.28],
+        "mean_perplexity": 940.28,
+        "mean_ttr": 0.64
+      },
+      "temp-0.8-p-0.9-k-125-rep": {
+        "response": [
+          "Once upon a time  in the early 1980s, I had no idea what to expect at my school. It was as if I was living back in the day when people would go to college for something very specific and then return home after only being there for one year or two years. When it came to music, this school was a small town high school with an emphasis on academics. At that point, nothing else made sense to me because you couldn\u2019t get into college without going through a rigorous academic program. In fact, they were pretty strict about it, which means that all grades are taken from A- to Z-. You have to pass an algebra test every morning, a reading test every week, and a math test each... [Read more] We learned how to write our own compositions. We wrote our first song by sitting down and thinking about words. All of us performed together as a group. Not just any band. The band we played on campus, known as Wild Bunch, consisted mostly of boys. Our teachers wanted to push us beyond our personal comfort zone. They encouraged us not to think too much about things "
+        ],
+        "ttr": [0.7304347826086957],
+        "perplexity": [1060.49],
+        "mean_perplexity": 1060.49,
+        "mean_ttr": 0.73
+      }
+    }
+  }
+]

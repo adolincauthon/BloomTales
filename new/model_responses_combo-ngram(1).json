@@ -1,0 +1,496 @@
+[
+  {
+    "bigscience/bloom-1b7": {
+      "temp-0.1-p-0.6-k-50-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamed of a place where I could be free Where I would be happy But I couldn't find it So I went to the city To the big city where the people were happy and the streets were green The people had their lives and I didn't My life was so sad It was like I wasn't there When I came back to my little house There was no place for me No place to be Not even a room For me to sleep in Oh, no I'm not a baby anymore It's time to go Go - Go Come on Let's go, let's go! Come here! - Come on! Let's get out of here Get out! Get up! Go! Move! Run! Hurry! Oh! What are you doing? - Get out, get up, run! I can't run anymore! I'm going to die! No! Don't! Please don't! It's too late! You can't die, you can't! You're not going anywhere! Not until you tell me what happened! Tell me! Where did you go? Where were you? I don't know! But you must tell! If you don't, I'll kill you! I'll "
+        ],
+        "ttr": [0.49166666666666664],
+        "perplexity": [609.6],
+        "mean_perplexity": 609.6,
+        "mean_ttr": 0.49
+      },
+      "temp-0.1-p-0.75-k-50-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamed of a place Where there was no fear No pain There was only love Love Oh, love, oh, my love! Oh! Love! I was there In the land of dreams With my little brother We were all alone But we were safe Safe From the evil that was coming The evil of the dark That was to come To take us all away Into the darkness Of the night When the sun was gone It was dark and cold So cold that I could not see My little sister She was sleeping Sleeping On the floor Under the bed Her little body Was covered with snow Snow Like a white cloud A white snow cloud that hung Over the little house All alone in the cold night sky Saw the light of day Seeing the stars Looking up at the sky above They were shining Lights Light Up above the snowy hill Down below the hill, down below Through the deep snow, through the long, long Deep snow, Through the deep Night Dark Nights, Dark, Night Darks Days Day Sun Stars Star Above Below "
+        ],
+        "ttr": [0.6108597285067874],
+        "perplexity": [665.0],
+        "mean_perplexity": 665.0,
+        "mean_ttr": 0.61
+      },
+      "temp-0.1-p-0.9-k-50-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamed of a place Where there was no pain No sorrow There was only love Love Oh, love, oh, my love! Oh! Love! I was there In the garden With the flowers Blossoming The sun was shining On the trees That were so green It was so beautiful But there were no flowers there! There were only flowers! And there, in the flower garden, there lived a girl who was very beautiful. And she had the most beautiful eyes. She had them so blue. They were like the sky. But she was afraid of the sun. So she hid her eyes under her veil. I don't know why. It must have been because she loved the blue sky and the green trees. Oh. The flowers were beautiful, but there wasn't a single flower there. There wasn't even a flower. Only the leaves. You see, the only leaves there weren't leaves, they were leaves of grass. No leaves! No flowers. Not even leaves? No. Just grass! But the grass was beautiful! It had green leaves and it was green. Yes, it had leaves but it wasn't "
+        ],
+        "ttr": [0.4041666666666667],
+        "perplexity": [619.98],
+        "mean_perplexity": 619.98,
+        "mean_ttr": 0.4
+      },
+      "temp-0.1-p-0.6-k-80-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamed of a place where I could be free Where I would be happy But I couldn't find it So I went to the city To the big city where the people were happy and the streets were green The people had their cars and their houses They had everything they could ever want It was the best place in the world There was no one to hurt me No one could hurt my dreams My dreams were all about freedom Free to go where ever I wanted to Freedom to be who I really was When I woke up Everything was different Now I know what freedom is It's not about what you have Or what you're doing You have to have your dreams and your freedom to live them If you don't have those things You'll never be able to find your way Because you won't know where to start You're gonna have a hard time Finding your place In the middle of the night A little boy came to me and said \"I'm a boy I'm not a girl\" He said he "
+        ],
+        "ttr": [0.5728155339805825],
+        "perplexity": [656.78],
+        "mean_perplexity": 656.78,
+        "mean_ttr": 0.57
+      },
+      "temp-0.1-p-0.75-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man named  John. He was born in the year of the dragon. And he was the son of a king. But he had a dream. A dream that he would be a prince. So he went to the king and said, \"I have a vision. I see a dragon in my dream, and I want to be its prince.\" And the prince was named John, because he loved the name of his father. The king said to him, \"John, you are a good man. You are the best of all men. Now, I will give you the kingdom of my father. \" But John said, \"If I am the greatest of men, then I must be the poorest of kings. I have no money, no land, nothing. If you give me the crown, I'll be rich and famous. I'll have everything I ever wanted. ' So the King gave him the throne. John was king for a year. Then he died. His kingdom was divided. One part was given to his son, who was called George. Another part to a son who had no name. George was King George the Third. When George was young, "
+        ],
+        "ttr": [0.43568464730290457],
+        "perplexity": [588.79],
+        "mean_perplexity": 588.79,
+        "mean_ttr": 0.44
+      },
+      "temp-0.1-p-0.9-k-80-rep": {
+        "response": [
+          "Once upon a time  I was a little girl I was just a baby And I had a dream A dream that I would be a star But I didn't know That I could be So I went to the stars To see if I might be one When I came to my feet It was all I saw Was a big, big world Where I couldn't find My place The stars were all around me They were shining bright All around Everywhere In the sky There was no place for me to go No place to hide From the world I knew Until I found my way Through the clouds Into the night Then I heard An angel's voice Saying \"You're a child You're just Just a tiny little child\" You know what I mean? I know exactly what you mean. I just don't know how to tell you. You just have to listen to me. Listen to what? Listen. The angel said, \"You're not a real child. You're only a toy. A toy that you can play with.\" And I said, \"That's right. That's what I'm doing. I'm just playing with you. \" That's all. And then the angel "
+        ],
+        "ttr": [0.5286343612334802],
+        "perplexity": [671.14],
+        "mean_perplexity": 671.14,
+        "mean_ttr": 0.53
+      },
+      "temp-0.1-p-0.6-k-110-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamed of a place Where there was no fear No pain There was only love Love Oh, love, oh, my love! Oh! Love! I was there In the land of dreams With my little brother We were all alone But we were not alone at all Because there were two of us Who loved each other So we could be together For the rest of our lives The rest Of our days Until the end of time When the sun will shine On the earth That we have known Forever - Oh, God! - What? - I don't know. - It's a sign. It's a signal. The sun is coming up. Oh. I don't believe it. What? I think it's a miracle. A miracle? What is a miraculous thing? A sign? It's the beginning of the day. It means the dawn of something new. Something new? Something wonderful. Like what? Like a new beginning. You know, a beginning for us. For us? Yes. Yes, for you and me. And for the children. We have to go now. No, no, wait. Wait. Please. Don't go. I'm sorry. But I have "
+        ],
+        "ttr": [0.496],
+        "perplexity": [648.75],
+        "mean_perplexity": 648.75,
+        "mean_ttr": 0.5
+      },
+      "temp-0.1-p-0.75-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He was born in the year of the Lord  in a village called Bethlehem. His father was called Joseph and his mother was Mary. They were both very poor. And they lived in that village for a long time. But one day, they were very hungry. So they went to the village's baker. The baker's wife was very kind to them. She gave them some bread and some milk. Then she took them to her house. There was no one there. It was dark. When they got to their house, the door was locked. No one was there to open it. John was so hungry that he could not eat. Mary was worried. \"Why is the house locked? Why can't we open the doors?\" \"Is there a thief in our house? \" Mary thought. \"I will go and ask the master.\" So she went out. As soon as she got out, she saw a door. \"The door is locked,\" she said. \"But I can open this door. \" So Mary went in. \"What is this? \"\" \"What do you want?\"\" \"I want to see the Master.\"\" She said to herself. \"He is not "
+        ],
+        "ttr": [0.4940239043824701],
+        "perplexity": [605.5],
+        "mean_perplexity": 605.5,
+        "mean_ttr": 0.49
+      },
+      "temp-0.1-p-0.9-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He was born in the year of the Lord  in a village called Bethlehem. His father was called Joseph and his mother was Mary. They were both very poor. And they lived in Bethleem, in that very house. But they had no children. So they went to the city of Nazareth. There they found a baby boy. The baby was very sick. It was cold and wet. Then they brought him to a doctor. A doctor came and examined him. When he saw the baby, he said to him, \"Your son is very ill. You must bring him back to Bethlem.\" So the doctor brought the boy back. To Bethlenem the doctors examined the child. One of them said, \"He is a son of God. \" The other doctor said, \"He is not a child of man. He's a Son of Man. '\" And the other one said... \"He's not even a human being. It's a spirit. ' But the father said,  \"He's my son. \"' He said that to all the people. \"It's my child.\"' \"It is my flesh and blood.' \"But the mother said  \"Don't touch him.'\" She said it to everyone. "
+        ],
+        "ttr": [0.4844961240310077],
+        "perplexity": [591.99],
+        "mean_perplexity": 591.99,
+        "mean_ttr": 0.48
+      },
+      "temp-0.2-p-0.6-k-50-rep": {
+        "response": [
+          "Once upon a time  I was a little girl I was just a baby And I had a dream A dream that I would be a star But I didn't know That I could be So I went to the stars To see if I can find my way Through the night The stars were shining They were so bright It was so beautiful When I saw them My heart was filled With love For the first time In my life There was no one Who could take me Back to my home No one could Take me back Home Oh, my - Oh, oh What a beautiful dream I have It's a wonderful dream, isn't it? It's the best dream I've ever had I've never had before You know, I don't know what to say Well, you know I love you Yes, of course you do You're the only one I ever loved That's why I never left you behind Because I loved you so much Now, what do you say we go back to bed? Oh! Oh Come on, let's go Let's go, come on We can go to sleep We'll go home and be happy I'll be right "
+        ],
+        "ttr": [0.5674418604651162],
+        "perplexity": [666.01],
+        "mean_perplexity": 666.01,
+        "mean_ttr": 0.57
+      },
+      "temp-0.2-p-0.75-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He was born in a small village in the country. His father was an old man who was very poor. And his mother was just a little girl. They were very happy. But one day, the old man's wife died. The old father had to go to work. So he took his little daughter with him. She was only a baby. It was cold. There was snow. John was afraid. When he got to the village, he saw a woman. Her name was Mary. Mary was the daughter of a rich man. A rich woman, but she was poor too. One day she came to John's house. \"John,\" she said, \"I've come to ask you a favour. I want you to marry me.\" John said yes. Then Mary took him to her house and gave him a ring. That was her wedding ring, and she gave it to him, saying, \"You will be my husband. \" And she took John to a place where she had a big house with a garden. In the garden, there were flowers. Every day Mary would come and pick them. At first, John was happy "
+        ],
+        "ttr": [0.48148148148148145],
+        "perplexity": [655.45],
+        "mean_perplexity": 655.45,
+        "mean_ttr": 0.48
+      },
+      "temp-0.2-p-0.9-k-50-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamed of a place Where there was no fear No pain There was only love But I couldn't find it So I went to the city To find the place I dreamt of The city of love and peace In the middle of the night A man came to me He was tall and strong His eyes were blue They were so beautiful When he saw me he said \"I'm your man\" Then he took me to his home My home was in the mountains It was warm and green We had lots of flowers Our house was big and beautiful and we had many friends Every day we went out to play Sometimes we played in our garden Other times we would go to our lake Or we could go on a picnic On a rainy day I'd go out and play with my friends and I'd go home and I would play in my garden and my house Until the sun came up All the flowers were blooming Everything was so green and bright As soon as the day was over Everyone was "
+        ],
+        "ttr": [0.5652173913043478],
+        "perplexity": [643.49],
+        "mean_perplexity": 643.49,
+        "mean_ttr": 0.57
+      },
+      "temp-0.2-p-0.6-k-80-rep": {
+        "response": [
+          "Once upon a time  I was a little girl I was just a baby And I had a dream A dream that I would be a princess But I didn't know That I wasn't a real princess at all So I went to sleep In the dark When I woke up It was morning The sun was shining On the grass There was no one To greet me No one to kiss me goodbye My heart was broken Because I couldn't be with you 'Cause I could never be your princess anymore Oh, my heart Was broken because I can't be With you anymore 'cause I can never Be your real, real Princess You know, I think I might have been a bit of a prick About the whole princess thing Well, you know what? I think you might be right Maybe I should just go back to being a normal girl again Yeah, well, maybe you should Go back and be normal Hey, hey, don't be mad at me, okay? I'm just trying to help you out I'm not mad You're just being mean Okay, fine I'll just be mean, too All right? Okay? All I want is to "
+        ],
+        "ttr": [0.5720720720720721],
+        "perplexity": [629.71],
+        "mean_perplexity": 629.71,
+        "mean_ttr": 0.57
+      },
+      "temp-0.2-p-0.75-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man named  John. He was born in the year of the Lord  in a village called  Bethlehem. And he was the son of a carpenter. His father was very poor. But he loved his son very much. So he gave him a name  that was  a blessing. John. The name of his father  was Jacob. Jacob was an honest man. A man who worked hard. For his family. To make a living. In the fields. With his wife  and his children. They lived in Bethel. Where there were no roads. No electricity. There was no water. Not even a fountain. It was hard work. Hard work for a family like Jacob's. That was what he did. When he had finished his work  he would go to the village. Find a place to live. Somewhere where there would be no harm. If he found a good place. Then he built a house. One that would last for generations. Until the next generation. Would come to inherit the land. From his parents. What was his name? John  the Baptist. Baptist. Because he preached the gospel. Of Jesus Christ. Jesus Christ was God. Who came down "
+        ],
+        "ttr": [0.5155038759689923],
+        "perplexity": [639.25],
+        "mean_perplexity": 639.25,
+        "mean_ttr": 0.52
+      },
+      "temp-0.2-p-0.9-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man who was rich and famous. He was the greatest man in the world. But he was also a terrible man. And he had a son. A son who had no name. No name at all. The son was born in a strange land. In a land where there were no trees. There were only rocks. It was cold and dark and the sun was always shining. So the son grew up in this strange place. His name was John. John was very brave. Very brave, but he could not speak. Because he did not know how to say his name, he called himself John, and he lived in fear. When the time came for him to leave this place, his father was waiting for his son to come back. This is where he lives now. I am John's father. My name is John and I am your son, John the Great. You are my son? Yes, my father, I was your father before you were born. Your father is dead. Yes. What happened? He died. Oh, no. Please, don't go. Don't go, please. Come back, come home. I'm sorry, I'm sorry. It's "
+        ],
+        "ttr": [0.47346938775510206],
+        "perplexity": [651.85],
+        "mean_perplexity": 651.85,
+        "mean_ttr": 0.47
+      },
+      "temp-0.2-p-0.6-k-110-rep": {
+        "response": [
+          "Once upon a time  I was a young man And I had a dream I dreamed of a place Where I could be free Free from the pain Of all the things that I couldn't control But I knew that there was one thing I didn't have That I needed To be able to be A free man again So I started to search For a way to find it In the darkness The only way I found Was to go Through the night With my heart On my side My heart on my hand 'Cause I know There's a light Behind every cloud There is a path Between the stars If you can see it, you will find It's there You will see It is there, it's there! It's here! It will be here When you find the light, you'll find yourself You'll find your way Back to the place where you belong You're not alone No one is alone! No, no, you're not! You're the only one Who can find a new way! You are the one who can Find a true path! The path to freedom! To freedom From the past Into the future We are all "
+        ],
+        "ttr": [0.5483870967741935],
+        "perplexity": [636.09],
+        "mean_perplexity": 636.09,
+        "mean_ttr": 0.55
+      },
+      "temp-0.2-p-0.75-k-110-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamed of a place where I could be free Where I would be able to do what I wanted To do whatever I liked But I couldn't find it So I went to the city The city was full of people They were all so happy Everyone was happy and they were singing Everybody was singing and dancing It was so beautiful When I woke up My dream was gone Now I know that I can't find my dream again It's gone forever I'm a lonely girl now A lonely little child Who can't see the world Without the love of my parents No one can understand me Because I don't know what to say 'Cause I have no words For my pain I've been searching for the answer Until I found it in you You are the only one who can help me find the way Through the darkness Into the light Thank you for being my friend You're the one I can trust I'll always be your friend forever and ever Forever and forever... \u266a \u266a - \u266a I want to be a star \u266a - \u266a A star in "
+        ],
+        "ttr": [0.596244131455399],
+        "perplexity": [813.97],
+        "mean_perplexity": 813.97,
+        "mean_ttr": 0.6
+      },
+      "temp-0.2-p-0.9-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a man named... - ...and he was... He was the greatest. - He was? - Yes. He had a wife and a daughter. And he had to go away. But he didn't want to leave. So he made a vow. A vow? A promise. To never leave his wife. Never leave her? Never. I don't understand. Why would he do that? He didn't have a choice. The only thing he could do was to make a promise to himself. That he would never let her go. That's why he vowed never to let his daughter go either. You know, I think he did it for the best. Because he knew that if he left his family, he couldn't be with his own daughter anymore. If he let go of his promise, then he wouldn't be able to be there for her. What do you think? I think it's a good idea. It's a great idea, and it's the only way. Well, it's not the way I thought it was going to work. Oh, no? Well... Well? You don't think I should have let him go? No. No, you don't. Of course I don't! I mean, if I "
+        ],
+        "ttr": [0.43373493975903615],
+        "perplexity": [601.13],
+        "mean_perplexity": 601.13,
+        "mean_ttr": 0.43
+      },
+      "temp-0.3-p-0.6-k-50-rep": {
+        "response": [
+          "Once upon a time  I was a little girl I was in a big house with lots of toys And I had a lot of friends But one day I got sick My friends came to visit me They took me to the doctor The doctor said I needed to be in bed So I stayed in the bed all day Then I woke up and I saw a new world There was lots and lots to do It was so beautiful When I came home I told my friends about the world I found Now I have lots more friends than ever It's so wonderful Oh, it's so nice to have friends like you You know, you can always count on me for anything Thank you, Mr. Brown Good-bye, Mrs. Smith See you later Bye-bYE Hello, dear How are you? Good I'm glad you came Well, I guess I better go - Bye -Bye Come on, let's go home What are we going to eat? I don't know Let's go to a restaurant Why? Why not? It's nice We can have a nice meal We'll have to go out later, but we can go now I'll go with you if "
+        ],
+        "ttr": [0.5669642857142857],
+        "perplexity": [643.64],
+        "mean_perplexity": 643.64,
+        "mean_ttr": 0.57
+      },
+      "temp-0.3-p-0.75-k-50-rep": {
+        "response": [
+          "Once upon a time  I was a little girl I was just a baby And I loved you But I don't know how to say goodbye Goodbye, baby, good-bye You were the one that I wanted To be with Now I'm a grown-up I'm a man I've got a wife A son My life is over It's over, it's over! It's all over now It was all right Everything was fine Until you came along Then I started to cry 'Cause I thought I'd never see you again Oh, I love you, honey I'll always love and cherish you. I love, love Love, Love You're the only one I know That I can ever love again. Love Baby, you were my baby. You are my only baby. I will always be your baby! I will never let you go. I'll never leave you! I'll be here for you always. Baby Don't you ever leave me No matter what happens Never Ever Leave me, Baby Come on, come on Let me hold you tight Hold me tight, hold me close Close, close, dear So close to me now, so close now. Come here, sweetheart Take me in your arms Put your "
+        ],
+        "ttr": [0.5234042553191489],
+        "perplexity": [662.47],
+        "mean_perplexity": 662.47,
+        "mean_ttr": 0.52
+      },
+      "temp-0.3-p-0.9-k-50-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamed of a world where there was no war No war no more But I dreamt of peace A world without war  a peaceful world Where there would be no wars Without wars no peace  no love There would only be love and peace and love  and war and wars and no one would die Because there is no death So I said to myself  there will be a war when the sun goes down When the moon goes up The sun will go down and the earth will turn Then the war will begin It will start with a small war between two countries Two countries that have no common interests One country that wants to be free  the other country wants peace to rule the world  but the two are not able to agree on anything They fight and they fight Until one country is destroyed and another country becomes the new ruler This is the beginning of the end of war in the universe Now I know what war is  war means that two people fight to the death  to get what "
+        ],
+        "ttr": [0.49528301886792453],
+        "perplexity": [642.85],
+        "mean_perplexity": 642.85,
+        "mean_ttr": 0.5
+      },
+      "temp-0.3-p-0.6-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man named  John. He was born in the year  1609. And he was the son of a farmer. But he had a dream. A dream that he would be a great man. So he went to the city and he worked for a year. Then he returned home. To his father. His father was very proud of his son. Because he knew that his dream was coming true. John was now a young man and a very successful man in his field. Now he wanted to be the greatest man that ever lived. The greatest that had ever existed. That was his goal. It was all he ever wanted. I think that was John's dream, that he'd become the greatest man ever. What was he going to do? He wanted a wife. There was no one in town that would marry him. No one. Not even his own father? No. My father didn't want me to marry anyone. Why? Because I was too young. Too young? Yes. You were too old. Yes, I am. I'm too late. It's too early. You're too much of an idiot. Oh, no. That's not true, John! It's "
+        ],
+        "ttr": [0.45901639344262296],
+        "perplexity": [662.04],
+        "mean_perplexity": 662.04,
+        "mean_ttr": 0.46
+      },
+      "temp-0.3-p-0.75-k-80-rep": {
+        "response": [
+          "Once upon a time  I was a little girl I was so happy And I had a dream A dream that I would be a princess But I wasn't a real princess. I wasn't real. But the princess was real She was the one I loved The princess who loved me So I went to the palace To tell the king That I wanted to be his princess again He said, \"You're not a prince. You're a girl.\" \"You're just a child. \" \"But I want to make you a true princess. I will make your life a fairy tale. ' \"And I promise you,\" he said \"I will be your prince. \"I will always be there for you. \"\" You will never be alone. You are my princess, my love My princess and my prince I'm your princess now You're my real prince now. I'm yours forever Forever - I love you Love you forever. - Forever Oh, I can't believe it. Oh! Oh. It's you. What are you doing here? I thought you were in the city. Well, I'm here. And I'm so glad. So, what are we doing? Well... I don't know. We're just having a drink. Yeah, well, you know, we "
+        ],
+        "ttr": [0.45934959349593496],
+        "perplexity": [677.36],
+        "mean_perplexity": 677.36,
+        "mean_ttr": 0.46
+      },
+      "temp-0.3-p-0.9-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man named John. He was the son of a farmer. And he was very poor. But he had a dream. A dream that he would be a king. So he went to the king and said, \"I have a son. I want to be his father.\" And the King said, \"How can you be my son? I am a poor farmer. \" But the man said to him, \"Your son is a prince. You are a rich farmer, and you are the only one who can be the father of my child. ' So the prince went and he came to his father's house. The farmer said \"Your child is very beautiful. How do you like him? He is the most beautiful boy I have ever seen.\"' The prince said \"Thank you, my father. Thank God. \"' He said \"I am going to marry your daughter.' 'But I want you to give me a little money. I don't have any money. 'Please give it to me.'\" Then the farmer gave him a piece of paper. \"Here is your little piece. Take it and go.\"\" When the boy came back to see his mother, she said \"Oh, "
+        ],
+        "ttr": [0.43902439024390244],
+        "perplexity": [592.68],
+        "mean_perplexity": 592.68,
+        "mean_ttr": 0.44
+      },
+      "temp-0.3-p-0.6-k-110-rep": {
+        "response": [
+          "Once upon a time  I was a little girl And I had a dream I dreamt of a place where there was no fear No fear of the dark There was only love Love for the people The people who loved me But I didn't know That I could be loved Until I met you You were the only one Who could make me feel A little bit better 'Cause you were my friend My friend who could see Through my tears When I cried For you to be my friends To be the ones who would hold me close So I would never be alone Because you would always be there Always be with me and always love me for me to love you for you always to hold my hand Forever Oh, you are my best friend, my dearest friend. You are the one who will always hold on to me. I love and I will love forever. Forevery day. And every night. Oh. Thank you. Good night, sweetheart. - Good night! - Bye, Mom. Bye, honey. See you tomorrow. Love you, too. Hey, Dad. How's it going? - How's the job? Good. Yeah. Well, I guess that's good. So, how's "
+        ],
+        "ttr": [0.49377593360995853],
+        "perplexity": [693.44],
+        "mean_perplexity": 693.44,
+        "mean_ttr": 0.49
+      },
+      "temp-0.3-p-0.75-k-110-rep": {
+        "response": [
+          "Once upon a time  I was a child And I dreamed of a world Where I could be free I dreamt of freedom Free from the chains of slavery The chains that bind us To the darkness of the world of sin But I had no one to guide me No one who could tell me what to do So I wandered Wandered on and on Through the dark and the unknown Until I found a place A place where I felt safe Safe from all the pain From all that I couldn't understand My father was dead He had been killed by a man Who had killed him for no reason For no good reason at all When I saw him lying there With his head cut off It was the end of my life That night I woke up In a strange place, far away Far away from home Feared for my safety At first I thought I would die Then I realized There was no way out Of the place I lived in Only one way to go One way that would lead me to freedom. And that was to find my father Find my father's killer "
+        ],
+        "ttr": [0.6095238095238096],
+        "perplexity": [653.4],
+        "mean_perplexity": 653.4,
+        "mean_ttr": 0.61
+      },
+      "temp-0.3-p-0.9-k-110-rep": {
+        "response": [
+          "Once upon a time  I was a child. I was born in a small town in the South. My father was an electrician. He was always working late. And he was very strict. So I grew up in fear. But I didn't know what fear was. It was just a feeling. A feeling that I couldn't explain. Until one day I saw a man. His name was Frank. Frank was my father. The man who had taken me away from my mother. When I first saw him I thought he looked like a monster. Then I realized he had a heart. That was the first time I understood what it meant to be a human being. After that, I knew that there was no fear in me. There was only love. Love for my parents. For my friends. To be loved. That's what I wanted to do. Now I have to go back to the city. Back to my family. I'm going to find Frank and tell him that I'm sorry. Tell him I'm not afraid. Because I love him. Thank you. You know, I've been thinking about what you said. About the way you look at me, the look "
+        ],
+        "ttr": [0.5319148936170213],
+        "perplexity": [647.13],
+        "mean_perplexity": 647.13,
+        "mean_ttr": 0.53
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b7": {
+      "temp-0.1-p-0.6-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He lived in a large mansion. His wife was also very wealthy. They had a very large family. John was the richest man in the world. But he had to live in his mansions alone. Because his wife had too many children. She was too old to care for them all. So she had them sent to a boarding school. The children were sent away from home. And John had no one to play with. One day, John's wife died. Her children went to the boarding schools. There they were very lonely. Then John decided to make a game. A game of hide and seek. All the children had their own rooms. No one could find them. When they found each other, they would play hide-and-seek. It was fun. Everyone loved it. After John died, his children took over the manson. Now they are rich and famous. Their name is rich, famous and rich! John is dead. It's time for his grandchildren to take over his fortune. What will they do? play a hide-and-seek game? Yes. Yes, yes, no, No, Yes! No! Yes? No? They will "
+        ],
+        "ttr": [0.48828125],
+        "perplexity": [1018.74],
+        "mean_perplexity": 1018.74,
+        "mean_ttr": 0.49
+      },
+      "temp-0.1-p-0.75-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He lived in a large mansion. His wife was also very wealthy. They had a very large family. John was always very proud of his wife and his family, and he was quite happy. But one day, John's wife died. She was not very well. The next day John went to the funeral of her. There he saw a strange man. A strange old man with a long beard. And he said to him, \"John, you are a rich man, but you have not lived a good life. You have lived too much.\" John said, \"What is the matter with me?\" The old man's answer was, \"You have been too rich, too long. Now you must go back to your poor life and live a poor man's life again. I am going to give you a new life, a life of poverty. Come with us. We will live in the same house. \" John agreed. So the old guy took him to his mansions. Then he told him that he would give him a second chance. After a while, the man was back in his old mansi\u00f3n. "
+        ],
+        "ttr": [0.4897119341563786],
+        "perplexity": [1104.02],
+        "mean_perplexity": 1104.02,
+        "mean_ttr": 0.49
+      },
+      "temp-0.1-p-0.9-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a man who was very rich. He had a large house and a lot of money. But he was not happy. His wife was unhappy, too. They had no children. The man was lonely. So he went to a priest. A priest asked him what he wanted. And the man said, \"I want to have children\". Then the priest said to him, \"You're crazy. You don't have any children, but you have a wife and you love her.\" The rich man thought he had found the answer to his problems. Now he could have his own children and be happy again. I am sure you can guess who the rich man's wife is. She was the one who had to leave him. No wonder she was angry. Her husband was crazy! She left him and went away. That is why she left. Because he didn't love the wife. If you want children you must love your wife, not your husband. This is the lesson of life. Love your spouse, even if she is unhappy. Don't leave your partner if you don't love them. God loves us all. We all have our faults. It is "
+        ],
+        "ttr": [0.48739495798319327],
+        "perplexity": [981.7],
+        "mean_perplexity": 981.7,
+        "mean_ttr": 0.49
+      },
+      "temp-0.1-p-0.6-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He lived in a large mansion. His wife was also very wealthy. They had a very large family. John was always very proud of his wife and his family, and he was quite happy. But one day, John's wife died. She was not very well, so John decided to go to the hospital to see her. When he got there, he saw that his beautiful wife had died in the bed. The next day John went to his banker and asked for a loan. At the bank, the man who gave him the loan said, \"John, you are a rich man, but you have not paid your debts.\" John said to him, \"Well, I have paid them all. I am very happy now. \" The banker's reply was, \"You are very lucky, because you only paid the first debt. You have only one debt to pay. If you pay the second debt, you'll have to borrow more money. And you will have no more freedom. That's why you need to repay the debt you owe. Now, what is the third debt?\" The man said. \"I don't know. "
+        ],
+        "ttr": [0.4959349593495935],
+        "perplexity": [984.22],
+        "mean_perplexity": 984.22,
+        "mean_ttr": 0.5
+      },
+      "temp-0.1-p-0.75-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He had a large house and a lot of money. But he was not happy. His wife died and he had no one to love. So he went to a priest and asked for help. The priest said, \"John, you are very wealthy, but you have no love for your wife. You are not a good husband.\" John was furious. \"But I love my wife!\" he said. \"I love her so much! I don't want to lose her! You tell me how to get rid of her?\" The man said to him, \"You have to take her to the priest. She will be burned. I will take you to her. And then you will have a chance to marry her back. John, I am sorry. This is not what I meant. It was all a dream. A dream! A nightmare! The dream was too good to be true. Now I have nothing but the nightmare. What a pity! John.' \" John's wife was burned alive. Then he got married again. After a while, he died. When he came to his funeral, the people were very sad. They "
+        ],
+        "ttr": [0.4819277108433735],
+        "perplexity": [1017.73],
+        "mean_perplexity": 1017.73,
+        "mean_ttr": 0.48
+      },
+      "temp-0.1-p-0.9-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He had a large house and a lot of money. But he was not happy. His wife died and he had no one to love. So he decided to sell his house. John sold his home. Then he went to a bar and drank. After a while he felt very lonely. And he thought about his wife. How did he feel about her? He was lonely and sad. Now he is thinking about the wife he lost. What did John do after he drunkenly thought of his lost wife? he left the bar. he walked home and sat down to think about what he would do with his life. what did john do? left bar after drinking and walked back home to sit down and think what would he do next with life? yes he did. walked to home sat and thought what to do now with the life he has left. yes. john did what was right. left his bar to walk home after thinking what next to life did right and did it. no. not right at all. did not do right by his "
+        ],
+        "ttr": [0.3939393939393939],
+        "perplexity": [936.55],
+        "mean_perplexity": 936.55,
+        "mean_ttr": 0.39
+      },
+      "temp-0.1-p-0.6-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He lived in a large mansion. His wife was also very wealthy. They had a very large family. John was the richest man in the world. But he was not happy. One day he went to his wife's house to see her. She was in bed. Her husband was away. So he asked his friend to go to her house and pick up his things. The friend went and picked up the things and left. When he came back, he found his husband had gone. There was nothing left but the bed and the pillow. And the husband's body. Then he started crying. Because he didn't have anything to eat. After that, John began to feel very sad. At that time, his friends asked him to help them pick things up. That was John's job. Now, you are reading this story. You are a student. Your teacher is not allowed to tell you this. No. I am telling you the story because I want you to think about it. What is the best title of the passage The Richest Man in The World? Sad Man's Journey "
+        ],
+        "ttr": [0.5208333333333334],
+        "perplexity": [923.48],
+        "mean_perplexity": 923.48,
+        "mean_ttr": 0.52
+      },
+      "temp-0.1-p-0.75-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a boy named John  who was very rich. He lived in a large mansion. His parents were very wealthy. They had a lot of money. John was rich because he had inherited it from his parents. But he was also very poor. Because he lived with his mother and her parents, he didn't have enough money to buy food. So he ate what he could get. And he always had to eat. That was the way he grew up. When he got older, John became richer. Then he went to live with a rich man. The rich man's son was born. This boy was called John. Now, you know what happened. You know how it happened, but you don't know why. Why did John become rich? Because his father inherited money from him. That's why he became wealthy, because his dad was wealthy and his mom was poor, so she had no money for him to inherit it. I want you to think about that. What did he eat? What he couldn't buy. How he did it? He ate. No, I don't want to tell you. It's not important. It was his way of "
+        ],
+        "ttr": [0.4831932773109244],
+        "perplexity": [1043.6],
+        "mean_perplexity": 1043.6,
+        "mean_ttr": 0.48
+      },
+      "temp-0.1-p-0.9-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He had a large house and a lot of money. But he was not happy. His wife was dead and he had no children. So he decided to sell his house. John sold his home. Then he went to a bank and asked for a loan. The banker said, \u201cYou are too rich to get a mortgage.\u201d John said to the banker: \u201cBut I have a wife and children!\u201d The man said \u201cYes, but you have no money! You have nothing! I will lend you a small amount of my money, and you will get the house back. You will have to pay me back the money in full. I am not going to lend money to you.\" The Banker agreed. And John got the loan and bought the home back, with the help of the Banker's money and the man's own money together. Now, John is very happy and has a big house with lots of cash. No one has to borrow from him. Good story. Yes, it is true. We all have money that we cannot use. It is called our \u201cbank account\u201d. If "
+        ],
+        "ttr": [0.48770491803278687],
+        "perplexity": [1114.0],
+        "mean_perplexity": 1114.0,
+        "mean_ttr": 0.49
+      },
+      "temp-0.2-p-0.6-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He lived in a large mansion. His wife was also very wealthy. They had a very large family. John was the richest man in the world. But he had one problem. One day his wife died. She was not very well. So he decided to take care of her. And he did. The next day he went to the bank to get money. There he found out that his money was gone. No one had taken it. Then he started to think. Why did his wealth disappear? He went back to his mansions and found that all his belongings had been stolen. All his clothes, his furniture, all of his possessions. It was all gone! He was devastated. Now he was left with nothing but his house. What happened to all the belongences of the man? They were stolen! Yes, they were all stolen from him. How did the thief get away? No, he didn't. None of them. Only the house was stolen, not the other things. Yes. That's what happened. A thief stole the property, but not his soul. Because the soul is not stolen "
+        ],
+        "ttr": [0.4857142857142857],
+        "perplexity": [965.47],
+        "mean_perplexity": 965.47,
+        "mean_ttr": 0.49
+      },
+      "temp-0.2-p-0.75-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a boy named George  who was very rich. He lived in a beautiful house. His parents were very wealthy. They had a lot of money. George was always very happy. One day, his parents had to go to the bank to borrow money to pay for a big holiday. So George went to his banker and asked him for money for the holiday, but the boy was too rich to lend him any money, so he said, \"Don't lend me any.\" The banker's reply was, \"Well, I don't know why you don't lend money if you are so rich,\" and he gave George a penny. The boy said to himself, \"I am too poor to give you a dollar. I will give a quarter. If I give it to you, you will lend it back to me. \"So he went back home and gave the quarter to him. When the father came back, he saw the pennies and said \"That's all right, George. You gave me a half dollar, and I gave you the other half. Now you owe me one dollar\". And the rich boy gave him a one-dollar bill. Then the poor "
+        ],
+        "ttr": [0.44672131147540983],
+        "perplexity": [964.42],
+        "mean_perplexity": 964.42,
+        "mean_ttr": 0.45
+      },
+      "temp-0.2-p-0.9-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a boy named John  who was very rich. He lived in a large mansion. His parents were very wealthy. They had a lot of money. John was rich because he was born rich, and his parents had been rich for a long time. But he had to work hard to earn his money, because his father was poor and he didn't have much money to spend. So he worked hard. And he earned a good salary. Then he bought a nice car. The car was expensive, but he liked it. It was nice to drive. When he went to the movies, he would drive his car to see the movie. That was his hobby. There was no other hobby for him. One day, his mother died. She was just a poor old woman. Her parents died, too. Now he lived with his aunt. Aunt was not very nice. After his mother's death, John's aunts took over his house. Their behavior was bad. Because of that, the boy was unhappy. At first, it was hard for John to get along with the aunty. Later, when he got used to it, they were good to him, "
+        ],
+        "ttr": [0.4897119341563786],
+        "perplexity": [920.75],
+        "mean_perplexity": 920.75,
+        "mean_ttr": 0.49
+      },
+      "temp-0.2-p-0.6-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He lived in a large mansion. His wife was also very wealthy. They had a very large family. John was always very proud of his wife and his family, and he was happy to be a rich man. But one day, John's wife died. She was not very well, so John decided to go to the hospital to see her. When he got there, he saw that his beautiful wife had died in the bed. The next day John went to his banker and asked for a loan. At the bank, the man who gave him the loan said, \"John, you are a poor man, but you have a good heart. You are very kind to me. I will lend you a small amount of money.\" John said to him, \"I am not rich, I am poor. How can I get a little money?\" The banker's reply was, \"Well, if you want to borrow a lot of cash, you'll have to have more money than you can afford. That's why I lend a smaller amount. \" John thought, \"How can a person be rich if he is "
+        ],
+        "ttr": [0.47717842323651455],
+        "perplexity": [975.67],
+        "mean_perplexity": 975.67,
+        "mean_ttr": 0.48
+      },
+      "temp-0.2-p-0.75-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man who was very rich. He was rich because he had a lot of money. But he was also very poor. His wife was poor, too. They had no money to buy food. So they had to eat what they could get. And they ate what was left over. The man was so poor that he could not afford to have a good meal. At that time, he ate only bread and rice. That was all he liked. Then he got a job. A job that was not very good. It was hard work. In the end, the man got fired. Now he is very sad. Because he has no one to talk to. No one can talk with him. Nobody can help him, because nobody can understand him and nobody understands him because of his poor condition. I think that this is a sad story. We all have to live in poverty. If we don't live like this, we will never be rich, and we won't be happy. This is the sad truth. There is no happiness in wealth. You have no control over what happens to you. What you can control "
+        ],
+        "ttr": [0.4870689655172414],
+        "perplexity": [964.55],
+        "mean_perplexity": 964.55,
+        "mean_ttr": 0.49
+      },
+      "temp-0.2-p-0.9-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a boy named George  who was very rich and famous  and he lived in a very beautiful house  with a beautiful garden  in the middle of a large country . He had a lot of servants and horses and a good life . But one day George died and his family was left in tears . They had to find a new house to live in . And they found a house that was not very nice . The boy 's parents were very sad and they wanted to know what was wrong with the house . So they went to the gardener and asked him to help them . \" What is wrong ? \" the boy asked . \"The house is very ugly , \" he said . George was dead . Then the parents went back to their house and looked at the ugly house again . It was really ugly . After a while , they decided to sell the home . Their family went into the garden and saw a pretty girl . She was the daughter of the old gardner . Her name was Mary . Mary was so beautiful that the family decided that she was their daughter . Now they have a nice home and are very happy . I "
+        ],
+        "ttr": [0.4827586206896552],
+        "perplexity": [866.75],
+        "mean_perplexity": 866.75,
+        "mean_ttr": 0.48
+      },
+      "temp-0.2-p-0.6-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He lived in a large mansion. His wife was also very wealthy. They had a very large family. John was always very proud of his wife and his family, and he was quite happy. But one day, John's wife died. She was not very well, so John decided to go to the hospital to see her. When he got there, he saw that his beautiful wife had died in the bed. The next day John went to his banker and asked for a loan. After he had the loan, the bank manager told him that he could not get the money. So he told John to sell his mansions and move to a smaller mansi\u00f3n. Then John sold his large house and moved to another mansional. One day he went out to play golf with his friends. While playing golf, a beautiful woman came up to him and said, \"John, you are very handsome.\" He was so happy that the woman was his daughter. And he called her his little daughter, Mary. Mary was born. Now John is very happy and content. This story is about "
+        ],
+        "ttr": [0.4831932773109244],
+        "perplexity": [1051.94],
+        "mean_perplexity": 1051.94,
+        "mean_ttr": 0.48
+      },
+      "temp-0.2-p-0.75-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He had a large house and a lot of money. But he was not happy. His life was full of problems. One day he went to the doctor and he told him that he had cancer. John was shocked. What a terrible news. The doctor told John that his cancer was terminal. That was the end of his life. Now John had to decide what to do with his money and his house. How would he spend his time? He decided to spend it in the woods. There he would be free from the world and would have time to think. So he left his home and went into the forest. In the morning he came back to his large mansion. When he saw his fortune had gone. It was gone! He was devastated. Then he decided that the best thing he could do was to sell his mansions and move to a small town. And he did. After he sold his houses, he lived in a tiny town for a while. Finally he moved back into his big mansi\u00f3n. All of a sudden he realized "
+        ],
+        "ttr": [0.4956521739130435],
+        "perplexity": [1062.58],
+        "mean_perplexity": 1062.58,
+        "mean_ttr": 0.5
+      },
+      "temp-0.2-p-0.9-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a man named John  who was very rich. He was rich because he had a lot of money. But he was also very poor. Because he didn't have enough money to buy a house. So he lived in a hotel. And he used to live in the hotel every day. John was always hungry. Every day he would have to eat at the same restaurant. That was his only food. When he got home, he ate at home. His wife was not there. She was dead. Her death was sudden. The only thing he could do was to cook for himself. There was no one to help him. No one could help John. Nobody could save him from the poverty. It was hard for John to survive. One day John decided to go out and buy food for his family. To buy some food, John went to the supermarket. At the store, there were many things to choose from. They had many kinds of food to sell. In the shop, they had different prices. On the other hand, the price of the food was high. After John bought some of his food from supermarket, "
+        ],
+        "ttr": [0.5086206896551724],
+        "perplexity": [971.6],
+        "mean_perplexity": 971.6,
+        "mean_ttr": 0.51
+      },
+      "temp-0.3-p-0.6-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a boy named John  who was very clever  and he was always talking about his clever ways . He was also very popular with his friends . But one day John was in trouble . His friends were not talking to him anymore . They were angry at him for talking too much . John had to find a way to get back to his friend group . And he had a plan . What is the name of the boy John ? John is a clever boy . You can call him John . Who is John 's friend ? None of your business . None . I am not John's friend . Why do you think I would be ? I do not know . Maybe I was just a friend of John\u2019s . No , I think you are a liar . Do you know what I mean ? No . Well , John has a secret . A secret that he wants to tell you . Is that true ? Yes . Yes , he does . Tell me . The secret is that John loves his mother . Does John love his mom ? He loves her very much and she is very important to John and to the world . So John does everything he can to make her happy "
+        ],
+        "ttr": [0.47478991596638653],
+        "perplexity": [1039.16],
+        "mean_perplexity": 1039.16,
+        "mean_ttr": 0.47
+      },
+      "temp-0.3-p-0.75-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Tom  who was very clever and very smart  but he was also very shy . He was always afraid of people . Tom was afraid to talk to people because he didn't know how to speak . So he used to hide behind his books . But he never got to learn how talk . One day Tom saw a book that was written in a language that he could understand . And he read the book and learned how speak to others . Now Tom is a very happy boy . Because he has learned to be brave . It was Tom who taught him how . To be a brave boy is to have a good attitude . A good mindset . You have to always be positive . If you are negative , you will never be strong . Positive people are strong and happy . They are also strong in the face of adversity . The positive attitude is the key to being strong . Positive people have good relationships with others and are good at socializing . Negative people tend to isolate themselves and have poor relationships . These negative relationships can make them feel lonely and isolated . In addition , negative people can also be aggressive "
+        ],
+        "ttr": [0.4847161572052402],
+        "perplexity": [878.4],
+        "mean_perplexity": 878.4,
+        "mean_ttr": 0.48
+      },
+      "temp-0.3-p-0.9-k-50-rep": {
+        "response": [
+          "Once upon a time  there was a boy  who was  very  clever  and  strong  He was very brave and strong He loved to play with his friends He played with a ball He liked to run He had a big brother He lived in a very big house He always had fun He never had any trouble He knew how to read He used to write letters He read books He could play the piano He would always play a musical instrument He wanted to be a musician He got a piano and a keyboard He studied He worked hard He became a famous music player He wrote a song He sang a beautiful song His name was George. He is a great music maker. George was always very happy. His brother was also very clever and brave. They played together and loved playing with their friends. One day, George's brother got very sick and died. Then George played the keyboard for a long time. But he couldn't play any more. The boy was sad. All of a sudden, he remembered something. There was another boy in the same room. And he played a little piano. That boy's name is "
+        ],
+        "ttr": [0.4666666666666667],
+        "perplexity": [921.15],
+        "mean_perplexity": 921.15,
+        "mean_ttr": 0.47
+      },
+      "temp-0.3-p-0.6-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man named Jack  who was very rich and very powerful. He lived in a mansion with his wife and two children. Jack was always in the business of gambling. One day he had a lot of money and decided to go out and gamble. So he went out to gambles. But he was not very lucky. After a while he lost all his money. Then he decided that he would have a good time and go home. And he left. When he got home he found that his house had been robbed. His wife was also robbed and his two kids were also taken. The man was furious and went to the police. They arrested him and put him in jail. Now Jack is in prison. All the time he is thinking about what happened to him. What happened? He lost his fortune. he thought about it all the day. How did he lose all of his wealth? Jack lost it because he gambled. Because he didn't have the money to pay for the gambling, he couldn't pay the bills. That is why he became a prisoner. It was because of the loss "
+        ],
+        "ttr": [0.48917748917748916],
+        "perplexity": [907.24],
+        "mean_perplexity": 907.24,
+        "mean_ttr": 0.49
+      },
+      "temp-0.3-p-0.75-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a boy named Tom  who was very smart He was always studying and he was the best student in the school. He loved to play football and basketball. Tom was also a very good student. But one day Tom got a bad accident. His car broke down and it was too late to get to school because he had to drive to the hospital. When Tom arrived at the emergency room, he saw that his car had broken down. The doctor told Tom to go home and rest. After Tom went home, his parents told him that he needed to stay at home for a few days. They told his mother that Tom had a broken arm and needed a lot of rest and that they would be back home soon. So Tom stayed at his home.Tom was in his room and was reading a book when his father came in. Dad: Tom, Tom. Where are you? Tom: Dad, I am in my room. Daddy, Dad. I have a terrible accident and I can't go to class. I'm in a hospital, Daddy. Father: You are a good son. You have helped your father out. "
+        ],
+        "ttr": [0.4935064935064935],
+        "perplexity": [1016.29],
+        "mean_perplexity": 1016.29,
+        "mean_ttr": 0.49
+      },
+      "temp-0.3-p-0.9-k-80-rep": {
+        "response": [
+          "Once upon a time  there was a man who was very rich. He had a large mansion and a beautiful wife. But he was in debt. His wife was unhappy with him. She wanted to leave him, but he refused. They had two children. One was born, the other was not. The second child was the son of the rich man. When the second son was grown up, he married the wife of a poor man, and the poor man's son became rich, too. Then the man became very wealthy again. And he lived a long life. A man was rich because he had the right to choose his own fate. If you want to be rich you have to have the power to make your own choices. You have a choice to become rich or to stay poor. We are all in this world to live a life of choice. No one can force you to do anything. There is no one who can make you rich unless you are willing to work for it. This is the secret of being rich: to earn money by doing what you love. I am not saying that you must be a "
+        ],
+        "ttr": [0.5242290748898678],
+        "perplexity": [971.83],
+        "mean_perplexity": 971.83,
+        "mean_ttr": 0.52
+      },
+      "temp-0.3-p-0.6-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a man who was very rich. He had a large fortune. But he was also very poor. And he lived in a small house. His wife was poor, too. They had two children. The boy was born in the rich man's house, and the girl was in his poor house. The rich man was angry. So he called his servants to the poor man's home. Then he ordered them to kill the boy and his wife. Because he had no money to pay for the food. When the servants arrived, they found the house empty. There was nothing left. Only the dead bodies of the two people. In the morning, the man went to his house and found that the children had died. No one was left to feed them. Finally, he went into the kitchen and ordered the cook to make a meal for them, but he could not find any food to cook. After a while, a servant came and told him that he couldn't find anything to eat. At last, when the servant left, there were only two pieces of bread left in front of him. This is the story of "
+        ],
+        "ttr": [0.46956521739130436],
+        "perplexity": [906.7],
+        "mean_perplexity": 906.7,
+        "mean_ttr": 0.47
+      },
+      "temp-0.3-p-0.75-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a boy named John  who was very smart  and he was good at math  but he had a bad habit of drinking  he would drink a lot of beer  then he got drunk and would not sleep  so he went to the hospital and was diagnosed with alcoholism  He was given a prescription for a drug  which he took for three months  after that he started to get better  But he still had the habit  And he continued to drink  John was not able to work  because he could not get a job  at the time he needed it most  So he decided to quit drinking and go back to school  The doctor told him that John had to go to college again because his alcohol addiction was too strong  That is why he is going back  to study math again  After he graduated  the doctor said that  john was going to be a good student  Because he has been a student for so long and had learned a great deal from his studies  Now he will go on to become a teacher  It was John's first time going into college  His first year "
+        ],
+        "ttr": [0.5021834061135371],
+        "perplexity": [863.12],
+        "mean_perplexity": 863.12,
+        "mean_ttr": 0.5
+      },
+      "temp-0.3-p-0.9-k-110-rep": {
+        "response": [
+          "Once upon a time  there was a young man named James Bond  who was an assassin  James bond  is a fictional character in the James... None of the above choices . None . of . the . above . choices . James Bond is an fictitious character . James is not a character of fiction . - None - James - Bond - is - a - fict - - character - in - the - novel - book - `` - The - Spy Who Loved Me - '' - No - Answer - Yes - False - True - true - false - real - Real - Fake - Not - A - Fiction - not - an - actual - person - In - fiction - no - answer - yes - fake - faux - fakes - james - bond - Is - An - Assassin - I - am - NOT - FAST - NO - TRUE - fals - fak - jim - b - e - s - ass - i - man - 0 - 1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 - 15 - 16 - 17 - 18 - 19 - 20 - 21 - 22 - 23 - 24 - 25 - 26 - 27 - 28 - 29 - 30 - 31 - 32 - 33 - 34 - 35 - 36 - 37 - 38 - 39 - 40 - 41 - 42 - 43 - 44 - 45 - 46 - 47 - 48 - 49 - 50 - 51 - 52 - 53 - 54 - 55 - 56 - 57 - 58 - 59 - 60 - 61 - 62 - 63 - 64 - 65 - 66 - 67 - 68 - 69 - 70 - 71 - 72 - 73 - 74 - 75 - 76 - 77 "
+        ],
+        "ttr": [0.47293447293447294],
+        "perplexity": [1771.34],
+        "mean_perplexity": 1771.34,
+        "mean_ttr": 0.47
+      }
+    }
+  }
+]

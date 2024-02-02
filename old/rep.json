@@ -1,0 +1,30 @@
+[
+  {
+    "bigscience/bloom-1b7": {
+      "rp-0.2": {
+        "response": [
+          "Once upon a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time ",
+          "Once upon a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time  a time "
+        ],
+        "ttr": [0.016722408026755852, 0.016722408026755852],
+        "perplexity": [422.34, 422.34],
+        "mean_perplexity": 422.34,
+        "mean_ttr": 0.02
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b7": {
+      "rp-0.2": {
+        "response": [
+          "Once upon a time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a  time  a ",
+          "Once upon a time  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl  a girl "
+        ],
+        "ttr": [0.014245014245014245, 0.020066889632107024],
+        "perplexity": [592.97, 379.55],
+        "mean_perplexity": 486.26,
+        "mean_ttr": 0.02
+      }
+    }
+  }
+]

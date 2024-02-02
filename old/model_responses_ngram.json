@@ -1,0 +1,76 @@
+[
+  {
+    "bigscience/bloom-1b7": {
+      "no-2-ngram": {
+        "ngrams": 2,
+        "response": [
+          "Once upon a time  there was a young prince, who loved the fairest girl he ever saw, the Princess of the Fairest Land. He would have married her had he not fallen in love with a princess who was seven feet tall and a foot nine wide. She was the Queen of Fairyland and the only one who ever loved him truly. The Prince was blind and deaf. One day, he and his friends came to a great fairy village, but as they came near the village gate, there were two princesses waiting outside to welcome them. The first princess was only seven foot tall but the second princess, a fairies queen, was nine foot five and twenty-one inches tall. They were both so beautiful that they couldn't wait to see each other. He asked his friend, \"The king and queen will probably be here any minute.\" \"What could be more beautiful than their shining eyes?\" he asked. \"The Princess Princess will marry you and give you an heir,\" the princess said. \"But how could a prince have eyes like hers? And a girl as beautiful as she is a little girl with no hair. A princess is beautiful and ",
+          "Once upon a time  in the very past I got hitched to a beautiful, hot woman She was just about my age But somehow I liked her That's why I met her parents And we ended up in their backyard Our honeymoon was short-lived A couple of days after our honey moon Her parents moved us to another place They thought the new place was too hot We were moved out One day my husband left the house Then she came back again All dressed up as a ghost Going around the back Playing a trick on me The ghost told me to leave the place that day Why are you standing there? I'm going to go back to where my parents live If I get stuck there, I'll never get out of here What happened? She just left without saying goodbye - I don't know why she's here! - No, I know! I have something for you It's not what you think No, it's not I'm coming with you, you understand? Come on Your boyfriend will be back soon Come, come, I'm right behind you! Let's go! Wait! If you stay here, you'll never see my boyfriend You will, no problem "
+        ],
+        "ttr": [0.5508474576271186, 0.6359649122807017],
+        "perplexity": [550.9, 621.02],
+        "mean_perplexity": 585.96,
+        "mean_ttr": 0.59
+      },
+      "no-3-ngram": {
+        "ngrams": 3,
+        "response": [
+          "Once upon a time  where she didn't know what to do How she would talk to the wind With a smile that never came out How did she make it up to me? All that she never knew to say Her heart had been broken and gone So let's take her out of here To let her find a new beginning In the old world of dreams We may live a long time Let her find out what the world is like Let us go back to where we come from Where the light is so bright So don't let them keep her down Let them keep the world on The wind will pick her up The light will guide her on She will not be alone Let's take her outside To find her new life To her new world To all who want a new start Let's give her the chance Let the world know That she has the chance to change We can get the wind up She can take a walk But we'll get her out Let it be windy And we can be sunny We will get her outside to start her off Let that be ",
+          "Once upon a time  we lived in a pretty small village with two sisters, and one brother. We were very happy and very much in love. Then I noticed that I was getting out of sync. All the time. But I didn't know what that was. I just was getting slower and slower. And I kept telling myself, 'This is it. I need to get back on track'. It's very hard to be yourself in a place where you have no one to share your pain. It takes a lot of courage. It does, actually. I've had it with this place, this place is killing me. Every day is like a funeral, you know? I guess you're just glad it's over. That is, you have to be grateful for the people you've met here. And the people that haven't. You don't have to go on living for these people. You can just make your way. You know? It's just a really sad, lonely life. Do you ever miss your family? I miss them, really. I do, actually, and I'm really trying to make it work. It's hard. But one day I'll be able to say, 'I miss my family, too'. "
+        ],
+        "ttr": [0.5170731707317073, 0.5208333333333334],
+        "perplexity": [639.39, 585.0],
+        "mean_perplexity": 612.19,
+        "mean_ttr": 0.52
+      },
+      "no-4-ngram": {
+        "ngrams": 4,
+        "response": [
+          "Once upon a time  I was here with my parents And I was all alone Now I come back to you My heart beat in my chest My heart beats faster than ever When you say the word love Then I can't help but fall For the simple truth  We all love you And I can't help myself For the love of you I'm all alone The sun comes up And all the stars are shining But I feel the love in my heart Now I just want you But I want you too When you come along All alone on your own Just keep it on and on With love, I love you Now I only want you And I'll be waiting For you I love you I don't know why you love me But when you're in my heart, you always stay For the sweetest feeling in the whole world That's the truth I tell myself That you're the love of my life But I can't help it anymore I'm all right I love the way you do it And I don't know why, but you feel it Now I know, I'm all right I'm all all right ",
+          "Once upon a time  there was a boy  a boy of eight  who was  a  dear  friend to all. One of his best friends, he believed, was a boy of ten, a boy of fourteen, and a boy of sixteen. They all came to visit him on a summer morning, and the boy of eight took the first one to his house. But what he did not know was that the children had all forgotten the boy of ten's name. It was a very nice summer morning, but at the house the children were all busy, and he did not see anyone from his childhood. He was so tired of all that work he decided to sit down and rest for a little. He sat down on the big rock and just gazed out over the sea. He had heard stories of sea monsters. I can't tell you how wonderful it was. There was a monster called \"Fish Tail\". And there was a monster known as \"Fish Lizard\". And all those wonderful fish had different shapes and different names. And I don't know how many different kinds there were. I just knew that one of them was called \"FishTail\". And "
+        ],
+        "ttr": [0.44711538461538464, 0.4769874476987448],
+        "perplexity": [647.51, 588.47],
+        "mean_perplexity": 617.99,
+        "mean_ttr": 0.46
+      }
+    }
+  },
+  {
+    "bigscience/bloomz-1b7": {
+      "no-2-ngram": {
+        "ngrams": 2,
+        "response": [
+          "Once upon a time  the world was spared the dangers of war  until the days of the Cold War. In the past, many countries had been able to develop military capabilities but had not sought to dominate the others. Today, however, the situation is different: Many countries have developed military might, even though they are not powerful enough to deter or block an aggressive war. The United States and its allies are trying to prevent a war in Iraq, for example. Why is this important to know? This will help you understand what it means to be a military power and what a powerful military does. military history and history of weapons, from the early days. As a general, you will be asked to read military sources and to understand the history that made up the military. You will also have to write essays on military strategy and the development of military technology. A general studies history in order to gain an understanding of how the modern military works. Knowing how military culture is formed and developed can help us to learn about the evolution of our military as a culture. Researching military operations and wars, including analysis of strategic ",
+          "Once upon a time  before the great glaciation, two very different and opposite societies existed in the land of Hela, in Asia Minor. The Hellenic society was strong and powerful and was dedicated to the worship of Zeus. But the Greek society  was small and poor and had a respect for the dead. They worshiped Apollo. After the destruction of the Hellas, they called their Greek cities Apollo-Hellas. In Greek mythology, Apollo was the god of fire and light, and they named his city after him. He was born as the son of a married couple. Apollo's mother was Diana, who married Zeus' elder brother, Poseidon. His father was Apollo, a fiery god. Apollon (Greek myth): Apollo (Apollonian myth), the fire-god. Greek hero. Born as son in marriage, his mother Diana married Poseidon: Apolon: Poseid; Apollo: Zeus; Apollo of Olympia. This myth is known as Apollo-Son. Hieronymus Apothanus, poet and author: Heros (Hieron); Apolis (apollos) or Apolo. These Greek names are usually rendered as \"Hero.\" Apollo is the supreme deity of Greek art, music, poetry and drama. According to Hesiod, this is Apollo; he was a man of great talent. Athene: goddess of music and poetry, the sister of Apollo "
+        ],
+        "ttr": [0.5726872246696035, 0.5186440677966102],
+        "perplexity": [928.49, 947.24],
+        "mean_perplexity": 937.86,
+        "mean_ttr": 0.55
+      },
+      "no-3-ngram": {
+        "ngrams": 3,
+        "response": [
+          "Once upon a time  in my youth I was a bad kid. I used to get up at 4.00am and go to school at 4:30. I ate in a fast food restaurant. I was always late for class and never got any friends. But I never gave up. Finally I was successful in school and got a job. The rest is history. But a bad student is just like a bad friend. You can never know what they are going to do next. After a year of studying at university, I am trying to forget about my days of bad behavior. I am hoping to get a new job and start a new life. I hope to become a good student again, but not a bad one. I want to be a better person in life. Now I'm trying to learn how to be good student. How can I learn to become good student? I think it is possible to learn. Some people are born good students, some are born bad students, and others learn to be bad students. To become a bad students is not the best way to learn to read. It is not natural to become poor ",
+          "Once upon a time  the world was ruled by a group of elites who controlled it with an iron fist. The Iron Fists were the elite warriors of the Knights of the Round Table. In order to control the Iron Fist, each Knight needed to be promoted from rank. When someone attained the rank of Knight, they would be granted an Iron Finger, which they could use on all enemies. This Iron Fingers could be used with the weapon The Iron Glove of Karras, which was a large iron claw with a pointed edge. The Knight of the Iron Table was also given a wooden cross and shield that protected his sword. Knights would earn experience and gain access to higher ranks, which could be earned by killing enemies or by gaining points of experience. If the Knight was granted a Knight\u2019s Cross, they could protect their shield and cross. Knight ranks and ranks were based on fighting skills. A Knight of Table would become Master Knight when the Knight\u2019s cross was increased to 3 or higher. Once a Knight was promoted, they were granted an armor piece that changed its color from green to black. Knight armor is made "
+        ],
+        "ttr": [0.4780701754385965, 0.5064377682403434],
+        "perplexity": [891.11, 960.41],
+        "mean_perplexity": 925.76,
+        "mean_ttr": 0.49
+      },
+      "no-4-ngram": {
+        "ngrams": 4,
+        "response": [
+          "Once upon a time  we had our first meeting on Saturday afternoon.  It was a meeting about our school sports team, and our coach was calling the game, and our players weren't there.  Well, they were all unwell and the coach didn't have the time to run a meeting. I decided that since we are going to be absent from practice for a week at least, and this week is the first we haven't been to play, we wanted to find out if anyone else could give us some advice on how to get our team back together. So I sent a message to all the girls in my class (I believe it was 15 of us) asking if any of us could go to the practice. Then I asked them if anyone of them could join me for the practice. My idea was to have the group of girls that were sick at the time, practice together, but at the same time, give some advice. I knew that I could not win this game with just my girls because it would be too easy. It is what it is! It worked! Our team won and we did a great ",
+          "Once upon a time  i used to be a pretty good guy and I was quite shy  but I started dating a girl in high school that was also pretty nice I was in a high school band and was pretty good at it But a lot of times i would talk to her before i could find myself alone I guess i am just not in the right place I don't know if i want to get back together with her but at the moment I would love to be with a guy like you and I guess if that was me I would love for you to start dating me too I am pretty sure that you are also a good guy and someone special If you ever want to date someone i would love to do so but I have no idea what to say... I guess that I could say hi. :* Just so you know I am starting college in a few weeks. I hope you are doing great. :* P.S. I was in another place for a while and can't go back to the old way now. I like your blog! xoxo Anna xxx-xx-xx-XX Annaxxxxxx-xx (This "
+        ],
+        "ttr": [0.5291479820627802, 0.5021834061135371],
+        "perplexity": [898.36, 962.33],
+        "mean_perplexity": 930.34,
+        "mean_ttr": 0.52
+      }
+    }
+  }
+]
